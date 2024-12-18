@@ -79,11 +79,11 @@ export function rendMainContent(prod) {
         sectionGood += `<div class="text-goods-previousPrice">
                           <h3> ${getValuePrice(previousPrice)}</h3>
                         </div>      
-					              <div class="text-goods-price"> ${getValuePrice(price)} <span class="card-unit"> ${unit}</span></div>	
+					              <div class="text-goods-price" > ${getValuePrice(price, baseUnit)} </div>	
                       </div>`;
       } else {
         sectionGood += `     
-						<div class="text-goods-price">${getValuePrice(price)}<span class="card-unit"> ${unit}</span> </div>                   
+						<div class="text-goods-price" >${getValuePrice(price, baseUnit)} </div>                   
         </div>`;
       }     
 
@@ -102,13 +102,13 @@ export function rendMainContent(prod) {
   }
 }
 
-export function getValuePrice(el, sect) {
+export function getValuePrice(el, baseUnit,sect) {
   let elOfFloat = Number(el);
 
   if (elOfFloat) {
-    return "&#8372 "+ parseFloat(el).toFixed(2);
+    return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${baseUnit}</span>`;
   } else {
-    return "<span style='font-size: clamp(0.8rem, 0.1rem + 1.96vw, 1.4rem); text-align: center' >Ціна:<br> за домовленістю</span>";
+    return "<span style='text-align: center' >Ціна<br> за домовленістю</span>";
   }
 }
 
