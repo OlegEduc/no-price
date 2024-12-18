@@ -108,7 +108,7 @@ export function getValuePrice(el, baseUnit,sect) {
   if (elOfFloat) {
     return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${baseUnit}</span>`;
   } else {
-    return "<span style='text-align: center' >Ціна<br> за домовленістю</span>";
+    return "<span style='width: 100%; text-align: center' >Ціна<br> за домовленістю</span>";
   }
 }
 
