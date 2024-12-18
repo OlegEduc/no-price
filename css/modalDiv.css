@@ -1,0 +1,127 @@
+.modal-wrapper {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, .3);
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .4s, visibility .4s;
+    user-select: none;
+}
+
+.modal-wrapper.open {
+    visibility: visible;
+    opacity: 1;
+}
+
+.modal {
+    flex-direction: column;
+    position: relative;
+    height: 70%;
+    justify-content: start;
+    align-items: center;
+    box-shadow: 0px 0px 25px 7px rgba(34, 60, 80, 0.6);
+    transform: scale(0);
+    transition: transform .8s;
+    overflow: hidden;
+}
+
+.modal-wrapper.open .modal {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    transform: scale(1);
+    background-color: #fff;
+    height: 70%;
+    width: 30%;
+    border-radius: 2vh;
+}
+
+.modal-btn-close {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 30px;
+    width: 30px;
+    font-size: 1.5rem;
+    color: gray;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0px 0px 15px 3px rgba(34, 60, 80, 0.6);
+}
+
+.modal-btn-close:hover {
+    color: blue;
+    font-weight: bold;
+    scale: 1.1;
+}
+
+.modal-img {
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+    border-radius: 5%;
+    width: auto;
+    max-height: 90vh;
+    top: 20%;
+    /* box-shadow: 0px 0px 25px 7px rgba(34, 60, 80, 0.6); */
+}
+
+.modal .text-goods-name {
+    font-size: clamp(1.5rem, 0.5rem + 0.89vw, 2rem);
+}
+
+.modal .text-goods-price {
+    display: flex;
+    height: 10%;
+    width: 100%;
+    font-size: 2rem;
+    align-items: end;
+    justify-content: center;
+}
+
+
+@media screen and (max-width: 960px) {
+    .modal-wrapper.open .modal {
+        height: 90%;
+    }
+
+    .modal-img {
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: 65%;
+        border-radius: 5%;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .modal-wrapper {
+        height: 100vh;
+    }
+
+    .modal-wrapper.open .modal {
+        height: 70%;
+        width: 80%;
+    }
+
+    .modal-img {
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: 80%;
+        border-radius: 5%;
+    }
+
+    .modal .text-goods-price {
+        font-size: 3rem;
+    }
+}

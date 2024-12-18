@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+	<title>food-trade</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0" />
+	<meta name="keywords"
+		content="food-trade, продукти харчування , олія, продукты питания оптом, кондитерські вироби" />
+	<meta name="robots" content="index, follow" />
+	<link rel="shortcut icon" href="image/logo-food-trade-icon2.png" />
+	<link rel="stylesheet" href="./css/GeneralStyle.css" />
+	<link rel="stylesheet" href="./css/GeneralStyle-mobile.css">
+	<link rel="stylesheet" href="./css/AdaptiveNavigationPanel.css" />
+	<link rel="stylesheet" href="./css/modalDiv.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+
+<body>
+
+	<div class="wrapper">
+		<div class="header">
+			<div class="logo">
+				<img src="https:\/\/olegeduc.github.io\/food-trade\/image\/logo-food-trade.png" alt="Logo food-trade">
+			</div>
+
+			<nav class="navigation">
+				<div class="topnav" id="myTopnav">
+					<a href="./index.html" class="active">Каталог</a>
+					<a href="./aboutUs.html">Про нас</a>
+					<a class="icon" onclick="myFunction()">&#9776;</a>
+					<div class="dropdown">
+						<button class="dropbtn">
+							Контакти
+							<i class="fa fa-caret-down"></i>
+						</button>
+						<div class="dropdown-content-contacts">
+							<br /><span>Олександр</span>
+							<a href="tel:+380732000070"> +38(073)200-00-70</a>
+							<a href="tel:+380960780188"> +38(096)078-01-88</a>
+							<span>Юлія</span>
+							<a href="tel:+380937859702"> +38(093)785-97-02</a>
+							<a href="tel:+380686641855"> +38(068)664-18-55</a>
+							<span>Оксана</span>
+							<a href="tel:+380638886067"> +38(063)888-60-67</a>
+							<a href="tel:+380978761138"> +38(097)876-11-38</a>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</div>
+		<div class="sidebar"></div>
+
+		<div class="content">
+<!-- 			<p class="anouns">
+				Шановні клієнти! <br> Просимо Вас робити замовлення з урахуванням того, що <br><b style="color:rgb(255, 27, 27); text-decoration: underline">з 24.08.2024 до 02.09.2024р 
+				підприємство  ПРАЦЮВАТИ НЕ БУДЕ. </b> <br>Просимо з розумінням поставитись до тимчасових незручностей.
+			</p> -->
+		</div>
+			<div class="footer">
+			<div class="dropdown ">
+				<button id="btn-category">
+					Категорії
+					<i style="padding: 0 5px ;" class="fa fa-caret-up"> </i>
+				</button>
+				<div class="sidebar-dropdown hidedElement">
+				</div>
+				<button id="btn-search">
+					Пошук
+				</button>
+			</div>
+			<div class="search ">
+				<input id="search-input" type="text" placeholder="Пошук" />
+				<button id="btn-search-clear">Очистити</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- модальное окно для увеличения карточки товара -->
+	<div class="modal-wrapper">		
+	</div>
+	<!-- /модальное окно для увеличения карточки товара -->
+
+	<script type="module" src="./js/ElemSizeControl.js"></script>
+	<script src="./js/AdaptiveNavigationPanel.js"></script>
+	<script type="module" src="./js/productObject.js"></script>
+	<script type="module" src="./js/searchProductOfName.js"></script>
+	<script type="module" src="./js/main.js"></script>
+	<script type="module" src="./js/modalDiv.js"></script>
+
+
+</body>
+
+
+</html>
