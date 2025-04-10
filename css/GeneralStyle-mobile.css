@@ -83,4 +83,13 @@
   .sidebar {
     display: none;
   }
+
+  .promotion {
+    height: auto;
+  }
+
+  .promotion-img {
+    height: auto;
+    width: 100%; 
+  }
 }
