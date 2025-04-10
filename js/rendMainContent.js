@@ -1,4 +1,4 @@
-import { products, productCategorys, anouns} from "./productObject.js";
+import { products, productCategorys, anouns } from "./productObject.js";
 import {
   rendSidebarContent,
   rendSidebarDropdownContent,
@@ -31,16 +31,24 @@ export function rendMainContent(prod) {
   let category;
 
   if (anouns.length) {
-    let anounsDiv = '';
-    for (let i=0; i < anouns.length; i++) {
+    let anounsDiv = "";
+    for (let i = 0; i < anouns.length; i++) {
       anounsDiv += `
       <p class="anouns">
         ${anouns[i]}
-      </p>`
+      </p>`;
     }
     place.innerHTML = anounsDiv;
   }
 
+  place.innerHTML = `<div class="promotion">
+				<img class="promotion-img" src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
+			</div>`;
+
+  // картинка акции
+  // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
+  //                                            <img class="img-action" src="https://olegeduc.github.io/food-trade/image/action/action-grechka-1kg-3.jpg">
+  //                                       </div> `;
   // перебираем все ключи верхнего уровня вложенности products
   for (let i = 0; i < prodLevelOne.length; i++) {
     // категория товара
@@ -71,21 +79,27 @@ export function rendMainContent(prod) {
 					</div>
 					<div class="text-goods-wrapper">
 						<div class="text-goods-name">${productName} 
-						<div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div> 
+						<div class="text-min-qty"> від ${minCountUnit} ${baseUnit}  </div> 
           </div> `;
-     
+      /* <div class="text-min-qty ${Number(price) ? "" : " hidedElement"}"> від ${minCountUnit} ${baseUnit}  </div>  */
 
       if (parseFloat(previousPrice) > parseFloat(price)) {
         sectionGood += `<div class="text-goods-previousPrice">
                           <h3> ${getValuePrice(previousPrice)}</h3>
                         </div>      
-					              <div class="text-goods-price" > ${getValuePrice(price, baseUnit)} </div>	
+					              <div class="text-goods-price" > ${getValuePrice(
+                          price,
+                          unit
+                        )} </div>	
                       </div>`;
       } else {
         sectionGood += `     
-						<div class="text-goods-price" >${getValuePrice(price, baseUnit)} </div>                   
+						<div class="text-goods-price" >${getValuePrice(
+              price,
+              unit
+            )} </div>                   
         </div>`;
-      }     
+      }
 
       place.insertAdjacentHTML("beforeEnd", sectionGood);
     }
@@ -102,13 +116,15 @@ export function rendMainContent(prod) {
   }
 }
 
-export function getValuePrice(el, baseUnit,sect) {
+export function getValuePrice(el, baseUnit, sect) {
   let elOfFloat = Number(el);
 
   if (elOfFloat) {
-    return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${baseUnit ? baseUnit : ""}</span>`;
+    return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${
+      baseUnit ? baseUnit : ""
+    }</span>`;
   } else {
-    return "<span style='width: 100%; text-align: center' >Ціна<br> за домовленістю</span>";
+    return "<span style='width: 100%; text-align: center' >Ціна за домовленістю</span>";
   }
 }
 
