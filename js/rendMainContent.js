@@ -41,9 +41,9 @@ export function rendMainContent(prod) {
     place.innerHTML = anounsDiv;
   }
 
-  place.innerHTML = `<div class="promotion">
-				<img class="promotion-img" src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
-			</div>`;
+  // place.innerHTML = `<div class="promotion">
+		// 		<img class="promotion-img" src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
+		// 	</div>`;
 
   // картинка акции
   // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
