@@ -1,4 +1,4 @@
-// оновлено 09.09.25: 20:37:15.  Категория цены: БЕЗ ЦЕН //
+// оновлено 09.09.25: 20:50:31.  Категория цены: БЕЗ ЦЕН //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -132,7 +132,7 @@ export const products = {
 		"10" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4323",
-			"productFullName" : "Батончик ТМ \"ROSHEN\"арахісова начинка 38 г.(зелений)",
+			"productFullName" : "Батончик ТМ \"ROSHEN\" арахісова начинка 38 г.(зелений)",
 			"productName" : "Батончик Рошен арахісова начинка 38 г.(зелений)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -4776,7 +4776,7 @@ export const products = {
 		"340" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "3505",
-			"productFullName" : "Макаронні вироби Вороніж мікс 1 кг.синя уп.)",
+			"productFullName" : "Макаронні вироби \"Воронізькі\" мікс 1 кг.",
 			"productName" : "Макаронні вироби Вороніж мікс 1 кг. (синя уп.)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -4785,7 +4785,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaroni-voroniz'ki-1-kg.jpg",
 			},
 		"341" :  { 
 			"category" : "Макаронні вироби",
