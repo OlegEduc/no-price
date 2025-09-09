@@ -1,121 +1,37 @@
-// оновлено 09.09.25: 20:11:01.  Категория цены: БЕЗ ЦЕН //
+// оновлено 09.09.25: 20:13:18.  Категория цены: БЕЗ ЦЕН //
 export const products = {
-	"SHvidkogo-prigotuvannja" : {
+	"Suhofrukti-gorihi" : {
 		"1" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "2798",
-			"productFullName" : "Вермішель ТМ \"Golden Dragon\" МІКС 65г.",
-			"productName" : "Вермішель Golden Dragon  Мікс",
+			"category" : "Сухофрукти, горіхи",
+			"productCode" : "3841",
+			"productFullName" : "Родзинки 1кг",
+			"productName" : "Ізюм 1кг фас.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
 			"previousPrice" : "",
 			"price" : "",
-			"minCountUnit" : "104",
+			"minCountUnit" : "10",
 			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-golden-dragon-miks.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
 			},
 		"2" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "2799",
-			"productFullName" : "Вермішель ТМ \"Golden Dragon\" курка (не гостра),65г.",
-			"productName" : "Вермішель Golden Dragon Курка",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
+			"category" : "Сухофрукти, горіхи",
+			"productCode" : "3405",
+			"productFullName" : "Сухофрукти (вир.Україна)",
+			"productName" : "Сухофрукти Україна вагові (сухофрукти)",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
 			"coefficient" : "1",
 			"previousPrice" : "",
 			"price" : "",
-			"minCountUnit" : "104",
+			"minCountUnit" : "5",
 			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-kurka-negostra-golden-dragon-65g.jpg",
-			},
-		"3" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "2879",
-			"productFullName" : "Вермішель Rooltick мікс",
-			"productName" : "Вермішель Ролтік мікс 55г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "104",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-roltik-miks.jpg",
-			},
-		"4" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "3306",
-			"productFullName" : "Пюре картопляне Golden Dragon смак грибів 37 г",
-			"productName" : "Пюре картопляне Golden Dragon смак грибів 37 г",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "24",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pjure-kartopl-golden-dragon-gribi.jpg",
-			},
-		"5" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "3203",
-			"productFullName" : "Суп \"Street Soup\" гороховий",
-			"productName" : "Суп Street Soup гороховий",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "10",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
-			},
-		"6" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "3209",
-			"productFullName" : "Суп \"Street Soup\" гороховий з куркою",
-			"productName" : "Суп Street Soup гороховий з куркою",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "10",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
-			},
-		"7" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "3204",
-			"productFullName" : "Суп \"Street Soup\" гороховий з яловичиною",
-			"productName" : "Суп Street Soup гороховий з яловичиною",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "10",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-jalovichina.jpg",
-			},
-		"8" :  { 
-			"category" : "Швидкого приготування",
-			"productCode" : "3205",
-			"productFullName" : "Суп \"Street Soup\" грибний",
-			"productName" : "Суп Street Soup грибний",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "10",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gribnij.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
 			},
 	},
 	"Gosptovari" : {
-		"9" :  { 
+		"3" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "77",
 			"productFullName" : "Папір туал. \"Кохавинка\"",
@@ -129,7 +45,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
 			},
-		"10" :  { 
+		"4" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1207",
 			"productFullName" : "Папір туал. \"Ласка\"",
@@ -143,7 +59,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-laska.jpg",
 			},
-		"11" :  { 
+		"5" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "82",
 			"productFullName" : "Папір туал. \"Обухов\" в П\/Е",
@@ -157,7 +73,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/obuhov.jpg",
 			},
-		"12" :  { 
+		"6" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "85",
 			"productFullName" : "Папір туалетний \"Санпа\"",
@@ -171,7 +87,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/85-papir-tualetnij-sanpa-.jpg",
 			},
-		"13" :  { 
+		"7" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "86",
 			"productFullName" : "Папір туал. \"Леста\" мала",
@@ -185,7 +101,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-chernigiv-mala.jpg",
 			},
-		"14" :  { 
+		"8" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2866",
 			"productFullName" : "Папір офісний А4 \"ЕСО\" 500 аркушів",
@@ -199,7 +115,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/papir-ofisnij-a4-eso-500-arkushiv.jpg",
 			},
-		"15" :  { 
+		"9" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "220",
 			"productFullName" : "Запальничка \"ReD MaC\" п'єзо чорна",
@@ -213,7 +129,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-pjezo-chorna.jpg",
 			},
-		"16" :  { 
+		"10" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "216",
 			"productFullName" : "Запальничка \"ReD MaC\" турбо чорна",
@@ -227,7 +143,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-turbo-chorna.jpg",
 			},
-		"17" :  { 
+		"11" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1541",
 			"productFullName" : "Лампа розжарювання Е27 60Вт",
@@ -241,7 +157,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1541-lampa-nakaljuvannja-e27-60vt.jpg",
 			},
-		"18" :  { 
+		"12" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "802",
 			"productFullName" : "Пергамент 6 м.",
@@ -255,7 +171,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-6-m.jpg",
 			},
-		"19" :  { 
+		"13" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "4072",
 			"productFullName" : "Пергамент БІЛИЙ  6 м.",
@@ -269,7 +185,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-bilij-6-m.jpg",
 			},
-		"20" :  { 
+		"14" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "839",
 			"productFullName" : "Плівка стретч харчова ПЕТ 100 гр.",
@@ -283,7 +199,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-100g.jpg",
 			},
-		"21" :  { 
+		"15" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "840",
 			"productFullName" : "Плівка стретч харчова ПЕТ 300гр.",
@@ -297,7 +213,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
 			},
-		"22" :  { 
+		"16" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1170",
 			"productFullName" : "Рукав для запікання 3 м.",
@@ -311,7 +227,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
 			},
-		"23" :  { 
+		"17" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "924",
 			"productFullName" : "Свічки столові",
@@ -325,7 +241,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/svichki-stolovi.jpg",
 			},
-		"24" :  { 
+		"18" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "928",
 			"productFullName" : "Серветки білі Лілія 30 листов",
@@ -339,7 +255,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-bili-lilija-30-listov.jpg",
 			},
-		"25" :  { 
+		"19" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "2706",
 			"productFullName" : "Серветки вологі 15 шт.",
@@ -353,7 +269,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-vologi-15-sht.jpg",
 			},
-		"26" :  { 
+		"20" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "3342",
 			"productFullName" : "Сірники \"Червоний мак\" Індія",
@@ -367,7 +283,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-indija-chervonij-mak-10sht.jpg",
 			},
-		"27" :  { 
+		"21" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "951",
 			"productFullName" : "Сірники Україна 10шт",
@@ -381,7 +297,7 @@ export const products = {
 			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-ukraina.jpg",
 			},
-		"28" :  { 
+		"22" :  { 
 			"category" : "Госп.товари",
 			"productCode" : "1019",
 			"productFullName" : "Фольга 3 м.",
@@ -401,7 +317,7 @@ export const products = {
 
 
 export const productCategorys = {
-	"SHvidkogo-prigotuvannja" : "Швидкого приготування",
+	"Suhofrukti-gorihi" : "Сухофрукти, горіхи",
 	"Gosptovari" : "Госп.товари",
  }
 
