@@ -1,4 +1,4 @@
-// оновлено 09.09.25: 11:10:46.  Категория цены: БЕЗ ЦЕН //
+// оновлено 09.09.25: 11:36:25.  Категория цены: БЕЗ ЦЕН //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -1910,7 +1910,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "5",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-elou-lejbl-lipton-25-2g.jpg",
 			},
 		"137" :  { 
@@ -2978,7 +2978,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "25",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4256-sil-fasovana-tm-kristal-1kg.jpg",
 			},
 		"213" :  { 
@@ -5164,7 +5164,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "12",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pit-bull-jagidnij-pet-1-l.jpg",
 			},
 		"368" :  { 
@@ -5178,7 +5178,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "6",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\kvas-mirnenskij-bochkovij-2-l.jpg",
 			},
 		"369" :  { 
@@ -5948,7 +5948,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-abrikosovij.jpg",
 			},
 		"424" :  { 
@@ -5976,7 +5976,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-grushovij.jpg",
 			},
 		"426" :  { 
@@ -5990,7 +5990,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-persikovij.jpg",
 			},
 		"427" :  { 
@@ -6004,7 +6004,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-tomatnij.jpg",
 			},
 		"428" :  { 
@@ -6018,7 +6018,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchnij.jpg",
 			},
 		"429" :  { 
@@ -6032,7 +6032,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-vinograd-jabluchnij.jpg",
 			},
 		"430" :  { 
@@ -6046,7 +6046,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "11",
-			"promotion" : "2",
+			"promotion" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-polunichnij.jpg",
 			},
 	},
@@ -6786,7 +6786,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "15",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-048-l-tvist.jpg",
 			},
 		"483" :  { 
@@ -6814,7 +6814,7 @@ export const products = {
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "12",
-			"promotion" : "1",
+			"promotion" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-1l-tvist.jpg",
 			},
 		"485" :  { 
