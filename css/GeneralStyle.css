@@ -234,7 +234,7 @@ body {
 
 .text-goods-wrapper {
   display: grid;
-  grid-template-rows: auto auto;
+  grid-template-rows: auto 30%;
 }
 
 .text-goods-name {
