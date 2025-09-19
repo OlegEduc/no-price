@@ -1,21 +1,7 @@
-// оновлено 19.09.25: 16:08:56.  Категория цены: БезЦен //
+// оновлено 19.09.25: 21:08:28.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4327"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4327",
-			"productFullName" : "Цукерки \"UNREAL with jelly\" суфле + желе  ТМ\"Добрий смак\"",
-			"productName" : "Цук UNREAL with jelly суфле + желе  экран 2,5 кг",
-			"unit" : "кг.",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "2.5",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4327-cukerki-unreal-sufle-gele-v-shokoladi.jpg",
-			},
-		"2-4325"  :  { 
+		"1-4325"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4325",
 			"productFullName" : "Цукерки \"UNREAL\" суфле в шоколаді ТМ\"Добрий смак\"",
@@ -27,7 +13,23 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4325-cukerki-unreal-sufle-v-shokoladi.jpg",
+			},
+		"2-4327"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4327",
+			"productFullName" : "Цукерки \"UNREAL with jelly\" суфле + желе  ТМ\"Добрий смак\"",
+			"productName" : "Цук UNREAL with jelly суфле + желе  экран 2,5 кг",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "2.5",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4327-cukerki-unreal-sufle-gele-v-shokoladi.jpg",
 			},
 		"3-4329"  :  { 
 			"category" : "Кондитерські вироби",
@@ -41,6 +43,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4329-cukerki-ptashine-moloko-limonne.jpg",
 			},
 		"4-4328"  :  { 
@@ -55,21 +58,8 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4328-cukerki-ptashine-moloko-polunichne.jpg",
-			},
-		"5-2661"  :  { 
-			"category" : "Молочна прод-я, масло",
-			"productCode" : "2661",
-			"productFullName" : "Молоко ТМ \"Галичина\" 2,5% 900г ультрапастеризоване",
-			"productName" : "Молоко Галичина т\/ф питне ультрапак 2,5% 900г",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "15",
-			"promotion" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
 			},
 	},
 	"Olija" : {
@@ -85,6 +75,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "9",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1741-olija-bokarjev-nerafinovana-1l.jpg",
 			},
 		"2" :  { 
@@ -99,6 +90,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
 			},
 		"3" :  { 
@@ -113,6 +105,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "9",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-760-ml.jpg",
 			},
 		"4" :  { 
@@ -127,6 +120,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-gurman-neraf-2l.jpg",
 			},
 		"5" :  { 
@@ -141,6 +135,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "9",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1782-olija-bokarjev-rafinovana-1l.jpg",
 			},
 		"6" :  { 
@@ -155,6 +150,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/729-olija-tm-bokarjev-3l-rafinovana.jpg",
 			},
 		"7" :  { 
@@ -169,6 +165,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
 			},
 	},
@@ -185,6 +182,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4322-batonchik-tm-roshen-krem-brjulle-43-gsinij.jpg",
 			},
 		"9" :  { 
@@ -199,6 +197,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2569-batonchik-tm-roshen-pomadno-shok-gchervonij.jpg",
 			},
 		"10" :  { 
@@ -213,6 +212,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
 			},
 		"11" :  { 
@@ -227,6 +227,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
 			},
 		"12" :  { 
@@ -241,6 +242,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
 			},
 		"13" :  { 
@@ -255,6 +257,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\goll'ski-miio-prjazhenogo-moloka.jpg",
 			},
 		"14" :  { 
@@ -269,6 +272,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "14",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
 			},
 		"15" :  { 
@@ -283,6 +287,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "18",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
 			},
 		"16" :  { 
@@ -297,6 +302,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "18",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
 			},
 		"17" :  { 
@@ -311,6 +317,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-mali-lekorna.jpg",
 			},
 		"18" :  { 
@@ -325,6 +332,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "26",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzinki-lekorna-26-sht.jpg",
 			},
 		"19" :  { 
@@ -339,6 +347,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "14",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-trubochki-lekorna-26-sht.jpg",
 			},
 		"20" :  { 
@@ -353,6 +362,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\vafli-nektar-artek-sonjachn-3kg.jpg",
 			},
 		"21" :  { 
@@ -367,6 +377,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\vafli-artek-sonjachn-nektar.jpg",
 			},
 		"22" :  { 
@@ -381,6 +392,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\vafli-artek-jevropejskij-4-kg-hzpt.jpg",
 			},
 		"23" :  { 
@@ -395,6 +407,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\vafli-molochni-70-nektar.jpg",
 			},
 		"24" :  { 
@@ -409,6 +422,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3439-karamel-tm-bayan-sulu-grejpfrut-1-kg.jpg",
 			},
 		"25" :  { 
@@ -423,6 +437,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3459-karamel-mini-tm-bayan-sulu-drinks-ass-1-kg.jpg",
 			},
 		"26" :  { 
@@ -437,6 +452,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3457-karamel-tm-bayan-sulu-mini-fruit-ass-1-kg.jpg",
 			},
 		"27" :  { 
@@ -451,6 +467,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3458-karamel-mini-tm-bayan-sulu-meksikano-ass-1-kg.jpg",
 			},
 		"28" :  { 
@@ -465,6 +482,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3440-karamel-tm-bayan-sulu-apelsin-1-kg.jpg",
 			},
 		"29" :  { 
@@ -479,6 +497,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3441-karamel-tm-bayan-sulu-banan-1-kg.jpg",
 			},
 		"30" :  { 
@@ -493,6 +512,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3445-karamel-tm-bayan-sulu-zhuravlina-1-kg.jpg",
 			},
 		"31" :  { 
@@ -507,6 +527,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3437-karamel-tm-bayan-sulu-zlitna-1-kg.jpg",
 			},
 		"32" :  { 
@@ -521,6 +542,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mersi-medovik-2.jpg",
 			},
 		"33" :  { 
@@ -535,6 +557,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-70-g.jpg",
 			},
 		"34" :  { 
@@ -549,6 +572,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-v-shokoladnij-glazuri-85-g.jpg",
 			},
 		"35" :  { 
@@ -563,6 +587,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-zebra-z-kakao-70g.jpg",
 			},
 		"36" :  { 
@@ -577,6 +602,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
 			},
 		"37" :  { 
@@ -591,6 +617,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-330-g.jpg",
 			},
 		"38" :  { 
@@ -605,6 +632,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
 			},
 		"39" :  { 
@@ -619,6 +647,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5-zebra.jpg",
 			},
 		"40" :  { 
@@ -633,6 +662,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
 			},
 		"41" :  { 
@@ -647,6 +677,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-330-g-z-gorihami.jpg",
 			},
 		"42" :  { 
@@ -661,6 +692,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-coffee-art.jpg",
 			},
 		"43" :  { 
@@ -675,6 +707,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-grispini.jpg",
 			},
 		"44" :  { 
@@ -689,6 +722,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cuk-para-truff-glazur-15-kggolski.jpg",
 			},
 		"45" :  { 
@@ -703,6 +737,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-paratruff-nut.jpg",
 			},
 		"46" :  { 
@@ -717,6 +752,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-zguschene-moloko.jpg",
 			},
 		"47" :  { 
@@ -731,6 +767,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-kavovij-trjufel'.jpg",
 			},
 		"48" :  { 
@@ -745,6 +782,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-lisgorih.jpg",
 			},
 		"49" :  { 
@@ -759,6 +797,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-trjufel'.jpg",
 			},
 		"50" :  { 
@@ -773,6 +812,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cuk-truffel-milk-2-kggolski.jpg",
 			},
 		"51" :  { 
@@ -787,6 +827,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4327-cukerki-unreal-sufle-gele-v-shokoladi.jpg",
 			},
 		"52" :  { 
@@ -801,6 +842,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4325-cukerki-unreal-sufle-v-shokoladi.jpg",
 			},
 		"53" :  { 
@@ -815,6 +857,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-amerikana.jpg",
 			},
 		"54" :  { 
@@ -829,6 +872,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-babusini-smakoliki.jpg",
 			},
 		"55" :  { 
@@ -843,6 +887,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-bilochka.jpg",
 			},
 		"56" :  { 
@@ -857,6 +902,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\nektar-kazkovij-guliver.jpg",
 			},
 		"57" :  { 
@@ -871,6 +917,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-ananas-hzpt.jpg",
 			},
 		"58" :  { 
@@ -885,6 +932,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-assorti-multiki-flpak-jekran-25-k.jpg",
 			},
 		"59" :  { 
@@ -899,6 +947,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-asorti-retro-hzpt.jpg",
 			},
 		"60" :  { 
@@ -913,6 +962,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-bilochka-hzpt.jpg",
 			},
 		"61" :  { 
@@ -927,6 +977,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-guliver-hzpt.jpg",
 			},
 		"62" :  { 
@@ -941,6 +992,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1911-cukerki-dlja-bilosnizhki.jpg",
 			},
 		"63" :  { 
@@ -955,6 +1007,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1913-cukerki-vinni-puha.jpg",
 			},
 		"64" :  { 
@@ -969,6 +1022,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1909-cukerki-dlja-popeljushki.jpg",
 			},
 		"65" :  { 
@@ -983,6 +1037,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1908-cukerki-chervonoi-shapochki.jpg",
 			},
 		"66" :  { 
@@ -997,6 +1052,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-kara-kum-hzpt.jpg",
 			},
 		"67" :  { 
@@ -1011,6 +1067,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-chervonij-mak-hzpt.jpg",
 			},
 		"68" :  { 
@@ -1025,6 +1082,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4315-cukerki-vafelni-labubu.jpg",
 			},
 		"69" :  { 
@@ -1039,6 +1097,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-mishka-klishonogij-hzpt.jpg",
 			},
 		"70" :  { 
@@ -1053,6 +1112,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-svinka-pepa-hzpt.jpg",
 			},
 		"71" :  { 
@@ -1067,6 +1127,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-fiksika-hzpt.jpg",
 			},
 		"72" :  { 
@@ -1081,6 +1142,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-charivna-istorija-flpak-jekran-1-kg.jpg",
 			},
 		"73" :  { 
@@ -1095,6 +1157,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-coco.jpg",
 			},
 		"74" :  { 
@@ -1109,6 +1172,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-nut.jpg",
 			},
 		"75" :  { 
@@ -1123,6 +1187,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-tiramisu.jpg",
 			},
 		"76" :  { 
@@ -1137,6 +1202,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cukerki-truffa-glazur-17-kggolski.jpg",
 			},
 		"77" :  { 
@@ -1151,6 +1217,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.7",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-truffel.jpg",
 			},
 		"78" :  { 
@@ -1165,6 +1232,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3519-cukerki-kara-kum-glazur-22-kgtm-golski-.jpg",
 			},
 		"79" :  { 
@@ -1179,6 +1247,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-nutsi-batton.jpg",
 			},
 		"80" :  { 
@@ -1193,6 +1262,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4329-cukerki-ptashine-moloko-limonne.jpg",
 			},
 		"81" :  { 
@@ -1207,6 +1277,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\4328-cukerki-ptashine-moloko-polunichne.jpg",
 			},
 		"82" :  { 
@@ -1221,6 +1292,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3970-cukekri-rumjanok-smak-romu-22-kgtm-golski-.jpg",
 			},
 		"83" :  { 
@@ -1235,6 +1307,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\cukerki-ukraina-ce-mi-glazur-15-kg-golski.jpg",
 			},
 		"84" :  { 
@@ -1249,6 +1322,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\golski-chervonij-mak.jpg",
 			},
 		"85" :  { 
@@ -1263,6 +1337,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-choki-batton.jpg",
 			},
 	},
@@ -1279,6 +1354,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
 			},
 		"87" :  { 
@@ -1293,6 +1369,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4272-pechivo-vivsjane-tm-rajgorodskij-korovaj-25kg.jpg",
 			},
 		"88" :  { 
@@ -1307,6 +1384,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3.4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4310-pechivo-cukrove-krapka-vanili.jpg",
 			},
 		"89" :  { 
@@ -1321,6 +1399,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3.4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4311-pechivo-cukrove-krapka-kakao.jpg",
 			},
 		"90" :  { 
@@ -1335,6 +1414,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4309-pechivo-cukrove-podilske-rodzink.jpg",
 			},
 		"91" :  { 
@@ -1349,6 +1429,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4.5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
 			},
 		"92" :  { 
@@ -1363,6 +1444,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
 			},
 		"93" :  { 
@@ -1377,6 +1459,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
 			},
 		"94" :  { 
@@ -1391,6 +1474,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
 			},
 		"95" :  { 
@@ -1405,6 +1489,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
 			},
 		"96" :  { 
@@ -1419,6 +1504,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4277-sushka-ljubitelska-tm-rajgorodskij-2kg.jpg",
 			},
 		"97" :  { 
@@ -1433,6 +1519,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4278-sushka-maljutka-tm-rajgorodskij-2kg.jpg",
 			},
 		"98" :  { 
@@ -1447,6 +1534,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4281-sushka-vanilna-chovnik-tm-rajgorodskij-0350-kg.jpg",
 			},
 		"99" :  { 
@@ -1461,6 +1549,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4280-sushka-chovnik-tm-rajgorodskij-2kg.jpg",
 			},
 		"100" :  { 
@@ -1475,6 +1564,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudz-boo-sticks-maxi-z-mol-smak-1-3-kg.jpg",
 			},
 		"101" :  { 
@@ -1489,6 +1579,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1.3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudz-boo-sticks-maxi-z-shok-smak-1-3-kg-2.jpg",
 			},
 		"102" :  { 
@@ -1503,6 +1594,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/trubochki-kukurudzjani-boo-sticks-z-molochnim-smakom-2-kg.jpg",
 			},
 		"103" :  { 
@@ -1517,6 +1609,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudzjani-boo-sticks-z-smakom-tiramisu-2-kg.jpg",
 			},
 	},
@@ -1533,6 +1626,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/lavazza\\kava-lavazza-oro-250.jpg",
 			},
 		"105" :  { 
@@ -1547,6 +1641,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4320-kava-lavazza-rossa-chervona-mel-250g.jpg",
 			},
 		"106" :  { 
@@ -1561,6 +1656,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-v-zernah-ducale-palermo-1-kg.jpg",
 			},
 		"107" :  { 
@@ -1575,6 +1671,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\4317-kofe-v-zernah-tm-mason-espresso-1-kg.jpg",
 			},
 		"108" :  { 
@@ -1589,6 +1686,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-vagova-1-kg.jpg",
 			},
 		"109" :  { 
@@ -1603,6 +1701,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-e-p-100-g.jpg",
 			},
 		"110" :  { 
@@ -1617,6 +1716,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-zhb-50-g.jpg",
 			},
 		"111" :  { 
@@ -1631,6 +1731,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-elit-fort-mel-mu-100-gr.jpg",
 			},
 		"112" :  { 
@@ -1645,6 +1746,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-mak-kofe-original-3v1-var2.jpg",
 			},
 		"113" :  { 
@@ -1659,6 +1761,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-mel-espresso-l'vivs'ka-225-g.jpg",
 			},
 		"114" :  { 
@@ -1673,6 +1776,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-mel-kava-zi-l'vova-l'vivs'ka-225-g.jpg",
 			},
 		"115" :  { 
@@ -1687,6 +1791,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-mel-mason-espresso-225-g-vu.jpg",
 			},
 		"116" :  { 
@@ -1701,6 +1806,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\269-kava-neskafe-ctrong-3v1-12g.jpg",
 			},
 		"117" :  { 
@@ -1715,6 +1821,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\271-kava-neskafe-turbo-3v1-12g.jpg",
 			},
 		"118" :  { 
@@ -1729,6 +1836,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\270-kava-nescafe-original-3v1-12g.jpg",
 			},
 		"119" :  { 
@@ -1743,6 +1851,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-gold-e-p-50gr.jpg",
 			},
 		"120" :  { 
@@ -1757,6 +1866,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-e-p-120-gr.jpg",
 			},
 		"121" :  { 
@@ -1771,6 +1881,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-e-p-60gr.jpg",
 			},
 		"122" :  { 
@@ -1785,6 +1896,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-stik-2gr.jpg",
 			},
 		"123" :  { 
@@ -1799,6 +1911,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-karamel'.jpg",
 			},
 		"124" :  { 
@@ -1813,6 +1926,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-vishnja.jpg",
 			},
 		"125" :  { 
@@ -1827,6 +1941,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-klasichnij.jpg",
 			},
 		"126" :  { 
@@ -1841,6 +1956,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-lisovij-gorih.jpg",
 			},
 		"127" :  { 
@@ -1855,6 +1971,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-migdal'.jpg",
 			},
 		"128" :  { 
@@ -1869,6 +1986,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-micnij.jpg",
 			},
 		"129" :  { 
@@ -1883,6 +2001,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-plombir.jpg",
 			},
 		"130" :  { 
@@ -1897,6 +2016,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-zguschene-moloko.jpg",
 			},
 		"131" :  { 
@@ -1911,6 +2031,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-temnij-shokolad.jpg",
 			},
 		"132" :  { 
@@ -1925,6 +2046,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-chorna-karta-gold-ep-50-gr.jpg",
 			},
 		"133" :  { 
@@ -1939,6 +2061,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-chorna-karta-gold-ep-120-gr.jpg",
 			},
 		"134" :  { 
@@ -1953,6 +2076,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-e-p-50-g.jpg",
 			},
 		"135" :  { 
@@ -1967,6 +2091,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\1686-kava-jacobs-ep-120-g.jpg",
 			},
 		"136" :  { 
@@ -1981,6 +2106,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-e-p-200-g.jpg",
 			},
 		"137" :  { 
@@ -1995,6 +2121,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-e-p-400-g.jpg",
 			},
 		"138" :  { 
@@ -2009,6 +2136,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jacobs-ep-500-gr.jpg",
 			},
 		"139" :  { 
@@ -2023,6 +2151,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-intenz-3v1-135-gr.jpg",
 			},
 		"140" :  { 
@@ -2037,6 +2166,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "26",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-monarh-stik-2gr.jpg",
 			},
 		"141" :  { 
@@ -2051,6 +2181,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-oridzhinal-3v1-12gr.jpg",
 			},
 		"142" :  { 
@@ -2065,6 +2196,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "16",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kakao-kao-kao.jpg",
 			},
 		"143" :  { 
@@ -2079,6 +2211,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4268-kakao-mrija-100g-zip-upakovka.jpg",
 			},
 		"144" :  { 
@@ -2093,6 +2226,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1609-cikorij-rozchinnij-elit-100-g.jpg",
 			},
 		"145" :  { 
@@ -2107,6 +2241,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cikorij-rozchinnij-natursb-200g.jpg",
 			},
 	},
@@ -2123,6 +2258,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\napij-rozchinnij-galich-ranok-e-p-100-g.jpg",
 			},
 		"147" :  { 
@@ -2137,6 +2273,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\napij-rozchinnij-zhittedajnij-e-p-100-g.jpg",
 			},
 		"148" :  { 
@@ -2151,6 +2288,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\napij-rozchinnij-shipshinovij-100-g.jpg",
 			},
 		"149" :  { 
@@ -2165,6 +2303,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj-batik-korolivskij-standart-85-gr.jpg",
 			},
 		"150" :  { 
@@ -2179,6 +2318,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-batik-chornij-barhat.jpg",
 			},
 		"151" :  { 
@@ -2193,6 +2333,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-elou-lejbl-lipton-25-2g.jpg",
 			},
 		"152" :  { 
@@ -2207,6 +2348,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-za-dinamo-25-2-gr-chornij.jpg",
 			},
 		"153" :  { 
@@ -2221,6 +2363,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-karkade-sto-pudiv-70-g-mu.jpg",
 			},
 		"154" :  { 
@@ -2235,6 +2378,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "9",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\4319-chaj-cejlon-chorn-bajh-list-500-g-mu.jpg",
 			},
 		"155" :  { 
@@ -2249,6 +2393,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-princessa-nuri-25-2.jpg",
 			},
 		"156" :  { 
@@ -2263,6 +2408,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\2856-chaj-tm-tri-slona-chornij-list-100g.jpg",
 			},
 		"157" :  { 
@@ -2277,6 +2423,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-zelen-melisa.jpg",
 			},
 		"158" :  { 
@@ -2291,6 +2438,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3815-chaj-tm-tri-sloni-zelenij-polunicja-kivi-20-13g.jpg",
 			},
 		"159" :  { 
@@ -2305,6 +2453,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "16",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\4288-chaj-tri-sloni-cejlon-vishnja-20-13g.jpg",
 			},
 		"160" :  { 
@@ -2319,6 +2468,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1114-chaj-tm-tri-sloni-cejlonskij-sunicja-20-13g.jpg",
 			},
 		"161" :  { 
@@ -2333,6 +2483,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1115-chaj-tm-tri-sloni-cejlon-lisova-jagoda-20-13g.jpg",
 			},
 		"162" :  { 
@@ -2347,6 +2498,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1116-chaj-tm-tri-sloni-cejlon-limon-20-13g.jpg",
 			},
 		"163" :  { 
@@ -2361,6 +2513,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3816-chaj-tm-tri-sloni-cejlon-malina-20-13g.jpg",
 			},
 		"164" :  { 
@@ -2375,6 +2528,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "16",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\4289-chaj-tri-sloni-cejlon-persik-20-13g.jpg",
 			},
 		"165" :  { 
@@ -2389,6 +2543,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3631-chaj-tm-tri-sloni-chornij-ekzotika-20-13g.jpg",
 			},
 		"166" :  { 
@@ -2403,6 +2558,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-bergamot.jpg",
 			},
 		"167" :  { 
@@ -2417,6 +2573,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-micnij-100-pak.jpg",
 			},
 		"168" :  { 
@@ -2431,6 +2588,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-tri-sloni-chornij-micnij-2015g.jpg",
 			},
 		"169" :  { 
@@ -2445,6 +2603,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3817-chaj-tm-tri-sloni-chornij-chornicja-20-13g.jpg",
 			},
 		"170" :  { 
@@ -2459,6 +2618,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-hvilinka-bajhovij-chornij-100-pak1-5-gr.jpg",
 			},
 		"171" :  { 
@@ -2473,6 +2633,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-chornij-hvilinka-malina-20-15-gr.jpg",
 			},
 		"172" :  { 
@@ -2487,6 +2648,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-chornij-hvilinka-persik-20-15-gr.jpg",
 			},
 		"173" :  { 
@@ -2501,6 +2663,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-chornij-hvilinka-polunicja-20-15-gr.jpg",
 			},
 		"174" :  { 
@@ -2515,6 +2678,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-chornij-hvilinka-tropichni-frukti-20-15-gr.jpg",
 			},
 	},
@@ -2531,6 +2695,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\87-vanilin-tm-iva-pak-15-g.jpg",
 			},
 		"176" :  { 
@@ -2545,6 +2710,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\vanil'nij-cukor-iva-pak.jpg",
 			},
 		"177" :  { 
@@ -2559,6 +2725,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "200",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gvozdika-nektar.jpg",
 			},
 		"178" :  { 
@@ -2573,6 +2740,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
 			},
 		"179" :  { 
@@ -2587,6 +2755,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka-francuz'ka-v-zernah.jpg",
 			},
 		"180" :  { 
@@ -2601,6 +2770,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "400",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\girchicja-cila18g-nektar.jpg",
 			},
 		"181" :  { 
@@ -2615,6 +2785,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchichnij-poroshok-100g.jpg",
 			},
 		"182" :  { 
@@ -2629,6 +2800,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\girchichnij-poroshok-iva-pak.jpg",
 			},
 		"183" :  { 
@@ -2643,6 +2815,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "60",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/drizhdzhi-saf-instant-11g.jpg",
 			},
 		"184" :  { 
@@ -2657,6 +2830,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zhelatin-15g-iva-pak.jpg",
 			},
 		"185" :  { 
@@ -2671,6 +2845,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zhelatin-20g-iva-pak.jpg",
 			},
 		"186" :  { 
@@ -2685,6 +2860,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "42",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3026-zhelatin-tm-mrija-25-gr.jpg",
 			},
 		"187" :  { 
@@ -2699,6 +2875,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zguschuvach-harchovij-ekstra-tm-iva-pak-10g-30-sht.jpg",
 			},
 		"188" :  { 
@@ -2713,6 +2890,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\kislota-limonna-100g-iva-pak.jpg",
 			},
 		"189" :  { 
@@ -2727,6 +2905,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\kislota-limonna-100-iva-pak.jpg",
 			},
 		"190" :  { 
@@ -2741,6 +2920,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/koricja-melena-15-g-nektar.jpg",
 			},
 		"191" :  { 
@@ -2755,6 +2935,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-sushenij.jpg",
 			},
 		"192" :  { 
@@ -2769,6 +2950,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-10g.jpg",
 			},
 		"193" :  { 
@@ -2783,6 +2965,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-20g.jpg",
 			},
 		"194" :  { 
@@ -2797,6 +2980,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-50g.jpg",
 			},
 		"195" :  { 
@@ -2811,6 +2995,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "140",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-melenij-20g-iva-pak-20-sht.jpg",
 			},
 		"196" :  { 
@@ -2825,6 +3010,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec'-duhm-gor-15g-nektar.jpg",
 			},
 		"197" :  { 
@@ -2839,6 +3025,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec-chervonij-mel-15gnektar-25-sht.jpg",
 			},
 		"198" :  { 
@@ -2853,6 +3040,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "32",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4269-perec-chornij-goroshkom-tm-mrija-20g.jpg",
 			},
 		"199" :  { 
@@ -2867,6 +3055,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec-chornij-melenij-tm-vega-20g.jpg",
 			},
 		"200" :  { 
@@ -2881,6 +3070,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "38",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3027-perec-chornij-melenij-tm-mrija-20g.jpg",
 			},
 		"201" :  { 
@@ -2895,6 +3085,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3798-priprava-tm-prymat-do-kurki-20g.jpg",
 			},
 		"202" :  { 
@@ -2909,6 +3100,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\primat-do-plovu.jpg",
 			},
 		"203" :  { 
@@ -2923,6 +3115,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4067-priprava-tm-prymat-do-smazhenogo-mjasa-20g.jpg",
 			},
 		"204" :  { 
@@ -2937,6 +3130,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4068-priprava-tm-prymat-do-shashliku-25g.jpg",
 			},
 		"205" :  { 
@@ -2951,6 +3145,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\4285-priprava-tm-prymat-paprika-solodka-18-g.jpg",
 			},
 		"206" :  { 
@@ -2965,6 +3160,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3427-priprava-tm-prymat-hmeli-suneli-25g.jpg",
 			},
 		"207" :  { 
@@ -2979,6 +3175,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4324-priprava-rmix-universalna-850-g-polscha.jpg",
 			},
 		"208" :  { 
@@ -2993,6 +3190,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-adzhika-25gr.jpg",
 			},
 		"209" :  { 
@@ -3007,6 +3205,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-dlja-kotlet-ta-farshu-25gr.jpg",
 			},
 		"210" :  { 
@@ -3021,6 +3220,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-dlja-strav-z-kartopli-25gr.jpg",
 			},
 		"211" :  { 
@@ -3035,6 +3235,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "60",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-mivina-kurinaja-80-g.jpg",
 			},
 		"212" :  { 
@@ -3049,6 +3250,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "160",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-torchin-10-ovochiv-60-gr.jpg",
 			},
 		"213" :  { 
@@ -3063,6 +3265,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "350",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sumish-perciv-15-g-nektar.jpg",
 			},
 		"214" :  { 
@@ -3077,6 +3280,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/suhari-panir-pervomajsk.jpg",
 			},
 		"215" :  { 
@@ -3091,6 +3295,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2120-suhari-paniruvalni-tm-zolote-zerno-350-g.jpg",
 			},
 	},
@@ -3107,6 +3312,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zhele-iva-pakasorti.jpg",
 			},
 		"217" :  { 
@@ -3121,6 +3327,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kokosovaja-struzhka-miks-25g.jpg",
 			},
 		"218" :  { 
@@ -3135,6 +3342,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-vimal-nov.jpg",
 			},
 		"219" :  { 
@@ -3149,6 +3357,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mak-fas.jpg",
 			},
 		"220" :  { 
@@ -3163,6 +3372,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-zolotaja-milja-05-kg.jpg",
 			},
 		"221" :  { 
@@ -3177,6 +3387,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-slast'ona-500g.jpg",
 			},
 		"222" :  { 
@@ -3191,6 +3402,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3030-ocet-9proc-tm-zlatko-1l.jpg",
 			},
 		"223" :  { 
@@ -3205,6 +3417,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ocet-jabluchnij-0-5l-sklo.jpg",
 			},
 		"224" :  { 
@@ -3219,6 +3432,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-jabluchne-6kg.jpg",
 			},
 		"225" :  { 
@@ -3233,6 +3447,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil'-fasovana-1-kg.jpg",
 			},
 		"226" :  { 
@@ -3247,6 +3462,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4256-sil-fasovana-tm-kristal-1kg.jpg",
 			},
 		"227" :  { 
@@ -3261,6 +3477,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-fasovana-1-kg-pud-soli.jpg",
 			},
 		"228" :  { 
@@ -3275,6 +3492,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4259-sil-baba-galja-1-kg-jodovana.jpg",
 			},
 		"229" :  { 
@@ -3289,6 +3507,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "9",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil'-fasovana-15-kg-baba-galja.jpg",
 			},
 		"230" :  { 
@@ -3303,6 +3522,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
 			},
 		"231" :  { 
@@ -3317,6 +3537,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/944-sil-mishki-25-kg-RED-BAG.jpg",
 			},
 		"232" :  { 
@@ -3331,6 +3552,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2809-sil-mishki-25-kg-v-vo-jegipet_RED.jpg",
 			},
 		"233" :  { 
@@ -3345,6 +3567,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4245-sil-harchova-pomel-jegipet-mishok-25kg.jpg",
 			},
 		"234" :  { 
@@ -3359,6 +3582,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "21",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-nektar-300g.jpg",
 			},
 		"235" :  { 
@@ -3373,6 +3597,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-baba-galja.jpg",
 			},
 		"236" :  { 
@@ -3387,6 +3612,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
 			},
 		"237" :  { 
@@ -3401,6 +3627,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-rafinad-sarkara-produk-250.jpg",
 			},
 		"238" :  { 
@@ -3415,6 +3642,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-rafinad-sarkara-produkt-500-g.jpg",
 			},
 		"239" :  { 
@@ -3429,6 +3657,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
 			},
 	},
@@ -3445,6 +3674,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
 			},
 		"241" :  { 
@@ -3459,6 +3689,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vinnickij-mlinar-1-kg.jpg",
 			},
 		"242" :  { 
@@ -3473,6 +3704,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vinnic'kij-mlinar-2kg.jpg",
 			},
 		"243" :  { 
@@ -3487,6 +3719,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vinnic'kij-mlinar-5kg.jpg",
 			},
 		"244" :  { 
@@ -3501,6 +3734,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vihvostov-10-kg.jpg",
 			},
 		"245" :  { 
@@ -3515,6 +3749,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vizhvostov-25kg.jpg",
 			},
 		"246" :  { 
@@ -3529,6 +3764,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4316-boroshno-tm-dobrobut-1-kg.jpg",
 			},
 		"247" :  { 
@@ -3543,6 +3779,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-2-kg.jpg",
 			},
 		"248" :  { 
@@ -3557,6 +3794,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-tm-dobrobut-5-kg.jpg",
 			},
 		"249" :  { 
@@ -3571,6 +3809,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-krolevec-2-kg.jpg",
 			},
 		"250" :  { 
@@ -3585,6 +3824,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-krolevec'-5-kg-bum-pak.jpg",
 			},
 		"251" :  { 
@@ -3599,6 +3839,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/boroshno-vg-nedrigajlo-25-kg.jpg",
 			},
 		"252" :  { 
@@ -3613,6 +3854,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-1kg.jpg",
 			},
 		"253" :  { 
@@ -3627,6 +3869,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-2kg.jpg",
 			},
 		"254" :  { 
@@ -3641,6 +3884,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-sto-pudov-5kg-2.jpg",
 			},
 	},
@@ -3657,6 +3901,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\ananas-v-siropi-konservov-kilcja-tropicana.jpg",
 			},
 		"256" :  { 
@@ -3671,6 +3916,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\ananas-v-siropi-konservov-shmatochki-tropicana.jpg",
 			},
 		"257" :  { 
@@ -3685,6 +3931,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\149-goroshok-zel-tm-gurman-420g-zhb-1.jpg",
 			},
 		"258" :  { 
@@ -3699,6 +3946,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zel-tm-gurman-460g-sb-tvist.jpg",
 			},
 		"259" :  { 
@@ -3713,6 +3961,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zelenij-ekool-zhb-422gr.jpg",
 			},
 		"260" :  { 
@@ -3727,6 +3976,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zelschedra-niva-460g-sb-tvist.jpg",
 			},
 		"261" :  { 
@@ -3741,6 +3991,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-nektar-bila-530g-sb.jpg",
 			},
 		"262" :  { 
@@ -3755,6 +4006,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-nektar-v-ts-530g-sb.jpg",
 			},
 		"263" :  { 
@@ -3769,6 +4021,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kukuruza-zhb-babusin-produkt.jpg",
 			},
 		"264" :  { 
@@ -3783,6 +4036,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/maslini-santarrita-bez-kistochki-280-g.jpg",
 			},
 		"265" :  { 
@@ -3797,6 +4051,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olivki-santarrita-bez-kistochki-280g.jpg",
 			},
 	},
@@ -3813,6 +4068,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kasha-grechana-z-mjasom-325g.jpg",
 			},
 		"267" :  { 
@@ -3827,6 +4083,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kasha-grechana-z-mjasom-525g.jpg",
 			},
 		"268" :  { 
@@ -3841,6 +4098,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "18",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-pechinkovij-325g.jpg",
 			},
 		"269" :  { 
@@ -3855,6 +4113,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kurka-elitn-525g.jpg",
 			},
 		"270" :  { 
@@ -3869,6 +4128,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "18",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-klasichna-325g.jpg",
 			},
 		"271" :  { 
@@ -3883,6 +4143,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-klasichna-525g.jpg",
 			},
 		"272" :  { 
@@ -3897,6 +4158,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "18",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-nizhna-325g.jpg",
 			},
 		"273" :  { 
@@ -3911,6 +4173,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-nizhna-525g.jpg",
 			},
 		"274" :  { 
@@ -3925,6 +4188,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\tushonka-z-svinini-pan-ivan-sb-500g.jpg",
 			},
 		"275" :  { 
@@ -3939,6 +4203,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\nektar-mjaso-kurej.jpg",
 			},
 	},
@@ -3955,6 +4220,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\kil'kamorja-ta-okeani-u-ts-3.jpg",
 			},
 		"277" :  { 
@@ -3969,6 +4235,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\3101-kilka-u-tomsousi-ventspils-240g-kljuch.jpg",
 			},
 		"278" :  { 
@@ -3983,6 +4250,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\kil'ka-akvamarin.jpg",
 			},
 		"279" :  { 
@@ -3997,6 +4265,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\kilka-snidanok-turista-tm-darinka-240g.jpg",
 			},
 		"280" :  { 
@@ -4011,6 +4280,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\3591-losos-naturalnij-tm-darinka-230g.jpg",
 			},
 		"281" :  { 
@@ -4025,6 +4295,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "36",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\pashtet-shprotnij-darinka-160g.jpg",
 			},
 		"282" :  { 
@@ -4039,6 +4310,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\salaka-darinka.jpg",
 			},
 		"283" :  { 
@@ -4053,6 +4325,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\sardina-akvamarin.jpg",
 			},
 		"284" :  { 
@@ -4067,6 +4340,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sardina-ventspils-3.jpg",
 			},
 		"285" :  { 
@@ -4081,6 +4355,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\sardina-darinka-z-dod-olii-240-g.jpg",
 			},
 		"286" :  { 
@@ -4095,6 +4370,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\918-sardini-tm-sojuz-morej-240g-z-dodavannjam-olii.jpg",
 			},
 		"287" :  { 
@@ -4109,6 +4385,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\skumbrija-darinka-z-dod-olii.jpg",
 			},
 		"288" :  { 
@@ -4123,6 +4400,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\4304-tunec-darinka-z-dodavolii-240g.jpg",
 			},
 		"289" :  { 
@@ -4137,6 +4415,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\shproti-supoj.jpg",
 			},
 		"290" :  { 
@@ -4151,6 +4430,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/shproti-darinka--2-150g.jpg",
 			},
 	},
@@ -4167,6 +4447,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
 			},
 		"292" :  { 
@@ -4181,6 +4462,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-jachni-mishok.jpg",
 			},
 		"293" :  { 
@@ -4195,6 +4477,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4215-kalinka-dlja-krolematok-10kg-6803.jpg",
 			},
 		"294" :  { 
@@ -4209,6 +4492,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\3466-kalinka-dlja-nesuchok-vid-32-tizhniv-10kg-7022.jpg",
 			},
 		"295" :  { 
@@ -4223,6 +4507,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2898-kalinka-rost-dlja-brojleriv-10-kg7026.jpg",
 			},
 		"296" :  { 
@@ -4237,6 +4522,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4099-kalinka-grover-dlja-kroliv-10kg-6810.jpg",
 			},
 		"297" :  { 
@@ -4251,6 +4537,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4283-kalinka-dlja-cipljat-start-1-8tizhniv-7019.jpg",
 			},
 		"298" :  { 
@@ -4265,6 +4552,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2898-kalinka-rost-dlja-brojleriv-10-kg7026.jpg",
 			},
 		"299" :  { 
@@ -4279,6 +4567,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\2897-kalinka-start-dlja-brojleriv-10-kg7025.jpg",
 			},
 		"300" :  { 
@@ -4293,6 +4582,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\3467-kalinka-start-dlja-vodoplavnoi-10-kg6601.jpg",
 			},
 		"301" :  { 
@@ -4307,6 +4597,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-kalinka-start-dlja-kroliv-10-kg.jpg",
 			},
 		"302" :  { 
@@ -4321,6 +4612,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kombikorm-dlja-kurej-nesuchok-10-kg.jpg",
 			},
 		"303" :  { 
@@ -4335,6 +4627,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-rost-brojler-vid-15-do-40-dniv-10-kg-sinij.jpg",
 			},
 		"304" :  { 
@@ -4349,6 +4642,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kombikorm-kulikivka-start-ciplja-1-8-tizhniv-10-kgzhovtij.jpg",
 			},
 		"305" :  { 
@@ -4363,6 +4657,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kombikorm-kulikivka-start-brojler-vid-1-do-18-dniv-10-kg.jpg",
 			},
 		"306" :  { 
@@ -4377,6 +4672,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-kulikivka-start-ciplja-1-8-tizhniv-10-kgzhovtij.jpg",
 			},
 		"307" :  { 
@@ -4391,6 +4687,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kombikorm-finish-pticja-10-kg.jpg",
 			},
 		"308" :  { 
@@ -4405,6 +4702,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-z-sokovitoju-indichkoju-v-sousi.jpg",
 			},
 		"309" :  { 
@@ -4419,6 +4717,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kit-krolik.jpg",
 			},
 		"310" :  { 
@@ -4433,6 +4732,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka.jpg",
 			},
 		"311" :  { 
@@ -4447,6 +4747,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-dlja-kishok-z-sokovitoju-jalovichinoju.jpg",
 			},
 		"312" :  { 
@@ -4461,6 +4762,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kachka.jpg",
 			},
 		"313" :  { 
@@ -4475,6 +4777,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
 			},
 		"314" :  { 
@@ -4489,6 +4792,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
 			},
 		"315" :  { 
@@ -4503,6 +4807,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
 			},
 		"316" :  { 
@@ -4517,6 +4822,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-riba-10kg.jpg",
 			},
 		"317" :  { 
@@ -4531,6 +4837,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
 			},
 		"318" :  { 
@@ -4545,6 +4852,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-pes-standart-10-kg.jpg",
 			},
 		"319" :  { 
@@ -4559,6 +4867,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
 			},
 		"320" :  { 
@@ -4573,6 +4882,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\rakushka-kormova-3-kg.jpg",
 			},
 		"321" :  { 
@@ -4587,6 +4897,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-krupnokuskova-lizun-kruglij-5kg.jpg",
 			},
 	},
@@ -4603,6 +4914,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-vivsjana-500g-fasovana.jpg",
 			},
 		"323" :  { 
@@ -4617,6 +4929,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vivsjani-plastivci-gerkules-ekstra-telec'-fas-700g.jpg",
 			},
 		"324" :  { 
@@ -4631,6 +4944,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vivsjani-plastivci-dobrodija-7-zlakiv-700-g.jpg",
 			},
 		"325" :  { 
@@ -4645,6 +4959,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3082-vivsjani-plastivci-tm-dobrodija-super-gerkules-1-700-g.jpg",
 			},
 		"326" :  { 
@@ -4659,6 +4974,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/114-vivsjani-plastivci-tm-sto-pudiv-400g.jpg",
 			},
 		"327" :  { 
@@ -4673,6 +4989,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vivsjani-plastivci-sto-pudov-800g.jpg",
 			},
 		"328" :  { 
@@ -4687,6 +5004,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-kolotij.jpg",
 			},
 		"329" :  { 
@@ -4701,6 +5019,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/goroh-fas-09-kg.jpg",
 			},
 		"330" :  { 
@@ -4715,6 +5034,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/grechana-krupa.jpg",
 			},
 		"331" :  { 
@@ -4729,6 +5049,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-bulgur-fas-1-kg-sitij-pan.jpg",
 			},
 		"332" :  { 
@@ -4743,6 +5064,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-kukurudzjana-25-kg.jpg",
 			},
 		"333" :  { 
@@ -4757,6 +5079,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/513-krupa-kukurudzjana-fasovana-700g.jpg",
 			},
 		"334" :  { 
@@ -4771,6 +5094,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlova.jpg",
 			},
 		"335" :  { 
@@ -4785,6 +5109,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlovaja-fas-09-kg.jpg",
 			},
 		"336" :  { 
@@ -4799,6 +5124,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-25-kg.jpg",
 			},
 		"337" :  { 
@@ -4813,6 +5139,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-fas-07-kg.jpg",
 			},
 		"338" :  { 
@@ -4827,6 +5154,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-25kg.jpg",
 			},
 		"339" :  { 
@@ -4841,6 +5169,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-fas-07-kg.jpg",
 			},
 		"340" :  { 
@@ -4855,6 +5184,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/manka-fas-sto-pudov-07kg.jpg",
 			},
 		"341" :  { 
@@ -4869,6 +5199,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/",
 			},
 		"342" :  { 
@@ -4883,6 +5214,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-vg.jpg",
 			},
 		"343" :  { 
@@ -4897,6 +5229,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-fas-09-kg.jpg",
 			},
 		"344" :  { 
@@ -4911,6 +5244,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
 			},
 		"345" :  { 
@@ -4925,6 +5259,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
 			},
 		"346" :  { 
@@ -4939,6 +5274,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-vagovij.jpg",
 			},
 		"347" :  { 
@@ -4953,6 +5289,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-09-kg.jpg",
 			},
 		"348" :  { 
@@ -4967,6 +5304,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-1-kg.jpg",
 			},
 		"349" :  { 
@@ -4981,6 +5319,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild.jpg",
 			},
 		"350" :  { 
@@ -4995,6 +5334,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild-09-kg.jpg",
 			},
 	},
@@ -5011,6 +5351,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaronni-virobi-voronizh-3-kg.jpg",
 			},
 		"352" :  { 
@@ -5025,6 +5366,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaroni-voroniz'ki-1-kg.jpg",
 			},
 		"353" :  { 
@@ -5039,6 +5381,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1299-makaronni-virobi-ekstra-5-kg.jpg",
 			},
 		"354" :  { 
@@ -5053,6 +5396,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaronni-virobi-lagman-sto-pudov-04-kg.jpg",
 			},
 		"355" :  { 
@@ -5067,6 +5411,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1468-makaronni-virobi-lokshina-tm-sto-pudiv-09-kg.jpg",
 			},
 		"356" :  { 
@@ -5081,6 +5426,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4282-makarvirob-lokshina-tm-chevdar-09kg-tverdi-sorta.jpg",
 			},
 		"357" :  { 
@@ -5095,6 +5441,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4263-makaronni-virobi-tm-jaroslav-10-kg.jpg",
 			},
 		"358" :  { 
@@ -5109,6 +5456,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "36",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
 			},
 		"359" :  { 
@@ -5123,6 +5471,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4073-makvir-vermishel-tonka-05-kg.jpg",
 			},
 		"360" :  { 
@@ -5137,6 +5486,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\jaroslav-zvirjata.jpg",
 			},
 		"361" :  { 
@@ -5151,6 +5501,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4305-makaronni-virobi-tm-jaroslav-kmf-lokshina-045-kg.jpg",
 			},
 		"362" :  { 
@@ -5165,6 +5516,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4089-makaronni-m-jaroslav-kmf-meteliki-tverdi-sorti-04-kg.jpg",
 			},
 		"363" :  { 
@@ -5179,6 +5531,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makaronni-virobi-jaroslav-miks-1-kg.jpg",
 			},
 		"364" :  { 
@@ -5193,6 +5546,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4284-jaroslav-kmf-1kg-pera-ekstra.jpg",
 			},
 		"365" :  { 
@@ -5207,6 +5561,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4058-makvir-tm-jaroslav-kmf-rizhki-kruchenii-05-kg.jpg",
 			},
 		"366" :  { 
@@ -5221,6 +5576,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\jaroslav-spiral'.jpg",
 			},
 		"367" :  { 
@@ -5235,6 +5591,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4057-makaronni--jaroslav-kmf-cherepashki-05-kg.jpg",
 			},
 		"368" :  { 
@@ -5249,6 +5606,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "18",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4284-jaroslav-kmf-1kg-spageti-cvet.jpg",
 			},
 		"369" :  { 
@@ -5263,6 +5621,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\spagetti-jaroslav-450gr.jpg",
 			},
 		"370" :  { 
@@ -5277,6 +5636,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\spageti-vagovi-kmf.jpg",
 			},
 	},
@@ -5293,6 +5653,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirnenska-15l-silno-gazovana-avalon.jpg",
 			},
 		"372" :  { 
@@ -5307,6 +5668,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\voda-avalon-mirnenska-2-l-pitna-silno-gaz.jpg",
 			},
 		"373" :  { 
@@ -5321,6 +5683,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4294-voda-buvette-7-silnogazovana-15-l.jpg",
 			},
 		"374" :  { 
@@ -5335,6 +5698,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "1",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-kujalnik-15lmin.jpg",
 			},
 		"375" :  { 
@@ -5349,6 +5713,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirgorods'ka-1-5l-mineral-sil'n-gaz.jpg",
 			},
 		"376" :  { 
@@ -5363,6 +5728,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirnenska-05l-negazovana.jpg",
 			},
 		"377" :  { 
@@ -5377,6 +5743,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\voda-mirnens'ka-6-l-negazovana.jpg",
 			},
 		"378" :  { 
@@ -5391,6 +5758,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-negazovana-1-5l.jpg",
 			},
 		"379" :  { 
@@ -5405,6 +5773,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-sil'no-gazovana-1-5l.jpg",
 			},
 		"380" :  { 
@@ -5419,6 +5788,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-slabo-gazovana-1-5l.jpg",
 			},
 		"381" :  { 
@@ -5433,6 +5803,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-ostrechens'ka-15l.jpg",
 			},
 		"382" :  { 
@@ -5447,6 +5818,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-ostrechens'ka-05l.jpg",
 			},
 		"383" :  { 
@@ -5461,6 +5833,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-poljana-kvasova--8-15l.jpg",
 			},
 		"384" :  { 
@@ -5475,6 +5848,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/poljana-kvasova.jpg",
 			},
 		"385" :  { 
@@ -5489,6 +5863,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4262-voda-mineralna-shajanska-15l-prirodna.jpg",
 			},
 		"386" :  { 
@@ -5503,6 +5878,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4261-voda-mineralna-shajanska-15l-silnogaz-2.jpg",
 			},
 		"387" :  { 
@@ -5517,6 +5893,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/energetik-himars-05-l.jpg",
 			},
 		"388" :  { 
@@ -5531,6 +5908,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pit-bull-jagidnij-pet-1-l.jpg",
 			},
 		"389" :  { 
@@ -5545,6 +5923,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\kvas-mirnenskij-bochkovij-2-l.jpg",
 			},
 		"390" :  { 
@@ -5559,6 +5938,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-033.jpg",
 			},
 		"391" :  { 
@@ -5573,6 +5953,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
 			},
 		"392" :  { 
@@ -5587,6 +5968,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-075.jpg",
 			},
 		"393" :  { 
@@ -5601,6 +5983,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-125.jpg",
 			},
 		"394" :  { 
@@ -5615,6 +5998,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-175-l.jpg",
 			},
 		"395" :  { 
@@ -5629,6 +6013,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3186-napij-tm-maksi-frukt-ananas-3l.jpg",
 			},
 		"396" :  { 
@@ -5643,6 +6028,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3367-napij-tm-maksi-frukt-limonad-3l.jpg",
 			},
 		"397" :  { 
@@ -5657,6 +6043,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3153-napij-tm-maksi-frukt-mango-persik-3l.jpg",
 			},
 		"398" :  { 
@@ -5671,6 +6058,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "4",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2051-napij-tm-maksi-frukt-sitro-3l.jpg",
 			},
 		"399" :  { 
@@ -5685,6 +6073,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-kola-1.jpg",
 			},
 		"400" :  { 
@@ -5699,6 +6088,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-limonad-1.jpg",
 			},
 		"401" :  { 
@@ -5713,6 +6103,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnenska-05-l-multifrukt.jpg",
 			},
 		"402" :  { 
@@ -5727,6 +6118,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-1-l-apel'sin.jpg",
 			},
 		"403" :  { 
@@ -5741,6 +6133,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-apel'sin-1.jpg",
 			},
 		"404" :  { 
@@ -5755,6 +6148,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-dzvinochok.jpg",
 			},
 		"405" :  { 
@@ -5769,6 +6163,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-kola-1.jpg",
 			},
 		"406" :  { 
@@ -5783,6 +6178,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-limonad-1.jpg",
 			},
 		"407" :  { 
@@ -5797,6 +6193,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnenska-2-l-mango-marakuja.jpg",
 			},
 		"408" :  { 
@@ -5811,6 +6208,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-mohito-1.jpg",
 			},
 		"409" :  { 
@@ -5825,6 +6223,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-mul'tifrukt-1.jpg",
 			},
 		"410" :  { 
@@ -5839,6 +6238,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnenska-2-l-polunicja-ta-vershki.jpg",
 			},
 		"411" :  { 
@@ -5853,6 +6253,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-sitro-1.jpg",
 			},
 		"412" :  { 
@@ -5867,6 +6268,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnens'ka-2-l-tarhun-1.jpg",
 			},
 		"413" :  { 
@@ -5881,6 +6283,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
 			},
 		"414" :  { 
@@ -5895,6 +6298,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-05-l.jpg",
 			},
 		"415" :  { 
@@ -5909,6 +6313,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-15-l.jpg",
 			},
 		"416" :  { 
@@ -5923,6 +6328,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2236-napij-pepsi-cola-175-l.jpg",
 			},
 		"417" :  { 
@@ -5937,6 +6343,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-033-l-zhb.jpg",
 			},
 		"418" :  { 
@@ -5951,6 +6358,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-05l-zhb.jpg",
 			},
 		"419" :  { 
@@ -5965,6 +6373,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-075l-zhb.jpg",
 			},
 		"420" :  { 
@@ -5979,6 +6388,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-125l-zhb.jpg",
 			},
 		"421" :  { 
@@ -5993,6 +6403,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-175-l.jpg",
 			},
 		"422" :  { 
@@ -6007,6 +6418,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-075-l.jpg",
 			},
 		"423" :  { 
@@ -6021,6 +6433,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-125-l.jpg",
 			},
 		"424" :  { 
@@ -6035,6 +6448,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-125-l.jpg",
 			},
 		"425" :  { 
@@ -6049,6 +6463,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-033-l-zhb.jpg",
 			},
 		"426" :  { 
@@ -6063,6 +6478,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-05-l.jpg",
 			},
 		"427" :  { 
@@ -6077,6 +6493,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
 			},
 		"428" :  { 
@@ -6091,6 +6508,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
 			},
 		"429" :  { 
@@ -6105,6 +6523,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirop-poljana-miks-1l.jpg",
 			},
 		"430" :  { 
@@ -6119,6 +6538,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirop-fruktovij-v-ass1l.jpg",
 			},
 		"431" :  { 
@@ -6133,6 +6553,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4307-sik-tm-vinni-02l-jabluchno-vinogradnij.jpg",
 			},
 		"432" :  { 
@@ -6147,6 +6568,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-bananovo-polunichnij-02.jpg",
 			},
 		"433" :  { 
@@ -6161,6 +6583,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02l-jabluchno-grushovij.jpg",
 			},
 		"434" :  { 
@@ -6175,6 +6598,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02-mul'tifrukt.jpg",
 			},
 		"435" :  { 
@@ -6189,6 +6613,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02l-persikovij.jpg",
 			},
 		"436" :  { 
@@ -6203,6 +6628,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02l-jabluchnij.jpg",
 			},
 		"437" :  { 
@@ -6217,6 +6643,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-vinogradnij-osvitl-nektar-02.jpg",
 			},
 		"438" :  { 
@@ -6231,6 +6658,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "27",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-polunichnij-nektar-02.jpg",
 			},
 		"439" :  { 
@@ -6245,6 +6673,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-19l-mul'tifrukt-nektar.jpg",
 			},
 		"440" :  { 
@@ -6259,6 +6688,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-19l-jabluchno-vinograd-nektar.jpg",
 			},
 		"441" :  { 
@@ -6273,6 +6703,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-abrikosovij.jpg",
 			},
 		"442" :  { 
@@ -6287,6 +6718,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4318-sik-tm-dobrij-ranok-1l-apelsin.jpg",
 			},
 		"443" :  { 
@@ -6301,6 +6733,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-grushovij.jpg",
 			},
 		"444" :  { 
@@ -6315,6 +6748,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-mul'tifrukt.jpg",
 			},
 		"445" :  { 
@@ -6329,6 +6763,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-persikovij.jpg",
 			},
 		"446" :  { 
@@ -6343,6 +6778,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-tomatnij.jpg",
 			},
 		"447" :  { 
@@ -6357,6 +6793,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchnij.jpg",
 			},
 		"448" :  { 
@@ -6371,6 +6808,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-vinograd-jabluchnij.jpg",
 			},
 		"449" :  { 
@@ -6385,6 +6823,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "11",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-polunichnij.jpg",
 			},
 	},
@@ -6401,6 +6840,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
 			},
 		"451" :  { 
@@ -6415,6 +6855,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\4244-moloko-zgusch-pervomajskij-mkk-85proc-doj-pak-290g.jpg",
 			},
 		"452" :  { 
@@ -6429,6 +6870,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\moloko-zgusch-madesa-dstu-85proc-zh-b-370-g.jpg",
 			},
 		"453" :  { 
@@ -6443,6 +6885,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\moloko-zguschene-tm-sto-pudiv-z-kakao-75proc-zhb-370-g.jpg",
 			},
 		"454" :  { 
@@ -6457,6 +6900,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\moloko-zgusch-cel'noe-bahmach-gost-85proc-zh-b-370-g.jpg",
 			},
 		"455" :  { 
@@ -6471,6 +6915,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\2926-moloko-zgusch-tm-ichnja-gost-85proc-370-g-zhb.jpg",
 			},
 		"456" :  { 
@@ -6485,6 +6930,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
 			},
 		"457" :  { 
@@ -6499,6 +6945,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/moloko-zguschene-karam-gavrjusha-530-g-sb.jpg",
 			},
 		"458" :  { 
@@ -6513,6 +6960,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1137-moloko-suhe-milka-150g.jpg",
 			},
 	},
@@ -6529,6 +6977,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zolote-zerno-mr-kroko-shokoladni.jpg",
 			},
 		"460" :  { 
@@ -6543,6 +6992,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "21",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4257-kulki-miks-mr-croco-75-gr-shokad-mol-zolote-zerno.jpg",
 			},
 		"461" :  { 
@@ -6557,6 +7007,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nasinnja-sonjashn-sotochka-100g.jpg",
 			},
 		"462" :  { 
@@ -6571,6 +7022,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-sova-65-g.jpg",
 			},
 		"463" :  { 
@@ -6585,6 +7037,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukur-sova-450-g.jpg",
 			},
 		"464" :  { 
@@ -6599,6 +7052,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
 			},
 		"465" :  { 
@@ -6613,6 +7067,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plastivci-glazur-medvid-kukur-80-grzolote.jpg",
 			},
 		"466" :  { 
@@ -6627,6 +7082,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plastivci-glazur-zajec'-kukur-80-gr-molochni-zolote-zerno.jpg",
 			},
 		"467" :  { 
@@ -6641,6 +7097,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plastivci-glazur-izhachok-kukur-80-grzolote-zerno.jpg",
 			},
 		"468" :  { 
@@ -6655,6 +7112,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "16",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka.jpg",
 			},
 		"469" :  { 
@@ -6669,6 +7127,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "16",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka-sol'.jpg",
 			},
 		"470" :  { 
@@ -6683,6 +7142,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4296-suhariki-tri-pirati-smak-bekon-70-gr.jpg",
 			},
 		"471" :  { 
@@ -6697,6 +7157,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4297-suhariki-tri-pirati-zi-smakom-siru-70-gr.jpg",
 			},
 		"472" :  { 
@@ -6711,6 +7172,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4298-suhariki-tri-pirati-smetana-zelen-70-gr.jpg",
 			},
 		"473" :  { 
@@ -6725,6 +7187,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "64",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1933-chipsi-zolotisti-miks-75-g.jpg",
 			},
 	},
@@ -6741,6 +7204,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-lagidnij.jpg",
 			},
 		"475" :  { 
@@ -6755,6 +7219,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-do-shashliku.jpg",
 			},
 		"476" :  { 
@@ -6769,6 +7234,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/556-majonez-provansal-ljuks-200g-tm-best-.jpg",
 			},
 		"477" :  { 
@@ -6783,6 +7249,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/557-majonez-provansal-ljuks-500-g-tm-best.jpg",
 			},
 		"478" :  { 
@@ -6797,6 +7264,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pasta-tom-best-stik-70-gr.jpg",
 			},
 		"479" :  { 
@@ -6811,6 +7279,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\pasta-tom-gurman-465g.jpg",
 			},
 		"480" :  { 
@@ -6825,6 +7294,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3857-pasta-tomatna-tm-nektar-460-gr.jpg",
 			},
 		"481" :  { 
@@ -6839,6 +7309,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-gostrij.jpg",
 			},
 		"482" :  { 
@@ -6853,6 +7324,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-lecho.jpg",
 			},
 		"483" :  { 
@@ -6867,6 +7339,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-zhuravlinij-240g.jpg",
 			},
 		"484" :  { 
@@ -6881,6 +7354,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-kari-235-g.jpg",
 			},
 		"485" :  { 
@@ -6895,6 +7369,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-sacebeli.jpg",
 			},
 		"486" :  { 
@@ -6909,6 +7384,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-ukrainskij.jpg",
 			},
 		"487" :  { 
@@ -6923,6 +7399,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-chili-tomatnij.jpg",
 			},
 		"488" :  { 
@@ -6937,6 +7414,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "16",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-550-mg.jpg",
 			},
 		"489" :  { 
@@ -6951,6 +7429,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyj-asia-foods-klassicheskij-1l.jpg",
 			},
 		"490" :  { 
@@ -6965,6 +7444,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-300-mg.jpg",
 			},
 	},
@@ -6981,6 +7461,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "104",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-golden-dragon-miks.jpg",
 			},
 		"492" :  { 
@@ -6995,6 +7476,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "104",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-kurka-negostra-golden-dragon-65g.jpg",
 			},
 		"493" :  { 
@@ -7009,6 +7491,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "104",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vermishel'-roltik-miks.jpg",
 			},
 		"494" :  { 
@@ -7023,6 +7506,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pjure-kartopl-golden-dragon-gribi.jpg",
 			},
 		"495" :  { 
@@ -7037,6 +7521,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
 			},
 		"496" :  { 
@@ -7051,6 +7536,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
 			},
 		"497" :  { 
@@ -7065,6 +7551,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-jalovichina.jpg",
 			},
 		"498" :  { 
@@ -7079,6 +7566,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gribnij.jpg",
 			},
 	},
@@ -7095,6 +7583,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
 			},
 		"500" :  { 
@@ -7109,6 +7598,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
 			},
 		"501" :  { 
@@ -7123,6 +7613,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
 			},
 		"502" :  { 
@@ -7137,6 +7628,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2996-chornosliv-vjalenij-5kg-v-vo-uzbekistan.jpg",
 			},
 	},
@@ -7153,6 +7645,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-0-5l.jpg",
 			},
 		"504" :  { 
@@ -7167,6 +7660,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-2l-tvist.jpg",
 			},
 		"505" :  { 
@@ -7181,6 +7675,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "500",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4299-krishka-zakatochna-gospodinja-blok-50sht.jpg",
 			},
 		"506" :  { 
@@ -7195,6 +7690,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "500",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4300-krishka-zakatochna-tm-gospodinja-blok-50-sht.jpg",
 			},
 		"507" :  { 
@@ -7209,6 +7705,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "500",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-bila.jpg",
 			},
 		"508" :  { 
@@ -7223,6 +7720,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "200",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polietilenova-kolorova.jpg",
 			},
 		"509" :  { 
@@ -7237,6 +7735,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "200",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-pet-termo.jpg",
 			},
 		"510" :  { 
@@ -7251,6 +7750,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polinka-50sht.jpg",
 			},
 		"511" :  { 
@@ -7265,6 +7765,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-sko-tm-sto-pudiv-.jpg",
 			},
 		"512" :  { 
@@ -7279,6 +7780,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-velika.jpg",
 			},
 		"513" :  { 
@@ -7293,6 +7795,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-tvist-blok-20-sht-mala.jpg",
 			},
 		"514" :  { 
@@ -7307,6 +7810,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-pp-10-kg.jpg",
 			},
 		"515" :  { 
@@ -7321,6 +7825,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mishok-polipropilenovij-30-h-45.jpg",
 			},
 		"516" :  { 
@@ -7335,6 +7840,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "30",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-10h27.jpg",
 			},
 		"517" :  { 
@@ -7349,6 +7855,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "15",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4302-paket-fasuvalnij-green-line-18x35.jpg",
 			},
 		"518" :  { 
@@ -7363,6 +7870,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-bogatir'18h35.jpg",
 			},
 		"519" :  { 
@@ -7377,6 +7885,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-24h42-100-sht.jpg",
 			},
 		"520" :  { 
@@ -7391,6 +7900,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-30-55-polunichka.jpg",
 			},
 		"521" :  { 
@@ -7405,6 +7915,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-bmw-40h60-50-sht.jpg",
 			},
 		"522" :  { 
@@ -7419,6 +7930,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4319-strejch-plivka-20mk-500mm-160m-18kg.jpg",
 			},
 		"523" :  { 
@@ -7433,6 +7945,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
 			},
 		"524" :  { 
@@ -7447,6 +7960,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "150",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-1-l.jpg",
 			},
 		"525" :  { 
@@ -7461,6 +7975,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "110",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pet-pljashka-15l.jpg",
 			},
 		"526" :  { 
@@ -7475,6 +7990,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "90",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-2-l.jpg",
 			},
 		"527" :  { 
@@ -7489,6 +8005,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/skotch-300-6sht.jpg",
 			},
 		"528" :  { 
@@ -7503,6 +8020,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "300",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-180g.jpg",
 			},
 		"529" :  { 
@@ -7517,6 +8035,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "200",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-500g.jpg",
 			},
 		"530" :  { 
@@ -7531,6 +8050,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-80-g.jpg",
 			},
 		"531" :  { 
@@ -7545,6 +8065,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2250",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-paperovij-kol'orovij-175-g.jpg",
 			},
 		"532" :  { 
@@ -7559,6 +8080,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "2000",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-paperovij-kol'orovij-250-g-50sht.jpg",
 			},
 	},
@@ -7575,6 +8097,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
 			},
 		"534" :  { 
@@ -7589,6 +8112,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-laska.jpg",
 			},
 		"535" :  { 
@@ -7603,6 +8127,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "24",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/obuhov.jpg",
 			},
 		"536" :  { 
@@ -7617,6 +8142,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/85-papir-tualetnij-sanpa-.jpg",
 			},
 		"537" :  { 
@@ -7631,6 +8157,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bumaga-tual-chernigiv-mala.jpg",
 			},
 		"538" :  { 
@@ -7645,6 +8172,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/papir-ofisnij-a4-eso-500-arkushiv.jpg",
 			},
 		"539" :  { 
@@ -7659,6 +8187,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gel-dlja-posudu-fairy-1l.jpg",
 			},
 		"540" :  { 
@@ -7673,6 +8202,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-pjezo-chorna.jpg",
 			},
 		"541" :  { 
@@ -7687,6 +8217,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "50",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/zapalnichka-red-mac-turbo-chorna.jpg",
 			},
 		"542" :  { 
@@ -7701,6 +8232,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "60",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-6-m.jpg",
 			},
 		"543" :  { 
@@ -7715,6 +8247,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "40",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-bilij-6-m.jpg",
 			},
 		"544" :  { 
@@ -7729,6 +8262,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "48",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-100g.jpg",
 			},
 		"545" :  { 
@@ -7743,6 +8277,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
 			},
 		"546" :  { 
@@ -7757,6 +8292,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "60",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
 			},
 		"547" :  { 
@@ -7771,6 +8307,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "8",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/svichki-stolovi.jpg",
 			},
 		"548" :  { 
@@ -7785,6 +8322,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "14",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-bili-lilija-30-listov.jpg",
 			},
 		"549" :  { 
@@ -7799,6 +8337,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "72",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-vologi-15-sht.jpg",
 			},
 		"550" :  { 
@@ -7813,6 +8352,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-indija-chervonij-mak-10sht.jpg",
 			},
 		"551" :  { 
@@ -7827,6 +8367,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "100",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-ukraina.jpg",
 			},
 		"552" :  { 
@@ -7841,6 +8382,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "10",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/fol'ga-3-m.jpg",
 			},
 	},
@@ -7857,6 +8399,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/lezo-dlja-britvi-lion-king.jpg",
 			},
 	},
