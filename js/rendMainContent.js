@@ -42,8 +42,8 @@ export function rendMainContent(prod) {
   }
 
   // place.innerHTML = `<div class="promotion">
-		// 		<img class="promotion-img" src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
-		// 	</div>`;
+  // 		<img class="promotion-img" src="https:\/\/olegeduc.github.io\/food-trade\/image\/action\/promotion-dobrij-ranok-1l.gif" alt="dobrij-ranok-promotion">
+  // 	</div>`;
 
   // картинка акции
   // place.innerHTML =  place.innerHTML + `<div class="grid-item-action">
@@ -72,8 +72,16 @@ export function rendMainContent(prod) {
       const baseUnit = productsItems[item]["baseUnit"];
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
+      let inStock = productsItems[item]["inStock"];
+
+      if (inStock == 0) {
+        inStock = 'monohrom'
+      } else {
+        inStock = ''
+      }
+      
       sectionGood = `
-				<div class="grid-item" data-productCode = ${productCode}>
+				<div class="grid-item ${inStock}" data-productCode = ${productCode}>
 					<div class="item-img-wrapper">
 						<img src="${img}">
 					</div>
@@ -88,16 +96,16 @@ export function rendMainContent(prod) {
                           <h3> ${getValuePrice(previousPrice)}</h3>
                         </div>      
 					              <div class="text-goods-price" > ${getValuePrice(
-                          price,
-                          unit
-                        )} </div>	
+          price,
+          unit
+        )} </div>	
                       </div>`;
       } else {
         sectionGood += `     
 						<div class="text-goods-price" >${getValuePrice(
-              price,
-              unit
-            )} </div>                   
+          price,
+          unit
+        )} </div>                   
         </div>`;
       }
 
@@ -120,9 +128,8 @@ export function getValuePrice(el, baseUnit, sect) {
   let elOfFloat = Number(el);
 
   if (elOfFloat) {
-    return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${
-      baseUnit ? baseUnit : ""
-    }</span>`;
+    return `&#8372 ${parseFloat(el).toFixed(2)} <span class="card-unit"> ${baseUnit ? baseUnit : ""
+      }</span>`;
   } else {
     return "<span style='width: 100%; text-align: center' >Ціна за домовленістю</span>";
   }
