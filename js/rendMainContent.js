@@ -5,6 +5,8 @@ import {
 } from "./renderSidebar.js";
 import { setHeightUserWindow } from "./ElemSizeControl.js";
 
+
+
 setHeightUserWindow();
 //наполняем sidebar контентом (группами товара)
 const sidebar = document.querySelector(".sidebar");
@@ -24,6 +26,7 @@ export function rendMainContent(prod) {
   //наполняем товарами из объекта products
 
   const place = document.querySelector(".content");
+  place.innerHTML = '';
   const prodLevelOne = Object.values(prod);
   let sectionGood = "";
   let item;
@@ -62,6 +65,9 @@ export function rendMainContent(prod) {
 
     productsItems = new Object(prodLevelOne[i]);
 
+   let inStockClass;
+   let showText;
+
     for (item in productsItems) {
       // содержимое категории товара
       const productCode = productsItems[item]["productCode"];
@@ -73,19 +79,30 @@ export function rendMainContent(prod) {
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
       let inStock = productsItems[item]["inStock"];
+let SoldOut = "";   
 
-      if (inStock == 0) {
-        inStock = 'monohrom'
-      } else {
-        inStock = ''
+      if (chbShowAllGoods.checked === true && inStock === '0') {
+        /* если отображаем только товары которые есть в наличии */
+        continue;
       }
-      
+
+      if (inStock === '0') {
+        inStockClass = 'monohrom'
+        SoldOut = '<img src="https://olegeduc.github.io/food-trade/labels/prodano-1.png" class="grid-item-prodano"> '
+      } else {
+        inStockClass = ''
+        SoldOut  = ''
+      }
+
+
+
       sectionGood = `
-				<div class="grid-item ${inStock}" data-productCode = ${productCode}>
-					<div class="item-img-wrapper">
+				<div class="grid-item" data-productCode = ${productCode}>
+        ${SoldOut}
+					<div class="item-img-wrapper  ${inStockClass}">
 						<img src="${img}">
 					</div>
-					<div class="text-goods-wrapper">
+					<div class="text-goods-wrapper ${inStockClass}">
 						<div class="text-goods-name">${productName} 
 						<div class="text-min-qty"> від ${minCountUnit} ${baseUnit}  </div> 
           </div> `;
@@ -134,5 +151,18 @@ export function getValuePrice(el, baseUnit, sect) {
     return "<span style='width: 100%; text-align: center' >Ціна за домовленістю</span>";
   }
 }
+
+
+
+const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
+chbShowAllGoods.addEventListener('click', () => {
+  const place = document.querySelector(".content");
+  place.innerHTML = ''
+
+  rendMainContent(products);
+
+})
+
+
 
 rendMainContent(products);

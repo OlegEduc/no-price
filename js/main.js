@@ -22,6 +22,3 @@ window.addEventListener("orientationchange", function () {
   }
 });
 
-
-
-

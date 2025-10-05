@@ -160,6 +160,48 @@ body {
   padding: 10px 0;
   border: 1px solid #74f596;
 }
+/* checkbox*/
+input[type="checkbox"] {
+  appearance: none;
+  /* Другие базовые стили */
+}
+
+label {
+  position: relative;
+  padding-left: 30px; /* Пространство для кастомного чекбокса */
+  cursor: pointer;
+}
+
+label::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #ffffff; /* Цвет границы */
+  background-color: #6ac76a; /* Цвет фона */
+  border-radius: 2px; /* Скруглённые углы */
+}
+
+input[type="checkbox"]:checked + label::before {
+  background-color: #6ac76a;; /* Новый цвет фона при выборе */
+  border-color: #ffffff; /* Новый цвет границы при выборе */
+}
+
+input[type="checkbox"]:checked + label::after {
+  content: "";
+  position: absolute;
+  left: 6px;
+  top: 3px;
+  width: 5px;
+  height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+/* checkbox*/
 
 .sidebar a {
   color: rgb(65, 65, 66);
@@ -198,6 +240,16 @@ body {
   max-width: auto;
   min-height: 300px;
   overflow: hidden;
+}
+
+.grid-item-prodano {
+  position: absolute;
+  width: 90%;
+ bottom: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  rotate: -33deg;
+  z-index: 10;
 }
 
 .grid-item-action {
