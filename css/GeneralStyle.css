@@ -241,7 +241,7 @@ input[type="checkbox"]:checked + label::after {
   overflow: hidden;
 }
 
-/* .grid-item-prodano {
+.grid-item-prodano {
   position: absolute;
   width: 90%;
  bottom: 40%;
@@ -249,7 +249,7 @@ input[type="checkbox"]:checked + label::after {
   transform: translate(-50%, -50%);
   rotate: -33deg;
   z-index: 10;
-} */
+}
 
 .grid-item-action {
   grid-column: 1 / -1;

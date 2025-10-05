@@ -66,8 +66,10 @@ export function rendMainContent(prod) {
     productsItems = new Object(prodLevelOne[i]);
 
     let inStockClass;
-    // const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
+    let arrival = ''  
+    const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
     // const imgSoldOut = 'https://olegeduc.github.io/food-trade/labels/prodano-1.png'       /* посилання на картинку ПРОДАНО */
+    
 
     for (item in productsItems) {
       // содержимое категории товара
@@ -80,7 +82,6 @@ export function rendMainContent(prod) {
       const previousPrice = productsItems[item]["previousPrice"];
       const price = productsItems[item]["price"];
       let inStock = productsItems[item]["inStock"];
-      
 
       if (chbShowAllGoods.checked === true && inStock === '0') {
         /* если отображаем только товары которые есть в наличии */
@@ -89,14 +90,19 @@ export function rendMainContent(prod) {
 
       if (inStock === '0') {
         inStockClass = 'monohrom'
+        if (arrayPlannedArrival.includes(productCode)) {
+          console.log(productName)
+          arrival = `<img class="grid-item-prodano" src="${imgPlannedArrival}">`
+        }
       } else {
         inStockClass = ''
+        arrival = ''  
       }
-
 
 
       sectionGood = `
 				<div class="grid-item" data-productCode = ${productCode}>
+        ${arrival}
 					<div class="item-img-wrapper  ${inStockClass}">
 						<img src="${img}">
 					</div>
