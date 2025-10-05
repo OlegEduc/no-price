@@ -1,4 +1,4 @@
-import { products, productCategorys, anouns } from "./productObject.js";
+import { products, productCategorys, anouns, arrayPlannedArrival } from "./productObject.js";
 import {
   rendSidebarContent,
   rendSidebarDropdownContent,
