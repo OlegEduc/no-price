@@ -65,7 +65,7 @@ export function rendMainContent(prod) {
 
     productsItems = new Object(prodLevelOne[i]);
 
-    let inStockClass;
+    let inStockClass='';
     let arrival = ''  
     const imgPlannedArrival = 'https://olegeduc.github.io/food-trade/labels/planned-arrival.png'   /* посилання на картинку ОЧІКУЄТЬСЯ НАДХОДЖЕННЯ */
     // const imgSoldOut = 'https://olegeduc.github.io/food-trade/labels/prodano-1.png'       /* посилання на картинку ПРОДАНО */
@@ -93,10 +93,13 @@ export function rendMainContent(prod) {
         if (arrayPlannedArrival.includes(productCode)) {
           console.log(productName)
           arrival = `<img class="grid-item-prodano" src="${imgPlannedArrival}">`
+        } else {
+          arrival = '';
         }
+
       } else {
         inStockClass = ''
-        arrival = ''  
+        arrival = '';          
       }
 
 
