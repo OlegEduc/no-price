@@ -160,7 +160,7 @@ body {
   padding: 10px 0;
   border: 1px solid #74f596;
 }
-/* checkbox*/
+/* checkbox start*/
 input[type="checkbox"] {
   appearance: none;
   /* Другие базовые стили */
@@ -200,8 +200,7 @@ input[type="checkbox"]:checked + label::after {
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
-
-/* checkbox*/
+/* checkbox end*/
 
 .sidebar a {
   color: rgb(65, 65, 66);
@@ -242,7 +241,7 @@ input[type="checkbox"]:checked + label::after {
   overflow: hidden;
 }
 
-.grid-item-prodano {
+/* .grid-item-prodano {
   position: absolute;
   width: 90%;
  bottom: 40%;
@@ -250,7 +249,7 @@ input[type="checkbox"]:checked + label::after {
   transform: translate(-50%, -50%);
   rotate: -33deg;
   z-index: 10;
-}
+} */
 
 .grid-item-action {
   grid-column: 1 / -1;
