@@ -153,6 +153,7 @@ export function getValuePrice(el, baseUnit, sect) {
 
 
 const chbShowAllGoods = document.querySelector('#inputShowAllGoods');
+
 chbShowAllGoods.addEventListener('click', () => {
   const place = document.querySelector(".content");
   place.innerHTML = ''
