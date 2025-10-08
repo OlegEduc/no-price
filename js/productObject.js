@@ -1,23 +1,7 @@
-// оновлено 08.10.25: 13:20:21.  Категория цены: БезЦен //
+// оновлено 08.10.25: 21:52:41.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4334"  :  { 
-			"category" : "Соуси, майонези, кетчупи",
-			"productCode" : "4334",
-			"productFullName" : "Кетчуп До шашлику Кухар Рішелье 250г",
-			"productName" : "Кетчуп До шашлику Кухар Рішелье 250г",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "45",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4334-ketchup-do-shashliku-kuhar-rishele-250g.jpg",
-			"inStock" : "1",
-			},
-		"2-4333"  :  { 
+		"1-4333"  :  { 
 			"category" : "Соуси, майонези, кетчупи",
 			"productCode" : "4333",
 			"productFullName" : "Кетчуп Лагідний \"Кухар Рішелье\" 250г",
@@ -31,6 +15,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4333-ketchup-lagidnij-kuhar-rishele-250g.jpg",
+			"inStock" : "1",
+			},
+		"2-4334"  :  { 
+			"category" : "Соуси, майонези, кетчупи",
+			"productCode" : "4334",
+			"productFullName" : "Кетчуп До шашлику Кухар Рішелье 250г",
+			"productName" : "Кетчуп До шашлику Кухар Рішелье 250г",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "45",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4334-ketchup-do-shashliku-kuhar-rishele-250g.jpg",
 			"inStock" : "1",
 			},
 	},
