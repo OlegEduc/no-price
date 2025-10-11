@@ -1,4 +1,4 @@
-// оновлено 11.10.25: 12:52:02.  Категория цены: БезЦен //
+// оновлено 11.10.25: 17:09:18.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4334"  :  { 
@@ -4314,7 +4314,7 @@ export const products = {
 			"minCountUnit" : "1",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "0",
 			},
 		"266" :  { 
@@ -7528,7 +7528,7 @@ export const products = {
 			"minCountUnit" : "10",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "0",
 			},
 		"466" :  { 
@@ -7608,7 +7608,7 @@ export const products = {
 			"minCountUnit" : "25",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "1",
 			},
 		"471" :  { 
@@ -11400,7 +11400,7 @@ export const products = {
 			"minCountUnit" : "50",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "0",
 			},
 		"707" :  { 
@@ -11432,7 +11432,7 @@ export const products = {
 			"minCountUnit" : "0",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "0",
 			},
 		"709" :  { 
@@ -11560,7 +11560,7 @@ export const products = {
 			"minCountUnit" : "0",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "0",
 			},
 		"717" :  { 
