@@ -1,11 +1,43 @@
-// оновлено 15.10.25: 10:56:19.  Категория цены: БезЦен //
+// оновлено 15.10.25: 11:16:44.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4350"  :  { 
+		"1-4339"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4339",
+			"productFullName" : "Печиво цукрове \"Duo de Luxe\" 2кг ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі Duo de Luxe 2кг з частковим глазуруванням",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "2",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4339-pechivo-cukrove-duo-de-luxe.jpg",
+			"inStock" : "0",
+			},
+		"2-4338"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4338",
+			"productFullName" : "Печиво цукрове \"Mio choco\" 1.9 кг ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі MIO CHOCO 1,9кг підглазуроване",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "1.9",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4338-pechivo-cukrove-mio-choco.jpg",
+			"inStock" : "0",
+			},
+		"3-4350"  :  { 
 			"category" : "Крупи",
 			"productCode" : "4350",
 			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
-			"productName" : "Крупа Кутя Добробут родзинки, мак, горіх 380гр.",
+			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
@@ -17,23 +49,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
 			"inStock" : "1",
 			},
-		"2-4336"  :  { 
-			"category" : "Сухофрукти, горіхи",
-			"productCode" : "4336",
-			"productFullName" : "Фініки Туніс 200 г.",
-			"productName" : "Фініки Туніс 200 г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "25",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
-			"inStock" : "1",
-			},
-		"3-4337"  :  { 
+		"4-4337"  :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "4337",
 			"productFullName" : "Фініки Туніс 500 г.",
@@ -47,6 +63,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-tunis-500-g.jpg",
+			"inStock" : "1",
+			},
+		"5-4336"  :  { 
+			"category" : "Сухофрукти, горіхи",
+			"productCode" : "4336",
+			"productFullName" : "Фініки Туніс 200 г.",
+			"productName" : "Фініки Туніс 200 г.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "25",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -209,7 +241,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4335-olija-rafinovana-gospodinja-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"11" :  { 
 			"category" : "Олія",
@@ -499,7 +531,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"29" :  { 
 			"category" : "Кондитерські вироби",
@@ -851,7 +883,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3437-karamel-tm-bayan-sulu-zlitna-1-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"51" :  { 
 			"category" : "Кондитерські вироби",
@@ -2725,7 +2757,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudz-boo-sticks-maxi-z-mol-smak-1-3-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"168" :  { 
 			"category" : "Печиво, пряники",
@@ -3095,7 +3127,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-gold-e-p-50gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"191" :  { 
 			"category" : "Кава",
@@ -7207,7 +7239,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"447" :  { 
 			"category" : "Корма для тварин",
@@ -7255,7 +7287,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-riba-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"450" :  { 
 			"category" : "Корма для тварин",
@@ -7661,22 +7693,6 @@ export const products = {
 			},
 		"475" :  { 
 			"category" : "Крупи",
-			"productCode" : "4350",
-			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
-			"productName" : "Крупа Кутя Добробут родзинки, мак, горіх 380гр.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "14",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
-			"inStock" : "1",
-			},
-		"476" :  { 
-			"category" : "Крупи",
 			"productCode" : "516",
 			"productFullName" : "Крупа перлова",
 			"productName" : "Крупа перлова",
@@ -7691,7 +7707,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlova.jpg",
 			"inStock" : "1",
 			},
-		"477" :  { 
+		"476" :  { 
 			"category" : "Крупи",
 			"productCode" : "518",
 			"productFullName" : "Крупа перлова 0,9кг. фасована",
@@ -7707,7 +7723,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlovaja-fas-09-kg.jpg",
 			"inStock" : "1",
 			},
-		"478" :  { 
+		"477" :  { 
 			"category" : "Крупи",
 			"productCode" : "519",
 			"productFullName" : "Крупа перлова 1кг фасована",
@@ -7723,7 +7739,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-perlova-1-kg-sitij-pan.jpg",
 			"inStock" : "0",
 			},
-		"479" :  { 
+		"478" :  { 
 			"category" : "Крупи",
 			"productCode" : "520",
 			"productFullName" : "Крупа пшенична 25 кг",
@@ -7739,7 +7755,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-25-kg.jpg",
 			"inStock" : "1",
 			},
-		"480" :  { 
+		"479" :  { 
 			"category" : "Крупи",
 			"productCode" : "521",
 			"productFullName" : "Крупа пшенична фас. 0,7 кг.",
@@ -7755,7 +7771,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-fas-07-kg.jpg",
 			"inStock" : "1",
 			},
-		"481" :  { 
+		"480" :  { 
 			"category" : "Крупи",
 			"productCode" : "522",
 			"productFullName" : "Крупа пшенична фас. 1 кг.",
@@ -7771,7 +7787,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
 			"inStock" : "0",
 			},
-		"482" :  { 
+		"481" :  { 
 			"category" : "Крупи",
 			"productCode" : "528",
 			"productFullName" : "Крупа ячна",
@@ -7787,7 +7803,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-25kg.jpg",
 			"inStock" : "1",
 			},
-		"483" :  { 
+		"482" :  { 
 			"category" : "Крупи",
 			"productCode" : "529",
 			"productFullName" : "Крупа ячна фас. 0,7 кг.",
@@ -7801,6 +7817,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-fas-07-kg.jpg",
+			"inStock" : "1",
+			},
+		"483" :  { 
+			"category" : "Крупи",
+			"productCode" : "4350",
+			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
+			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "14",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
 			"inStock" : "1",
 			},
 		"484" :  { 
@@ -9869,7 +9901,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-polunichnij-nektar-02.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"613" :  { 
 			"category" : "Вода, соки, напої",
@@ -10045,7 +10077,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchnij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"624" :  { 
 			"category" : "Вода, соки, напої",
@@ -10529,7 +10561,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "45",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4334-ketchup-do-shashliku-kuhar-rishele-250g.jpg",
 			"inStock" : "0",
 			},
@@ -10545,7 +10577,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "45",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4333-ketchup-lagidnij-kuhar-rishele-250g.jpg",
 			"inStock" : "1",
 			},
@@ -10963,7 +10995,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-550-mg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"681" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -12011,7 +12043,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"746" :  { 
 			"category" : "Госп.товари",
