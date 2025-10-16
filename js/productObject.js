@@ -1,5 +1,71 @@
-// оновлено 16.10.25: 12:28:38.  Категория цены: БезЦен //
+// оновлено 16.10.25: 15:30:42.  Категория цены: БезЦен //
 export const products = {
+	"focusProduct" : {
+		"1-4336"  :  { 
+			"category" : "Сухофрукти, горіхи",
+			"productCode" : "4336",
+			"productFullName" : "Фініки Туніс 200 г.",
+			"productName" : "Фініки Туніс 200 г.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "25",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
+			"inStock" : "1",
+			},
+		"2-4343"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4343",
+			"productFullName" : "Халва ТМ\"Жадана\" 270г. (PET-box)",
+			"productName" : "Халва Жадана 270г. (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4343-halva-tm-zhadana-270g-pet-box.jpg",
+			"inStock" : "1",
+			},
+		"3-4347"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4347",
+			"productFullName" : "Халва ТМ\"Жадана\" 270г. з абрикосовим джемом (PET-box)",
+			"productName" : "Халва Жадана 270г. з абрикосовим джемом (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4347-halva-tm-zhadana-270g-z-abrikosovim.jpg",
+			"inStock" : "1",
+			},
+		"4-4346"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4346",
+			"productFullName" : "Халва ТМ\"Жадана\" 270г. з вишневим джемом (PET-box)",
+			"productName" : "Халва Жадана 270г. з вишневим джемом (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4346-halva-tm-zhadana-270g-z-vishnevim.jpg",
+			"inStock" : "1",
+			},
+	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -1071,9 +1137,9 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"68" :  { 
 			"category" : "Кондитерські вироби",
@@ -4185,7 +4251,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4053-drizhdzhi-suhi-tm-nektar-10g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"262" :  { 
 			"category" : "Приправи та спеції",
@@ -4473,7 +4539,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec-chervonij-mel-15gnektar-25-sht.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"280" :  { 
 			"category" : "Приправи та спеції",
@@ -4521,7 +4587,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec-chornij-melenij-tm-vega-20g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"283" :  { 
 			"category" : "Приправи та спеції",
@@ -4987,7 +5053,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-kartopljanij-tm-nektar-250-gr.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"312" :  { 
 			"category" : "Бакалія",
@@ -6015,7 +6081,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-nektar-v-ts-530g-sb.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"376" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -6417,7 +6483,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\nektar-mjaso-kurej.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 	},
 	"Konservi-ribni" : {
@@ -11235,15 +11301,15 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-tunis-500-g.jpg",
 			"inStock" : "1",
 			},
 		"701" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "4351",
-			"productFullName" : "Чорнослив в'ялений Балончик вес. 5кг",
-			"productName" : "Чорнослив в'ялений Балончик вес. 5кг",
+			"productFullName" : "Чорнослив в'ялений \"BAXMAL FORVARD\" 5кг",
+			"productName" : "Чорнослив в'ялений Балончик вес. 5кг (BAXMAL FORVARD)",
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
 			"coefficient" : "1",
@@ -11252,7 +11318,7 @@ export const products = {
 			"minCountUnit" : "5",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
 			"inStock" : "1",
 			},
 		"702" :  { 
@@ -12446,4 +12512,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', ]
