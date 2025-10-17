@@ -1,23 +1,7 @@
-// оновлено 17.10.25: 11:30:26.  Категория цены: БезЦен //
+// оновлено 17.10.25: 21:13:12.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4338"  :  { 
-			"category" : "Печиво, пряники",
-			"productCode" : "4338",
-			"productFullName" : "Печиво цукрове \"Mio choco\" 1.9 кг ТМ\"Golski\"",
-			"productName" : "Печиво цукр Гольскі MIO CHOCO 1,9кг підглазуроване",
-			"unit" : "кг.",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "1.9",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4338-pechivo-cukrove-mio-choco.jpg",
-			"inStock" : "1",
-			},
-		"2-4339"  :  { 
+		"1-4339"  :  { 
 			"category" : "Печиво, пряники",
 			"productCode" : "4339",
 			"productFullName" : "Печиво цукрове \"Duo de Luxe\" 2кг ТМ\"Golski\"",
@@ -33,11 +17,27 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4339-pechivo-cukrove-duo-de-luxe.jpg",
 			"inStock" : "1",
 			},
-		"3-4346"  :  { 
+		"2-4338"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4338",
+			"productFullName" : "Печиво цукрове \"Mio choco\" 1.9 кг ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі MIO CHOCO 1,9кг підглазуроване",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "1.9",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4338-pechivo-cukrove-mio-choco.jpg",
+			"inStock" : "1",
+			},
+		"3-4343"  :  { 
 			"category" : "Кондитерські вироби",
-			"productCode" : "4346",
-			"productFullName" : "Халва ТМ\"Жадана\" 270г. з вишневим джемом (PET-box)",
-			"productName" : "Халва Жадана 270г. з вишневим джемом (ПЕТ)",
+			"productCode" : "4343",
+			"productFullName" : "Халва ТМ\"Жадана\" 270г. (PET-box)",
+			"productName" : "Халва Жадана 270г. (ПЕТ)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
@@ -46,7 +46,7 @@ export const products = {
 			"minCountUnit" : "3",
 			"promotion" : "1",
 			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4346-halva-tm-zhadana-270g-z-vishnevim.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4343-halva-tm-zhadana-270g-pet-box.jpg",
 			"inStock" : "1",
 			},
 		"4-4347"  :  { 
@@ -65,11 +65,11 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4347-halva-tm-zhadana-270g-z-abrikosovim.jpg",
 			"inStock" : "1",
 			},
-		"5-4326"  :  { 
+		"5-4346"  :  { 
 			"category" : "Кондитерські вироби",
-			"productCode" : "4326",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. (PET-box)",
-			"productName" : "Халва Жадана 200г. (ПЕТ)",
+			"productCode" : "4346",
+			"productFullName" : "Халва ТМ\"Жадана\" 270г. з вишневим джемом (PET-box)",
+			"productName" : "Халва Жадана 270г. з вишневим джемом (ПЕТ)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
@@ -78,23 +78,7 @@ export const products = {
 			"minCountUnit" : "3",
 			"promotion" : "1",
 			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
-			"inStock" : "1",
-			},
-		"6-4342"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4342",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. з абрикосовим джемом (PET-box)",
-			"productName" : "Халва Жадана 200г.з абрикосовим джемом (ПЕТ)",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "3",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4342-halva-zhadana-200g-z-abrikosovim-dzhemom-pet-box.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4346-halva-tm-zhadana-270g-z-vishnevim.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -12544,4 +12528,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '2494', '1828', '1994', '3371', '2117', '2133', '4315', '1982', ]
