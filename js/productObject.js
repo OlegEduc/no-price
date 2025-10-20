@@ -1,4 +1,4 @@
-// оновлено 17.10.25: 21:13:12.  Категория цены: БезЦен //
+// оновлено 20.10.25: 11:05:32.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4339"  :  { 
@@ -79,6 +79,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4346-halva-tm-zhadana-270g-z-vishnevim.jpg",
+			"inStock" : "1",
+			},
+		"6-4345"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4345",
+			"productFullName" : "Халва ТМ\"Жадана\" 270г. з горіхом (PET-box)",
+			"productName" : "Халва Жадана 270г. з горіхом (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "2",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4345-halva-tm-zhadana-270g-z-gorihom.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -1153,7 +1169,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "3",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
 			"inStock" : "0",
 			},
@@ -3047,7 +3063,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-mel-kava-zi-l'vova-l'vivs'ka-225-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"186" :  { 
 			"category" : "Кава",
@@ -3367,7 +3383,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-chorna-karta-gold-ep-120-gr.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"206" :  { 
 			"category" : "Кава",
@@ -6291,7 +6307,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"388" :  { 
 			"category" : "Консерви м'ясні",
@@ -6387,7 +6403,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-klasichna-325g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"394" :  { 
 			"category" : "Консерви м'ясні",
@@ -6403,7 +6419,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-klasichna-525g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"395" :  { 
 			"category" : "Консерви м'ясні",
@@ -9693,7 +9709,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"600" :  { 
 			"category" : "Вода, соки, напої",
@@ -11287,7 +11303,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"699" :  { 
 			"category" : "Сухофрукти, горіхи",
