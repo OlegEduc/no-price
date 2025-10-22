@@ -1,4 +1,4 @@
-// оновлено 22.10.25: 09:31:06.  Категория цены: БезЦен //
+// оновлено 22.10.25: 21:45:19.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4192"  :  { 
@@ -289,7 +289,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3223-olija-gurman-rafinovana-2l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"12" :  { 
 			"category" : "Олія",
@@ -1475,7 +1475,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-kavovij-trjufel'.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"86" :  { 
 			"category" : "Кондитерські вироби",
@@ -2517,7 +2517,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"151" :  { 
 			"category" : "Печиво, пряники",
@@ -4235,7 +4235,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"258" :  { 
 			"category" : "Приправи та спеції",
@@ -4491,7 +4491,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-sushenij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"274" :  { 
 			"category" : "Приправи та спеції",
@@ -5133,7 +5133,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mak-fas.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"314" :  { 
 			"category" : "Бакалія",
@@ -6467,7 +6467,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-nizhna-325g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"397" :  { 
 			"category" : "Консерви м'ясні",
@@ -6547,7 +6547,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\nektar-mjaso-kurej.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Konservi-ribni" : {
@@ -6951,7 +6951,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-jachni-mishok.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"427" :  { 
 			"category" : "Корма для тварин",
@@ -7415,7 +7415,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"456" :  { 
 			"category" : "Корма для тварин",
@@ -8009,7 +8009,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-vagovij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"493" :  { 
 			"category" : "Крупи",
@@ -8041,7 +8041,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-kruglij-vagovij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"495" :  { 
 			"category" : "Крупи",
@@ -8105,7 +8105,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"499" :  { 
 			"category" : "Крупи",
@@ -10125,7 +10125,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchnij.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"625" :  { 
 			"category" : "Вода, соки, напої",
@@ -11335,7 +11335,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"700" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11349,9 +11349,9 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "25",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"701" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11365,9 +11365,9 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-tunis-500-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"702" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11381,7 +11381,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "5",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
 			"inStock" : "1",
 			},
@@ -12427,7 +12427,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/svichki-stolovi.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"768" :  { 
 			"category" : "Госп.товари",
