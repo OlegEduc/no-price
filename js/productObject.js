@@ -1,4 +1,4 @@
-// оновлено 24.10.25: 09:44:22.  Категория цены: БезЦен //
+// оновлено 24.10.25: 11:08:00.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4192"  :  { 
@@ -515,7 +515,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-rollo-prjazh-mol.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"30" :  { 
 			"category" : "Кондитерські вироби",
@@ -1073,7 +1073,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
 			"inStock" : "1",
 			},
@@ -1427,7 +1427,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-pikolo-kavovij-trjufel'.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"87" :  { 
 			"category" : "Кондитерські вироби",
@@ -1939,7 +1939,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-tiramisu.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"119" :  { 
 			"category" : "Кондитерські вироби",
@@ -2035,7 +2035,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3616-cukerki-nutsi-batton.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"125" :  { 
 			"category" : "Кондитерські вироби",
@@ -4522,7 +4522,7 @@ export const products = {
 			"minCountUnit" : "1",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/548-list-lavrovij-melenij-vagovij.jpg",
 			"inStock" : "0",
 			},
 		"280" :  { 
@@ -5389,7 +5389,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-fasovana-1-kg-pud-soli.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"334" :  { 
 			"category" : "Бакалія",
@@ -6291,7 +6291,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kasha-grechana-z-mjasom-525g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"390" :  { 
 			"category" : "Консерви м'ясні",
@@ -12544,4 +12544,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '3614', '3080', '3500', '3615', '3846', '3499', '3921', '3942', '3521', '3533', '3532', '3295', '3339', '3508', '3845', '3613', '3522', '3523', '3519', '3622', '3616', '3970', '4047', '3844', '3520', '3623', '3069', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', ]
