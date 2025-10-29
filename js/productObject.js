@@ -1,4 +1,4 @@
-// оновлено 29.10.25: 12:15:56.  Категория цены: БезЦен //
+// оновлено 29.10.25: 21:24:01.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4192"  :  { 
@@ -1656,7 +1656,7 @@ export const products = {
 		"99" :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "3398",
-			"productFullName" : "Цук ваф Ассорти М\/Ц 3 кг.",
+			"productFullName" : "Цукерки вафельні \"Асорті\" М\/Ц 3 кг.",
 			"productName" : "Цук ваф Ассорти М\/Ц 3 кг.",
 			"unit" : "кг.",
 			"baseUnit" : "кг.",
@@ -1666,7 +1666,7 @@ export const products = {
 			"minCountUnit" : "3",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\3398-cukerki-vafelni-asorti-mc-3-kg.jpg",
 			"inStock" : "1",
 			},
 		"100" :  { 
@@ -1746,7 +1746,7 @@ export const products = {
 			"minCountUnit" : "3",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1911-cukerki-dlja-bilosnizhki.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1911-cukerki-vafelni-dlja-bilosnizhki-mc-3-kg.jpg",
 			"inStock" : "1",
 			},
 		"105" :  { 
@@ -1794,7 +1794,7 @@ export const products = {
 			"minCountUnit" : "3",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1908-cukerki-chervonoi-shapochki.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1908-cukerki-vafelni-dlja-chervonoi-shapochki-mc-3-kg.jpg",
 			"inStock" : "1",
 			},
 		"108" :  { 
@@ -2357,7 +2357,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4270-pechivo-vushka-tm-rajgorodskij-korovaj-16kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"143" :  { 
 			"category" : "Печиво, пряники",
@@ -2903,7 +2903,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/lavazza\\kava-lavazza-oro-250.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"177" :  { 
 			"category" : "Кава",
@@ -8665,7 +8665,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/shproti-darinka--2-150g.jpg",
 			"inStock" : "1",
 			},
@@ -8715,7 +8715,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
@@ -10465,7 +10465,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"648" :  { 
 			"category" : "Корма для тварин",
@@ -11431,7 +11431,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"708" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -12752,4 +12752,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '4330', '4331', '4338', '4313', '4311', '4309', '4308', '3614', '3080', '3500', '3615', '3846', '3499', '3921', '3942', '3521', '3533', '3532', '3295', '3339', '3107', '3508', '3845', '3613', '3525', '3522', '3564', '3523', '4290', '3519', '3616', '3970', '4047', '3844', '3520', '3623', '3069', ]
