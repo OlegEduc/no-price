@@ -1,4 +1,4 @@
-// оновлено 28.10.25: 18:40:07.  Категория цены: БезЦен //
+// оновлено 29.10.25: 12:15:56.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4192"  :  { 
@@ -2485,7 +2485,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4311-pechivo-cukrove-krapka-kakao.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"151" :  { 
 			"category" : "Печиво, пряники",
@@ -3351,7 +3351,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-migdal'.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"205" :  { 
 			"category" : "Кава",
@@ -8665,7 +8665,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/shproti-darinka--2-150g.jpg",
 			"inStock" : "1",
 			},
@@ -8690,7 +8690,7 @@ export const products = {
 		"537" :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4357",
-			"productFullName" : "Вода мінеральна ТМ\"Sairme\" негазована 500мл (Грузія)",
+			"productFullName" : "Вода мінеральна ТМ\"Sairme\" негазована 500мл, скло (Грузія)",
 			"productName" : "Вода Sairme 0,5 л. мін.негаз СТЕКЛО",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -8715,7 +8715,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "2",
+			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
