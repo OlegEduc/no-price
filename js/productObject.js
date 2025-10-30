@@ -1,39 +1,7 @@
-// оновлено 30.10.25: 09:08:32.  Категория цены: БезЦен //
+// оновлено 30.10.25: 12:32:52.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4192"  :  { 
-			"category" : "Соуси, майонези, кетчупи",
-			"productCode" : "4192",
-			"productFullName" : "Соус ТМ\"Руна\" Журавлиний 240г.",
-			"productName" : "Соус Руна Журавлиний 240г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "6",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-zhuravlinij-240g.jpg",
-			"inStock" : "1",
-			},
-		"2-4191"  :  { 
-			"category" : "Соуси, майонези, кетчупи",
-			"productCode" : "4191",
-			"productFullName" : "Соус ТМ\"Руна\" Карі 235 г.",
-			"productName" : "Соус Руна Карі 235 г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "6",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-kari-235-g.jpg",
-			"inStock" : "1",
-			},
-		"3-4360"  :  { 
+		"1-4360"  :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4360",
 			"productFullName" : "Лимонад ТМ\"VILI\" Барбарис 500мл",
@@ -49,7 +17,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
-		"4-4358"  :  { 
+		"2-4358"  :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4358",
 			"productFullName" : "Лимонад ТМ\"VILI\" Дюшес 500мл",
@@ -65,7 +33,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
-		"5-4359"  :  { 
+		"3-4359"  :  { 
 			"category" : "Вода, соки, напої",
 			"productCode" : "4359",
 			"productFullName" : "Лимонад ТМ\"VILI\" Тархун 500мл",
@@ -79,6 +47,38 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
+			"inStock" : "1",
+			},
+		"4-4192"  :  { 
+			"category" : "Соуси, майонези, кетчупи",
+			"productCode" : "4192",
+			"productFullName" : "Соус ТМ\"Руна\" Журавлиний 240г.",
+			"productName" : "Соус Руна Журавлиний 240г.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "6",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-zhuravlinij-240g.jpg",
+			"inStock" : "0",
+			},
+		"5-4191"  :  { 
+			"category" : "Соуси, майонези, кетчупи",
+			"productCode" : "4191",
+			"productFullName" : "Соус ТМ\"Руна\" Карі 235 г.",
+			"productName" : "Соус Руна Карі 235 г.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "6",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-kari-235-g.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -2437,7 +2437,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4331-pechivo-cukrove-duo-de-luxe-golski.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"148" :  { 
 			"category" : "Печиво, пряники",
@@ -2485,7 +2485,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4311-pechivo-cukrove-krapka-kakao.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"151" :  { 
 			"category" : "Печиво, пряники",
@@ -2549,7 +2549,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"155" :  { 
 			"category" : "Печиво, пряники",
@@ -2709,7 +2709,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"165" :  { 
 			"category" : "Печиво, пряники",
@@ -5951,7 +5951,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4263-makaronni-virobi-tm-jaroslav-10-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"367" :  { 
 			"category" : "Макаронні вироби",
@@ -6723,7 +6723,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/grechana-krupa.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"415" :  { 
 			"category" : "Крупи",
@@ -7573,7 +7573,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-tm-runa-zhuravlinij-240g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"468" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -10141,7 +10141,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-19l-jabluchno-vinograd-nektar.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"628" :  { 
 			"category" : "Вода, соки, напої",
@@ -10897,7 +10897,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-pes-standart-10-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"675" :  { 
 			"category" : "Корма для тварин",
@@ -12750,9 +12750,6 @@ export const productCategorys = {
 	"Rizne" : "Різне",
  }
 
-export const anouns =
-[
-'<b>УВАГА !!!</b><br>Інформуємо Вас, що з <br>10 листопада 2025 року відбудеться<br><b >здорожчання продукції ТМ "GOLSKI".</b><br>Як повідмляє виробник, ріст цін зумовлений зростанням вартості сировини та пакувальних матеріалів.',
-]
+export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '4330', '4331', '4338', '4313', '4311', '4309', '4308', '3614', '3080', '3500', '3615', '3846', '3499', '3921', '3942', '3521', '3533', '3532', '3295', '3339', '3107', '3508', '3845', '3613', '3525', '3522', '3564', '3523', '4290', '3519', '3616', '3970', '4047', '3844', '3520', '3623', '3069', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', ]
