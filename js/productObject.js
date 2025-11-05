@@ -1,4 +1,4 @@
-// оновлено 04.11.25: 12:31:08.  Категория цены: БезЦен //
+// оновлено 05.11.25: 10:18:49.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4360"  :  { 
@@ -2565,7 +2565,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"158" :  { 
 			"category" : "Печиво, пряники",
@@ -6017,7 +6017,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"373" :  { 
 			"category" : "Борошно, висівки",
@@ -7897,7 +7897,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-svinina-do-snidanku-525g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"490" :  { 
 			"category" : "Консерви м'ясні",
@@ -10161,7 +10161,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"631" :  { 
 			"category" : "Корма для тварин",
@@ -12398,9 +12398,6 @@ export const productCategorys = {
 	"Rizne" : "Різне",
  }
 
-export const anouns =
-[
-'<b>УВАГА !!!</b><br>Інформуємо Вас, що з <br>10 листопада 2025 року відбудеться<br><b >здорожчання продукції ТМ "GOLSKI".</b><br>Як повідмляє виробник, ріст цін зумовлений зростанням вартості сировини та пакувальних матеріалів.',
-]
+export const anouns = []
 
 export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', ]
