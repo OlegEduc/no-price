@@ -1,55 +1,5 @@
-// оновлено 05.11.25: 10:18:49.  Категория цены: БезЦен //
+// оновлено 06.11.25: 15:34:39.  Категория цены: БезЦен //
 export const products = {
-	"focusProduct" : {
-		"1-4360"  :  { 
-			"category" : "Вода, соки, напої",
-			"productCode" : "4360",
-			"productFullName" : "Лимонад ТМ\"VILI\" Барбарис 500мл",
-			"productName" : "Лимонад VILI Барбарис 0,5 л СКЛО",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "20",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
-			"inStock" : "1",
-			},
-		"2-4358"  :  { 
-			"category" : "Вода, соки, напої",
-			"productCode" : "4358",
-			"productFullName" : "Лимонад ТМ\"VILI\" Дюшес 500мл",
-			"productName" : "Лимонад VILI Дюшес 0,5 л СКЛО",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "20",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
-			"inStock" : "1",
-			},
-		"3-4359"  :  { 
-			"category" : "Вода, соки, напої",
-			"productCode" : "4359",
-			"productFullName" : "Лимонад ТМ\"VILI\" Тархун 500мл",
-			"productName" : "Лимонад VILI Тархун 0,5 л СКЛО",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "20",
-			"promotion" : "1",
-			"new-label" : "2",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
-			"inStock" : "1",
-			},
-	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -97,7 +47,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"4" :  { 
 			"category" : "Олія",
@@ -1171,7 +1121,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4347-halva-tm-zhadana-270g-z-abrikosovim.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"71" :  { 
 			"category" : "Кондитерські вироби",
@@ -1219,7 +1169,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4345-halva-tm-zhadana-270g-z-gorihom.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"74" :  { 
 			"category" : "Кондитерські вироби",
@@ -2229,7 +2179,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"137" :  { 
 			"category" : "Печиво, пряники",
@@ -2261,7 +2211,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4270-pechivo-vushka-tm-rajgorodskij-korovaj-16kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"139" :  { 
 			"category" : "Печиво, пряники",
@@ -2597,7 +2547,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"160" :  { 
 			"category" : "Печиво, пряники",
@@ -2613,7 +2563,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"161" :  { 
 			"category" : "Печиво, пряники",
@@ -2645,7 +2595,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"163" :  { 
 			"category" : "Печиво, пряники",
@@ -5149,7 +5099,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-abrikos-6kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"319" :  { 
 			"category" : "Бакалія",
@@ -6963,7 +6913,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild-09-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 	},
 	"Sousi-majonezi-ketchupi" : {
@@ -7591,7 +7541,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-vega-bila-530g-sb.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"471" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -7607,7 +7557,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-vega-v-ts-530g-sb.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"472" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -8025,7 +7975,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\nektar-mjaso-kurej.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"498" :  { 
 			"category" : "Консерви м'ясні",
@@ -8461,7 +8411,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\voda-avalon-mirnenska-05l-silno-gaz-min.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"525" :  { 
 			"category" : "Вода, соки, напої",
@@ -8573,7 +8523,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirnenska-05l-negazovana.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"532" :  { 
 			"category" : "Вода, соки, напої",
@@ -8925,7 +8875,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3186-napij-tm-maksi-frukt-ananas-3l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"554" :  { 
 			"category" : "Вода, соки, напої",
@@ -9021,7 +8971,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-limonad-1.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"560" :  { 
 			"category" : "Вода, соки, напої",
@@ -9037,7 +8987,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-mohito.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"561" :  { 
 			"category" : "Вода, соки, напої",
@@ -9053,7 +9003,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnenska-05-l-multifrukt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"562" :  { 
 			"category" : "Вода, соки, напої",
@@ -9085,7 +9035,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-1-l-kola-1.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"564" :  { 
 			"category" : "Вода, соки, напої",
@@ -9821,7 +9771,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-19l-mul'tifrukt-nektar.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"610" :  { 
 			"category" : "Вода, соки, напої",
@@ -10529,7 +10479,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"654" :  { 
 			"category" : "Корма для тварин",
@@ -10545,7 +10495,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"655" :  { 
 			"category" : "Корма для тварин",
@@ -10771,7 +10721,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-tm-sova-molochni-60g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"669" :  { 
 			"category" : "Снеки",
@@ -11079,7 +11029,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"688" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11095,7 +11045,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"689" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11207,7 +11157,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"696" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -12331,7 +12281,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-paperovij-kol'orovij-175-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"766" :  { 
 			"category" : "Тара та упаковка",
