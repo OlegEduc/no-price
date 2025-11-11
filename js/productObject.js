@@ -1,4 +1,4 @@
-// оновлено 10.11.25: 19:58:34.  Категория цены: БезЦен //
+// оновлено 11.11.25: 15:53:18.  Категория цены: БезЦен //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -15,7 +15,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1741-olija-bokarjev-nerafinovana-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"2" :  { 
 			"category" : "Олія",
@@ -159,7 +159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4335-olija-rafinovana-gospodinja-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"11" :  { 
 			"category" : "Олія",
@@ -1021,7 +1021,7 @@ export const products = {
 			"coefficient" : "1",
 			"previousPrice" : "",
 			"price" : "",
-			"minCountUnit" : "20",
+			"minCountUnit" : "14",
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
@@ -2563,7 +2563,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"161" :  { 
 			"category" : "Печиво, пряники",
@@ -2595,7 +2595,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"163" :  { 
 			"category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-zhb-50-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"180" :  { 
 			"category" : "Кава",
@@ -6353,7 +6353,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/114-vivsjani-plastivci-tm-sto-pudiv-400g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"397" :  { 
 			"category" : "Крупи",
@@ -8121,7 +8121,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\kil'ka-supoj-u-tom-sousi.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"507" :  { 
 			"category" : "Консерви рибні",
@@ -8827,7 +8827,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-05.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"551" :  { 
 			"category" : "Вода, соки, напої",
@@ -9563,7 +9563,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-mohito-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"597" :  { 
 			"category" : "Вода, соки, напої",
@@ -9579,7 +9579,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"598" :  { 
 			"category" : "Вода, соки, напої",
@@ -12382,4 +12382,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3438', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', ]
