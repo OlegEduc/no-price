@@ -1,4 +1,4 @@
-// оновлено 11.11.25: 15:53:18.  Категория цены: БезЦен //
+// оновлено 12.11.25: 19:38:40.  Категория цены: БезЦен //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -15,7 +15,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1741-olija-bokarjev-nerafinovana-1l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"2" :  { 
 			"category" : "Олія",
@@ -47,7 +47,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"4" :  { 
 			"category" : "Олія",
@@ -159,7 +159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4335-olija-rafinovana-gospodinja-1l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"11" :  { 
 			"category" : "Олія",
@@ -753,7 +753,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3440-karamel-tm-bayan-sulu-apelsin-1-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"48" :  { 
 			"category" : "Кондитерські вироби",
@@ -1153,7 +1153,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4346-halva-tm-zhadana-270g-z-vishnevim.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"73" :  { 
 			"category" : "Кондитерські вироби",
@@ -3157,7 +3157,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-migdal'.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"198" :  { 
 			"category" : "Кава",
@@ -3639,7 +3639,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-za-dinamo-25-2-gr-chornij.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"228" :  { 
 			"category" : "Чаї",
@@ -6353,7 +6353,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/114-vivsjani-plastivci-tm-sto-pudiv-400g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"397" :  { 
 			"category" : "Крупи",
@@ -9291,7 +9291,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4005-napij-pepsi-cola-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"580" :  { 
 			"category" : "Вода, соки, напої",
@@ -9579,7 +9579,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-tonik-075-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"598" :  { 
 			"category" : "Вода, соки, напої",
@@ -9739,7 +9739,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-vinogradnij-osvitl-nektar-02.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"608" :  { 
 			"category" : "Вода, соки, напої",
@@ -9867,7 +9867,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-mul'tifrukt.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"616" :  { 
 			"category" : "Вода, соки, напої",
@@ -10127,7 +10127,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"632" :  { 
 			"category" : "Корма для тварин",
@@ -10303,7 +10303,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-kalinka-start-dlja-kroliv-10-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"643" :  { 
 			"category" : "Корма для тварин",
@@ -10511,7 +10511,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"656" :  { 
 			"category" : "Корма для тварин",
@@ -10527,7 +10527,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"657" :  { 
 			"category" : "Корма для тварин",
