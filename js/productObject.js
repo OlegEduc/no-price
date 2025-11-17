@@ -1,4 +1,4 @@
-// оновлено 17.11.25: 11:04:16.  Категория цены: БезЦен //
+// оновлено 17.11.25: 12:25:05.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4350"  :  { 
@@ -273,7 +273,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4352-olija-rafinovana-podilska-5.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"17" :  { 
 			"category" : "Олія",
@@ -4395,7 +4395,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-50g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"274" :  { 
 			"category" : "Приправи та спеції",
@@ -6307,7 +6307,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-vivsjana-500g-fasovana.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"393" :  { 
 			"category" : "Крупи",
@@ -7783,7 +7783,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olivki-santarrita-bez-kistochki-280g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Konservi-m'jasni" : {
@@ -11449,7 +11449,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gel-dlja-posudu-fairy-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"713" :  { 
 			"category" : "Госп.товари",
@@ -12464,4 +12464,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
+export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', '1882', '1887', '1924', '1889', ]
