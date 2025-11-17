@@ -1,4 +1,4 @@
-// оновлено 17.11.25: 12:25:05.  Категория цены: БезЦен //
+// оновлено 17.11.25: 13:12:19.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-4350"  :  { 
@@ -1267,7 +1267,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"79" :  { 
 			"category" : "Кондитерські вироби",
@@ -7833,7 +7833,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"488" :  { 
 			"category" : "Консерви м'ясні",
@@ -7881,7 +7881,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kurka-elitn-525g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"491" :  { 
 			"category" : "Консерви м'ясні",
@@ -7913,7 +7913,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-svinina-do-snidanku-525g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"493" :  { 
 			"category" : "Консерви м'ясні",
@@ -7977,7 +7977,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-nizhna-525g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"497" :  { 
 			"category" : "Консерви м'ясні",
@@ -10159,7 +10159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"633" :  { 
 			"category" : "Молочна продукція, масло",
@@ -12464,4 +12464,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', '1882', '1887', '1924', '1889', ]
+export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
