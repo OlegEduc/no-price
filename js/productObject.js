@@ -1,4 +1,4 @@
-// оновлено 18.11.25: 07:59:21.  Категория цены: БезЦен //
+// оновлено 18.11.25: 11:19:13.  Категория цены: БезЦен //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -2259,7 +2259,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4330-pechivo-cukrove-choco-moon-golski.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"142" :  { 
 			"category" : "Печиво, пряники",
@@ -2403,7 +2403,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4308-pechivo-cukrove-podilske-moloka.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"151" :  { 
 			"category" : "Печиво, пряники",
@@ -5983,7 +5983,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\makuha-sonjashnikova-25-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"374" :  { 
 			"category" : "Борошно, висівки",
@@ -7299,7 +7299,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/runa-lecho.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"456" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -7509,7 +7509,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zelenij-ekool-zhb-422gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"469" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -9691,7 +9691,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-bananovo-polunichnij-02.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"605" :  { 
 			"category" : "Вода, соки, напої",
@@ -10575,7 +10575,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"660" :  { 
 			"category" : "Корма для тварин",
@@ -12398,4 +12398,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['596', '4330', '4339', '4313', '4312', '4310', '4311', '4309', '4308', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
+export const arrayPlannedArrival = ['596', '3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
