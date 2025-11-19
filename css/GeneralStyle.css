@@ -117,7 +117,7 @@ body {
 }
 
 .content {
- 
+
   font-weight: 400;
   grid-area: main;
   position: relative;
@@ -160,6 +160,7 @@ body {
   padding: 10px 0;
   border: 1px solid #74f596;
 }
+
 /* checkbox start*/
 input[type="checkbox"] {
   appearance: none;
@@ -168,7 +169,8 @@ input[type="checkbox"] {
 
 label {
   position: relative;
-  padding-left: 30px; /* Пространство для кастомного чекбокса */
+  padding-left: 30px;
+  /* Пространство для кастомного чекбокса */
   cursor: pointer;
 }
 
@@ -179,17 +181,23 @@ label::before {
   top: 0;
   width: 18px;
   height: 18px;
-  border: 1px solid #ffffff; /* Цвет границы */
-  background-color: #6ac76a; /* Цвет фона */
-  border-radius: 2px; /* Скруглённые углы */
+  border: 1px solid #ffffff;
+  /* Цвет границы */
+  background-color: #6ac76a;
+  /* Цвет фона */
+  border-radius: 2px;
+  /* Скруглённые углы */
 }
 
-input[type="checkbox"]:checked + label::before {
-  background-color: #6ac76a;; /* Новый цвет фона при выборе */
-  border-color: #ffffff; /* Новый цвет границы при выборе */
+input[type="checkbox"]:checked+label::before {
+  background-color: #6ac76a;
+  ;
+  /* Новый цвет фона при выборе */
+  border-color: #ffffff;
+  /* Новый цвет границы при выборе */
 }
 
-input[type="checkbox"]:checked + label::after {
+input[type="checkbox"]:checked+label::after {
   content: "";
   position: absolute;
   left: 6px;
@@ -200,6 +208,7 @@ input[type="checkbox"]:checked + label::after {
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
+
 /* checkbox end*/
 
 .sidebar a {
@@ -225,7 +234,8 @@ input[type="checkbox"]:checked + label::after {
 
 .monohrom {
   /* = делает отображение монохромным =*/
-  filter: brightness(0.95) saturate(0%);
+  filter: brightness(0.95) saturate(80%);
+  opacity: 0.5;
 }
 
 .grid-item {
@@ -244,7 +254,7 @@ input[type="checkbox"]:checked + label::after {
 .grid-item-prodano {
   position: absolute;
   width: 90%;
- bottom: 40%;
+  bottom: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   rotate: -33deg;
@@ -315,7 +325,7 @@ input[type="checkbox"]:checked + label::after {
   display: flex;
   font-size: small;
   /* font-size: 1rem; */
-/*   font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1.2rem); */
+  /*   font-size: clamp(0.7rem, 0.1rem + 1.96vw, 1.2rem); */
   font-weight: 500;
   color: #59981a;
   align-items: center;
@@ -365,7 +375,7 @@ input[type="checkbox"]:checked + label::after {
 
 .promotion-img {
   height: 100%;
-  width: auto; 
+  width: auto;
   max-width: 100%;
   max-height: auto;
 }
