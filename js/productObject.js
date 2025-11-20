@@ -1,4 +1,4 @@
-// оновлено 19.11.25: 22:26:15.  Категория цены: БезЦен //
+// оновлено 20.11.25: 10:04:50.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-1020"  :  { 
@@ -3111,7 +3111,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-stik-2gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"193" :  { 
 			"category" : "Кава",
@@ -3849,7 +3849,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3816-chaj-tm-tri-sloni-cejlon-malina-20-13g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"239" :  { 
 			"category" : "Чаї",
@@ -5787,7 +5787,7 @@ export const products = {
 			"coefficient" : "1",
 			"previousPrice" : "",
 			"price" : "",
-			"minCountUnit" : "1",
+			"minCountUnit" : "20",
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
@@ -6803,7 +6803,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-vg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"423" :  { 
 			"category" : "Крупи",
@@ -8491,7 +8491,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "12",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4355-voda-mineralna-tm-sairme-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8523,7 +8523,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "6",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4356-voda-mineralna-tm-sairme-1l.jpg",
 			"inStock" : "1",
 			},
@@ -8875,7 +8875,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8891,7 +8891,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8907,7 +8907,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -10079,7 +10079,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"627" :  { 
 			"category" : "Молочна продукція, масло",
@@ -10641,7 +10641,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-riba-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"662" :  { 
 			"category" : "Корма для тварин",
