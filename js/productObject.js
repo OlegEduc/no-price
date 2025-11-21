@@ -1,23 +1,7 @@
-// оновлено 21.11.25: 09:46:46.  Категория цены: БезЦен //
+// оновлено 21.11.25: 11:29:14.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4350"  :  { 
-			"category" : "Крупи",
-			"productCode" : "4350",
-			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
-			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "14",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
-			"inStock" : "1",
-			},
-		"2-1020"  :  { 
+		"1-1020"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "1020",
 			"productFullName" : "Халва ТМ\"Жадана\" 5кг.",
@@ -31,6 +15,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
+			"inStock" : "1",
+			},
+		"2-4350"  :  { 
+			"category" : "Крупи",
+			"productCode" : "4350",
+			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
+			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "14",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -915,7 +915,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3444-karamel-tm-bayan-sulu-polunicja-1-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"56" :  { 
 			"category" : "Кондитерські вироби",
@@ -4363,7 +4363,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-sushenij.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"271" :  { 
 			"category" : "Приправи та спеції",
@@ -8875,7 +8875,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4360-limonad-tm-vili-barbaris-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8891,7 +8891,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -8907,7 +8907,7 @@ export const products = {
 			"price" : "",
 			"minCountUnit" : "20",
 			"promotion" : "1",
-			"new-label" : "1",
+			"new-label" : "2",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
 			"inStock" : "1",
 			},
@@ -9773,7 +9773,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-bananovo-polunichnij-02.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"608" :  { 
 			"category" : "Вода, соки, напої",
@@ -9805,7 +9805,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02-mul'tifrukt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"610" :  { 
 			"category" : "Вода, соки, напої",
@@ -9853,7 +9853,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-vinogradnij-osvitl-nektar-02.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"613" :  { 
 			"category" : "Вода, соки, напої",
@@ -9901,7 +9901,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-19l-mul'tifrukt-nektar.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"616" :  { 
 			"category" : "Вода, соки, напої",
@@ -9917,7 +9917,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-19l-jabluchno-vinograd-nektar.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"617" :  { 
 			"category" : "Вода, соки, напої",
@@ -9965,7 +9965,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchno-grushovij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"620" :  { 
 			"category" : "Вода, соки, напої",
@@ -9981,7 +9981,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-mul'tifrukt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"621" :  { 
 			"category" : "Вода, соки, напої",
@@ -10029,7 +10029,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-jabluchnij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"624" :  { 
 			"category" : "Вода, соки, напої",
@@ -12480,4 +12480,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
+export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1011', '1012', '4361', '4330', '4331', '4338', '4313', '4312', '4310', '4311', '4309', '4308', ]
