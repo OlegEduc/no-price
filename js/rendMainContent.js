@@ -57,9 +57,9 @@ export function rendMainContent(prod) {
     // категория товара
     category = Object.keys(prod)[i];
     const cat = `
-            <div class="category-goods" id="${category}">        		
+            <article class="category-goods" id="${category}">        		
 				<h2>${category}</h2>
-			</div>`;
+			</article>`;
 
     place.insertAdjacentHTML("beforeEnd", cat);
 
@@ -104,7 +104,7 @@ export function rendMainContent(prod) {
 
 
       sectionGood = `
-				<div class="grid-item" data-productCode = ${productCode}>
+				<article class="grid-item" data-productCode = ${productCode}>
         ${arrival}
 					<div class="item-img-wrapper  ${inStockClass}">
 						<img src="${img}">
@@ -130,7 +130,7 @@ export function rendMainContent(prod) {
           price,
           unit
         )} </div>                   
-        </div>`;
+        </article`;
       }
 
       place.insertAdjacentHTML("beforeEnd", sectionGood);
