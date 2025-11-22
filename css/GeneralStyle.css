@@ -304,12 +304,15 @@ input[type="checkbox"]:checked+label::after {
 }
 
 .text-goods-name {
-  /* color: blue; */
-  color: rgb(57, 57, 57);
-  /* font-size: clamp(1.1rem, 0.375rem + 1vw, 1.25rem); */
+  display: flex;
+  flex-direction: column;
+  margin: auto;
   font-size: clamp(0.8rem, 0.375rem + 1vw, 1rem);
   text-align: center;
+  align-items: center;
+  color: rgb(57, 57, 57);
   overflow-y: auto;
+  line-height: 1;
 }
 
 .text-min-qty {

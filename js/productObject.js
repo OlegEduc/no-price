@@ -1,4 +1,4 @@
-// оновлено 21.11.25: 11:29:14.  Категория цены: БезЦен //
+// оновлено 22.11.25: 11:14:52.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-1020"  :  { 
@@ -6981,7 +6981,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4334-ketchup-do-shashliku-kuhar-rishele-250g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"434" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -6997,7 +6997,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4333-ketchup-lagidnij-kuhar-rishele-250g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"435" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -10241,7 +10241,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"637" :  { 
 			"category" : "Корма для тварин",
@@ -11260,7 +11260,7 @@ export const products = {
 		"700" :  { 
 			"category" : "Сухофрукти, горіхи",
 			"productCode" : "4337",
-			"productFullName" : "Фініки Туніс 500 г.",
+			"productFullName" : "Фініки 500г. (Туніс)",
 			"productName" : "Фініки Туніс 500 г.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -11270,7 +11270,7 @@ export const products = {
 			"minCountUnit" : "12",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-tunis-500-g.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-500g-tunis.jpg",
 			"inStock" : "1",
 			},
 		"701" :  { 
