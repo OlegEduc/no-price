@@ -1,7 +1,23 @@
-// оновлено 27.11.25: 09:02:58.  Категория цены: БезЦен //
+// оновлено 27.11.25: 16:32:57.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4342"  :  { 
+		"1-4326"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4326",
+			"productFullName" : "Халва ТМ\"Жадана\" 200г. (PET-box)",
+			"productName" : "Халва Жадана 200г. (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
+			"inStock" : "1",
+			},
+		"2-4342"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4342",
 			"productFullName" : "Халва ТМ\"Жадана\" 200г. з абрикосовим джемом (PET-box)",
@@ -17,7 +33,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4342-halva-zhadana-200g-z-abrikosovim-dzhemom-pet-box.jpg",
 			"inStock" : "1",
 			},
-		"2-4341"  :  { 
+		"3-4341"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4341",
 			"productFullName" : "Халва ТМ\"Жадана\" 200г. з вишневим джемом (PET-box)",
@@ -31,22 +47,6 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
-			"inStock" : "1",
-			},
-		"3-4326"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4326",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. (PET-box)",
-			"productName" : "Халва Жадана 200г. (ПЕТ)",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "3",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
 			"inStock" : "1",
 			},
 		"4-4350"  :  { 
@@ -401,7 +401,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-svitlana-rafinovana-5l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Konditers'ki-virobi" : {
@@ -2935,7 +2935,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-zhb-50-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"180" :  { 
 			"category" : "Кава",
@@ -3111,7 +3111,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\kava-neskafe-klasik-e-p-120-gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"191" :  { 
 			"category" : "Кава",
@@ -7881,7 +7881,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"488" :  { 
 			"category" : "Консерви м'ясні",
@@ -9309,7 +9309,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-limonad-1.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"577" :  { 
 			"category" : "Вода, соки, напої",
@@ -9709,7 +9709,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"602" :  { 
 			"category" : "Вода, соки, напої",
@@ -10689,7 +10689,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"663" :  { 
 			"category" : "Корма для тварин",
@@ -11287,7 +11287,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"700" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11303,7 +11303,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"701" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11319,7 +11319,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"702" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11401,7 +11401,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kohavinka-rul.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"707" :  { 
 			"category" : "Госп.товари",
@@ -11931,7 +11931,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/banka-2l-tvist.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"740" :  { 
 			"category" : "Тара та упаковка",
@@ -12544,4 +12544,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1011', '1012', '4361', ]
+export const arrayPlannedArrival = ['3758', '1005', '3759', '1453', '1011', '1012', '4361', '3026', '3027', '844', ]
