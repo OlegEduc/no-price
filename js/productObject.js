@@ -1,39 +1,7 @@
-// оновлено 26.11.25: 14:03:31.  Категория цены: БезЦен //
+// оновлено 27.11.25: 09:02:58.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4350"  :  { 
-			"category" : "Крупи",
-			"productCode" : "4350",
-			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
-			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "14",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
-			"inStock" : "1",
-			},
-		"2-2837"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "2837",
-			"productFullName" : "Халва ТМ \"Жадана\" 200 г.",
-			"productName" : "Халва Жадана 200 г.",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "14",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-			"inStock" : "1",
-			},
-		"3-4342"  :  { 
+		"1-4342"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4342",
 			"productFullName" : "Халва ТМ\"Жадана\" 200г. з абрикосовим джемом (PET-box)",
@@ -49,7 +17,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4342-halva-zhadana-200g-z-abrikosovim-dzhemom-pet-box.jpg",
 			"inStock" : "1",
 			},
-		"4-4341"  :  { 
+		"2-4341"  :  { 
 			"category" : "Кондитерські вироби",
 			"productCode" : "4341",
 			"productFullName" : "Халва ТМ\"Жадана\" 200г. з вишневим джемом (PET-box)",
@@ -63,6 +31,38 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
+			"inStock" : "1",
+			},
+		"3-4326"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4326",
+			"productFullName" : "Халва ТМ\"Жадана\" 200г. (PET-box)",
+			"productName" : "Халва Жадана 200г. (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
+			"inStock" : "1",
+			},
+		"4-4350"  :  { 
+			"category" : "Крупи",
+			"productCode" : "4350",
+			"productFullName" : "Кутя \"Різдвяна\" ТМ\"Добробут\" родзинки, мак, горіх 380гр.",
+			"productName" : "Кутя Добробут родзинки, мак, горіх 380гр.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "14",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4350-kutja-rizdvjana-tm-dobrobut-380gr.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -3673,7 +3673,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-batik-chornij-barhat.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"226" :  { 
 			"category" : "Чаї",
@@ -3705,7 +3705,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-za-dinamo-25-2-gr-chornij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"228" :  { 
 			"category" : "Чаї",
@@ -3753,7 +3753,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-princessa-nuri-25-2.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"231" :  { 
 			"category" : "Чаї",
@@ -5069,7 +5069,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makova-nachinka-slast'ona-500g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"313" :  { 
 			"category" : "Бакалія",
@@ -5469,7 +5469,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-rafinad-sarkara-produk-250.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"338" :  { 
 			"category" : "Бакалія",
@@ -7461,7 +7461,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-550-mg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"462" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -7493,7 +7493,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-300-mg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 	},
 	"Konservacija-plodo-ovocheva" : {
@@ -7559,7 +7559,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zel-tm-gurman-460g-sb-tvist.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"468" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -7767,7 +7767,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kukurudza-grin-ekol.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"481" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -10191,7 +10191,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\moloko-zgusch-cel'noe-bahmach-gost-85proc-zh-b-370-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"632" :  { 
 			"category" : "Молочна продукція, масло",
@@ -10979,7 +10979,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"681" :  { 
 			"category" : "Снеки",
