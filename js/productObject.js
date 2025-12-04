@@ -1,4 +1,4 @@
-// оновлено 03.12.25: 20:41:34.  Категория цены: БезЦен //
+// оновлено 04.12.25: 08:45:35.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
 		"1-1882"  :  { 
@@ -31,38 +31,6 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-pechinkovij-325g.jpg",
-			"inStock" : "1",
-			},
-		"3-1887"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1887",
-			"productFullName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
-			"productName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kurka-elitn-525g.jpg",
-			"inStock" : "1",
-			},
-		"4-1924"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1924",
-			"productFullName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
-			"productName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-svinina-do-snidanku-525g.jpg",
 			"inStock" : "1",
 			},
 	},
