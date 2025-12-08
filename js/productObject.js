@@ -1,7 +1,55 @@
-// оновлено 08.12.25: 10:39:21.  Категория цены: БезЦен //
+// оновлено 08.12.25: 20:20:17.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-1882"  :  { 
+		"1-4363"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4363",
+			"productFullName" : "Печиво цукрове \"Подільське\" (12 Х-Пак) аромат пряженого молока ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі ПОДІЛЬСЬКЕ (12 Х-Пак) ар.пряженого молока 4,45кг",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "4.45",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
+			"inStock" : "1",
+			},
+		"2-4362"  :  { 
+			"category" : "Печиво, пряники",
+			"productCode" : "4362",
+			"productFullName" : "Печиво цукрове \"Подільське\" (12 Х-Пак) з арахісом та родзинками ТМ\"Golski\"",
+			"productName" : "Печиво цукр Гольскі ПОДІЛЬСЬКЕ (12 Х-Пак) з арахісом та родзинками 4,6кг",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "4.6",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4362-pechivo-podilske-12-h-pak-z-arah-rodz-golski.jpg",
+			"inStock" : "1",
+			},
+		"3-248"  :  { 
+			"category" : "Консерви рибні",
+			"productCode" : "248",
+			"productFullName" : "Ікра лососева червона ж\/б ключ 140 г.",
+			"productName" : "Ікра червона ж\/б ключ 140 г.",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "10",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\248-ikra-lososeva-chervona-zhb-kljuch-140-g.jpg",
+			"inStock" : "1",
+			},
+		"4-1882"  :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1882",
 			"productFullName" : "Паштет Classo М'ясо м'ясний Домашній 300 гр",
@@ -17,7 +65,7 @@ export const products = {
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-mjasnij-domashnij-325g.jpg",
 			"inStock" : "1",
 			},
-		"2-1890"  :  { 
+		"5-1890"  :  { 
 			"category" : "Консерви м'ясні",
 			"productCode" : "1890",
 			"productFullName" : "Паштет Classo М'ясо печінковий Ніжний 300 гр",
@@ -31,54 +79,6 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-pashtet-pechinkovij-325g.jpg",
-			"inStock" : "1",
-			},
-		"3-1924"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1924",
-			"productFullName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
-			"productName" : "Тушонка Classo М'ясо Свинина до сніданку 525 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-svinina-do-snidanku-525g.jpg",
-			"inStock" : "1",
-			},
-		"4-1887"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1887",
-			"productFullName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
-			"productName" : "Тушонка Classo М'ясо Курка без кістки Елітна 525 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-kurka-elitn-525g.jpg",
-			"inStock" : "1",
-			},
-		"5-1889"  :  { 
-			"category" : "Консерви м'ясні",
-			"productCode" : "1889",
-			"productFullName" : "Тушонка Classo М'ясо Яловичина ніжна 525 гр",
-			"productName" : "Тушонка Classo М'ясо Яловичина ніжна 525 гр",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "12",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-nizhna-525g.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -995,7 +995,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mersi-medovik-2.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"58" :  { 
 			"category" : "Кондитерські вироби",
@@ -1027,7 +1027,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-tm-sonechko-70-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"60" :  { 
 			"category" : "Кондитерські вироби",
@@ -1667,7 +1667,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1911-cukerki-vafelni-dlja-bilosnizhki-mc-3-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"100" :  { 
 			"category" : "Кондитерські вироби",
@@ -1683,7 +1683,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1913-cukerki-vinni-puha.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"101" :  { 
 			"category" : "Кондитерські вироби",
@@ -1699,7 +1699,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1909-cukerki-dlja-popeljushki.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"102" :  { 
 			"category" : "Кондитерські вироби",
@@ -1715,7 +1715,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\1908-cukerki-vafelni-dlja-chervonoi-shapochki-mc-3-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"103" :  { 
 			"category" : "Кондитерські вироби",
@@ -3575,7 +3575,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kakao-kao-kao.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"219" :  { 
 			"category" : "Кава",
@@ -4987,7 +4987,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/hrin-vinnicja-200-gr-tvist-off.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Bakalija" : {
@@ -6547,7 +6547,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-bulgur-fas-1-kg-sitij-pan.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"404" :  { 
 			"category" : "Крупи",
@@ -7607,7 +7607,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-vega-bila-530g-sb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"470" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -8235,7 +8235,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\sojuz-morej-kil'ka-u-tom-sousi.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"509" :  { 
 			"category" : "Консерви рибні",
@@ -9005,7 +9005,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-075.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"557" :  { 
 			"category" : "Вода, соки, напої",
@@ -11239,7 +11239,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kuraga-5-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"696" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11271,7 +11271,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2995-finik-temnij-5kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"698" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11287,7 +11287,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"699" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -12480,4 +12480,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3026', '3027', '844', ]
+export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', ]
