@@ -1,5 +1,55 @@
-// оновлено 11.12.25: 14:56:33.  Категория цены: БезЦен //
+// оновлено 12.12.25: 12:43:16.  Категория цены: БезЦен //
 export const products = {
+	"focusProduct" : {
+		"1-4340"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4340",
+			"productFullName" : "Халва ТМ\"Жадана\" 200г. з горіхом (PET-box)",
+			"productName" : "Халва Жадана 200г. з горіхом (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4340-halva-tm-zhadana-200g-z-gorihom-pet-box.jpg",
+			"inStock" : "1",
+			},
+		"2-4342"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4342",
+			"productFullName" : "Халва ТМ\"Жадана\" 200г. з абрикосовим джемом (PET-box)",
+			"productName" : "Халва Жадана 200г.з абрикосовим джемом (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4342-halva-zhadana-200g-z-abrikosovim-dzhemom-pet-box.jpg",
+			"inStock" : "1",
+			},
+		"3-4341"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "4341",
+			"productFullName" : "Халва ТМ\"Жадана\" 200г. з вишневим джемом (PET-box)",
+			"productName" : "Халва Жадана 200г.з вишневим джемом (ПЕТ)",
+			"unit" : "шт.",
+			"baseUnit" : "шт.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "3",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
+			"inStock" : "1",
+			},
+	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -2387,7 +2437,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4364-pech-podilske-ekran-prjazh-golski.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"150" :  { 
 			"category" : "Печиво, пряники",
@@ -5419,7 +5469,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"339" :  { 
 			"category" : "Бакалія",
@@ -9243,7 +9293,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-2-l-limonad-1.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"577" :  { 
 			"category" : "Вода, соки, напої",
@@ -10061,7 +10111,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"628" :  { 
 			"category" : "Молочна продукція, масло",
@@ -12414,4 +12464,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', ]
+export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '3581', '1569', ]
