@@ -1,11 +1,11 @@
-// оновлено 12.12.25: 12:43:16.  Категория цены: БезЦен //
+// оновлено 15.12.25: 09:40:08.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
-		"1-4340"  :  { 
+		"1-4326"  :  { 
 			"category" : "Кондитерські вироби",
-			"productCode" : "4340",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. з горіхом (PET-box)",
-			"productName" : "Халва Жадана 200г. з горіхом (ПЕТ)",
+			"productCode" : "4326",
+			"productFullName" : "Халва ТМ\"Жадана\" 200г. (PET-box)",
+			"productName" : "Халва Жадана 200г. (ПЕТ)",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
 			"coefficient" : "1",
@@ -14,7 +14,7 @@ export const products = {
 			"minCountUnit" : "3",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4340-halva-tm-zhadana-200g-z-gorihom-pet-box.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
 			"inStock" : "1",
 			},
 		"2-4342"  :  { 
@@ -47,6 +47,22 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
+			"inStock" : "1",
+			},
+		"4-1020"  :  { 
+			"category" : "Кондитерські вироби",
+			"productCode" : "1020",
+			"productFullName" : "Халва ТМ\"Жадана\" 5кг.",
+			"productName" : "Халва Жадана 5кг.",
+			"unit" : "кг.",
+			"baseUnit" : "кг.",
+			"coefficient" : "1",
+			"previousPrice" : "",
+			"price" : "",
+			"minCountUnit" : "5",
+			"promotion" : "1",
+			"new-label" : "1",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
 			"inStock" : "1",
 			},
 	},
@@ -515,7 +531,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"30" :  { 
 			"category" : "Кондитерські вироби",
@@ -3961,7 +3977,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-micnij-100-pak.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"245" :  { 
 			"category" : "Чаї",
@@ -4009,7 +4025,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-hvilinka-bajhovij-chornij-100-pak1-5-gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"248" :  { 
 			"category" : "Чаї",
@@ -4171,7 +4187,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"258" :  { 
 			"category" : "Приправи та спеції",
@@ -4523,7 +4539,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/perec-chervonij-mel-15gnektar-25-sht.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"280" :  { 
 			"category" : "Приправи та спеції",
@@ -5437,7 +5453,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-nektar-300g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"337" :  { 
 			"category" : "Бакалія",
@@ -5935,7 +5951,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4057-makaronni--jaroslav-kmf-cherepashki-05-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"368" :  { 
 			"category" : "Макаронні вироби",
@@ -6739,7 +6755,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/manka-fas-sto-pudov-07kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"418" :  { 
 			"category" : "Крупи",
@@ -7397,7 +7413,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyj-asia-foods-klassicheskij-1l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"459" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -7575,7 +7591,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kvasolja-vega-bila-530g-sb.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"470" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -10159,7 +10175,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\moloko-zguschene-tm-sto-pudiv-z-kakao-75proc-zhb-370-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"631" :  { 
 			"category" : "Молочна продукція, масло",
@@ -11223,7 +11239,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kuraga-5-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"697" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11239,7 +11255,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"698" :  { 
 			"category" : "Сухофрукти, горіхи",
