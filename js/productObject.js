@@ -1,71 +1,5 @@
-// оновлено 15.12.25: 09:40:08.  Категория цены: БезЦен //
+// оновлено 16.12.25: 13:06:23.  Категория цены: БезЦен //
 export const products = {
-	"focusProduct" : {
-		"1-4326"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4326",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. (PET-box)",
-			"productName" : "Халва Жадана 200г. (ПЕТ)",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "3",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4326-halva-zhadana-200g-pet-box.jpg",
-			"inStock" : "1",
-			},
-		"2-4342"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4342",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. з абрикосовим джемом (PET-box)",
-			"productName" : "Халва Жадана 200г.з абрикосовим джемом (ПЕТ)",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "3",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4342-halva-zhadana-200g-z-abrikosovim-dzhemom-pet-box.jpg",
-			"inStock" : "1",
-			},
-		"3-4341"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "4341",
-			"productFullName" : "Халва ТМ\"Жадана\" 200г. з вишневим джемом (PET-box)",
-			"productName" : "Халва Жадана 200г.з вишневим джемом (ПЕТ)",
-			"unit" : "шт.",
-			"baseUnit" : "шт.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "3",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4341-halva-zhadana-200g-z-vishnevim-dzhemom-2x.jpg",
-			"inStock" : "1",
-			},
-		"4-1020"  :  { 
-			"category" : "Кондитерські вироби",
-			"productCode" : "1020",
-			"productFullName" : "Халва ТМ\"Жадана\" 5кг.",
-			"productName" : "Халва Жадана 5кг.",
-			"unit" : "кг.",
-			"baseUnit" : "кг.",
-			"coefficient" : "1",
-			"previousPrice" : "",
-			"price" : "",
-			"minCountUnit" : "5",
-			"promotion" : "1",
-			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-			"inStock" : "1",
-			},
-	},
 	"Olija" : {
 		"1" :  { 
 			"category" : "Олія",
@@ -547,7 +481,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"31" :  { 
 			"category" : "Кондитерські вироби",
@@ -563,7 +497,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"32" :  { 
 			"category" : "Кондитерські вироби",
@@ -595,7 +529,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzinki-lekorna-26-sht.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"34" :  { 
 			"category" : "Кондитерські вироби",
@@ -1219,7 +1153,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-330-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"73" :  { 
 			"category" : "Кондитерські вироби",
@@ -1843,7 +1777,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-charivna-istorija-flpak-jekran-1-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"112" :  { 
 			"category" : "Кондитерські вироби",
@@ -2421,7 +2355,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"148" :  { 
 			"category" : "Печиво, пряники",
@@ -5245,7 +5179,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/povidlo-persik-6kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"324" :  { 
 			"category" : "Бакалія",
@@ -5341,7 +5275,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4259-sil-baba-galja-1-kg-jodovana.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"330" :  { 
 			"category" : "Бакалія",
@@ -5485,7 +5419,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"339" :  { 
 			"category" : "Бакалія",
@@ -6819,7 +6753,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pshono-fas-09-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"422" :  { 
 			"category" : "Крупи",
@@ -9613,7 +9547,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"596" :  { 
 			"category" : "Вода, соки, напої",
@@ -9629,7 +9563,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-125-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"597" :  { 
 			"category" : "Вода, соки, напої",
@@ -9661,7 +9595,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-033-l-zhb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"599" :  { 
 			"category" : "Вода, соки, напої",
@@ -9901,7 +9835,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sik-ranok-jabluchno-vinogradnij-osvitl-nektar-02.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"614" :  { 
 			"category" : "Вода, соки, напої",
@@ -10851,7 +10785,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palichki-kukurudzjani-sova-65-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"673" :  { 
 			"category" : "Снеки",
@@ -11207,7 +11141,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"695" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -12480,4 +12414,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '3581', '1569', ]
+export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '4310', '4363', '4362', '4364', '4308', '4365', ]
