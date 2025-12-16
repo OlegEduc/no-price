@@ -1,4 +1,4 @@
-// оновлено 16.12.25: 13:06:23.  Категория цены: БезЦен //
+// оновлено 16.12.25: 15:29:03.  Категория цены: БезЦен //
 export const products = {
 	"Olija" : {
 		"1" :  { 
@@ -2346,9 +2346,9 @@ export const products = {
 			"productCode" : "4363",
 			"productFullName" : "Печиво цукрове \"Подільське\" (12 Х-Пак) аромат пряженого молока ТМ\"Golski\"",
 			"productName" : "Печиво цукр Гольскі ПОДІЛЬСЬКЕ (12 Х-Пак) ар.пряженого молока 4,45кг",
-			"unit" : "кг.",
+			"unit" : "пач",
 			"baseUnit" : "кг.",
-			"coefficient" : "1",
+			"coefficient" : "0.37083",
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "4.45",
@@ -2362,9 +2362,9 @@ export const products = {
 			"productCode" : "4362",
 			"productFullName" : "Печиво цукрове \"Подільське\" (12 Х-Пак) з арахісом та родзинками ТМ\"Golski\"",
 			"productName" : "Печиво цукр Гольскі ПОДІЛЬСЬКЕ (12 Х-Пак) з арахісом та родзинками 4,6кг",
-			"unit" : "кг.",
+			"unit" : "пач",
 			"baseUnit" : "кг.",
-			"coefficient" : "1",
+			"coefficient" : "0.38333",
 			"previousPrice" : "",
 			"price" : "",
 			"minCountUnit" : "4.6",
@@ -3066,7 +3066,7 @@ export const products = {
 		"192" :  { 
 			"category" : "Кава",
 			"productCode" : "2217",
-			"productFullName" : "Кава \"Нескафе\" класик е\/п 250г.",
+			"productFullName" : "Кава \"Nescafe\" класик е\/п 250г.",
 			"productName" : "Кава Нескафе класик е\/п 250г.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -3076,7 +3076,7 @@ export const products = {
 			"minCountUnit" : "5",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\2217-kava-nescafe-klasik-ep-250g.jpg",
 			"inStock" : "1",
 			},
 		"193" :  { 
@@ -3831,7 +3831,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\1116-chaj-tm-tri-sloni-cejlon-limon-20-13g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"240" :  { 
 			"category" : "Чаї",
@@ -3847,7 +3847,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3816-chaj-tm-tri-sloni-cejlon-malina-20-13g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"241" :  { 
 			"category" : "Чаї",
@@ -3863,7 +3863,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\4289-chaj-tri-sloni-cejlon-persik-20-13g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"242" :  { 
 			"category" : "Чаї",
@@ -3879,7 +3879,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\3631-chaj-tm-tri-sloni-chornij-ekzotika-20-13g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"243" :  { 
 			"category" : "Чаї",
@@ -3911,7 +3911,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tri-slona\\tri-slona-chornij-micnij-100-pak.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"245" :  { 
 			"category" : "Чаї",
@@ -3927,7 +3927,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-tri-sloni-chornij-micnij-2015g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"246" :  { 
 			"category" : "Чаї",
@@ -4121,7 +4121,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"258" :  { 
 			"category" : "Приправи та спеції",
