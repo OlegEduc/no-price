@@ -1,4 +1,4 @@
-// оновлено 19.12.25: 11:05:27.  Категория цены: БезЦен //
+// оновлено 19.12.25: 21:14:07.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -3863,7 +3863,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-oridzhinal-3v1-12gr.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"242" :  { 
 			"category" : "Кава",
@@ -4507,7 +4507,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"282" :  { 
 			"category" : "Приправи та спеції",
@@ -4523,7 +4523,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka-francuz'ka-v-zernah.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"283" :  { 
 			"category" : "Приправи та спеції",
@@ -6659,7 +6659,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vivsjani-plastivci-gerkules-ekstra-telec'-fas-700g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"416" :  { 
 			"category" : "Крупи",
@@ -7749,7 +7749,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyj-asia-foods-klassicheskij-1l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"484" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -9403,7 +9403,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"587" :  { 
 			"category" : "Вода, соки, напої",
@@ -10237,7 +10237,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1137-moloko-suhe-milka-150g.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 	},
 	"Korma-dlja-tvarin" : {
