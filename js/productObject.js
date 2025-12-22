@@ -1,4 +1,4 @@
-// оновлено 19.12.25: 21:14:07.  Категория цены: БезЦен //
+// оновлено 22.12.25: 10:41:27.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -2629,7 +2629,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4310-pechivo-cukrove-krapka-vanili.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"165" :  { 
 			"category" : "Печиво, пряники",
@@ -2661,7 +2661,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4311-pechivo-cukrove-krapka-kakao.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"167" :  { 
 			"category" : "Печиво, пряники",
@@ -2741,7 +2741,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4363-pech-podilske-12-h-pak-prjazh-mol-golski.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"172" :  { 
 			"category" : "Печиво, пряники",
@@ -2773,7 +2773,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4364-pech-podilske-ekran-prjazh-golski.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"174" :  { 
 			"category" : "Печиво, пряники",
@@ -4089,7 +4089,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\4319-chaj-cejlon-chorn-bajh-list-500-g-mu.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"256" :  { 
 			"category" : "Чаї",
@@ -5389,7 +5389,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mak-vagovij.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"337" :  { 
 			"category" : "Бакалія",
@@ -7831,7 +7831,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\goroshok-zel-tm-gurman-460g-sb-tvist.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"489" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -9979,7 +9979,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4318-sik-tm-dobrij-ranok-1l-apelsin.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"623" :  { 
 			"category" : "Вода, соки, напої",
@@ -12462,4 +12462,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '4330', '4371', '4372', '4363', '4362', '4364', '4308', '4365', '596', '597', '4367', '4309', ]
+export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '597', ]
