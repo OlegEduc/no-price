@@ -1,4 +1,4 @@
-// оновлено 23.12.25: 15:33:24.  Категория цены: БезЦен //
+// оновлено 24.12.25: 13:36:59.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -385,7 +385,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2369-olija-tm-bokarjev-3l-nerafinovana.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"25" :  { 
 			"category" : "Олія",
@@ -819,7 +819,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"52" :  { 
 			"category" : "Кондитерські вироби",
@@ -5195,7 +5195,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-torchin-10-ovochiv-60-gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"325" :  { 
 			"category" : "Приправи та спеції",
@@ -6244,7 +6244,7 @@ export const products = {
 		"390" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4373",
-			"productFullName" : "Макаронні вироби Ярослав Ріжки особливі ЦІЛЬНОЗЕРНОВІ 0,5 кг.",
+			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" ріжки особливі цільнозернові 500г",
 			"productName" : "Макаронні вироби Ярослав Ріжки особливі ЦІЛЬНОЗЕРНОВІ 0,5 кг.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -6254,7 +6254,7 @@ export const products = {
 			"minCountUnit" : "20",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4373-jaroslav-rizhki-osoblivi-cilnozernovi-500g.jpg",
 			"inStock" : "1",
 			},
 		"391" :  { 
@@ -6276,7 +6276,7 @@ export const products = {
 		"392" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4375",
-			"productFullName" : "Макаронні вироби Ярослав Спіраль ЦІЛЬНОЗЕРНОВА 0,5 кг.",
+			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" спіраль цільнозернові 500г",
 			"productName" : "Макаронні вироби Ярослав Спіраль ЦІЛЬНОЗЕРНОВА 0,5 кг.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -6286,7 +6286,7 @@ export const products = {
 			"minCountUnit" : "20",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4375-jaroslav-spiral-cilnozernovi-500g.jpg",
 			"inStock" : "1",
 			},
 		"393" :  { 
@@ -6308,7 +6308,7 @@ export const products = {
 		"394" :  { 
 			"category" : "Макаронні вироби",
 			"productCode" : "4374",
-			"productFullName" : "Макаронні вироби Ярослав Черепашки ЦІЛЬНОЗЕРНОВІ 0,5 кг.",
+			"productFullName" : "Макаронні вироби ТМ\"Ярослав\" черепашки цільнозернові 500г",
 			"productName" : "Макаронні вироби Ярослав Черепашки ЦІЛЬНОЗЕРНОВІ 0,5 кг.",
 			"unit" : "шт.",
 			"baseUnit" : "шт.",
@@ -6318,7 +6318,7 @@ export const products = {
 			"minCountUnit" : "20",
 			"promotion" : "1",
 			"new-label" : "1",
-			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/photo-is-missing.jpg",
+			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4374-jaroslav-cherepashki-cilnozernovi-500g.jpg",
 			"inStock" : "1",
 			},
 		"395" :  { 
@@ -6577,7 +6577,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-krolevec'-5-kg-bum-pak.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"411" :  { 
 			"category" : "Борошно, висівки",
@@ -7461,7 +7461,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/557-majonez-provansal-ljuks-500-g-tm-best.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"466" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -7831,7 +7831,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\ananas-v-siropi-konservov-kilcja-tropicana.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"489" :  { 
 			"category" : "Консервація плодо-овочева",
@@ -9483,7 +9483,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-05-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"592" :  { 
 			"category" : "Вода, соки, напої",
@@ -9691,7 +9691,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-125-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"605" :  { 
 			"category" : "Вода, соки, напої",
@@ -9771,7 +9771,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-mohito-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"610" :  { 
 			"category" : "Вода, соки, напої",
@@ -9915,7 +9915,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-02l-persikovij.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"619" :  { 
 			"category" : "Вода, соки, напої",
@@ -10687,7 +10687,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"667" :  { 
 			"category" : "Корма для тварин",
@@ -10719,7 +10719,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"669" :  { 
 			"category" : "Корма для тварин",
@@ -11671,7 +11671,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pergament-bilij-6-m.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"728" :  { 
 			"category" : "Госп.товари",
@@ -12233,7 +12233,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-bogatir'18h35.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"763" :  { 
 			"category" : "Тара та упаковка",
