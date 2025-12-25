@@ -1,4 +1,4 @@
-// оновлено 24.12.25: 13:36:59.  Категория цены: БезЦен //
+// оновлено 25.12.25: 13:26:42.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -385,7 +385,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2369-olija-tm-bokarjev-3l-nerafinovana.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"25" :  { 
 			"category" : "Олія",
@@ -401,7 +401,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-5-l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"26" :  { 
 			"category" : "Олія",
@@ -1875,7 +1875,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-assorti-multiki-flpak-jekran-25-k.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"118" :  { 
 			"category" : "Кондитерські вироби",
@@ -1891,7 +1891,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-asorti-retro-hzpt.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"119" :  { 
 			"category" : "Кондитерські вироби",
@@ -2083,7 +2083,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-svinka-pepa-hzpt.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"131" :  { 
 			"category" : "Кондитерські вироби",
@@ -2099,7 +2099,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-sponch-bob-hzpt.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"132" :  { 
 			"category" : "Кондитерські вироби",
@@ -4651,7 +4651,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3026-zhelatin-tm-mrija-25-gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"291" :  { 
 			"category" : "Приправи та спеції",
@@ -5789,7 +5789,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/soda-baba-galja.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"362" :  { 
 			"category" : "Бакалія",
@@ -5887,7 +5887,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/makaronni-virobi-voronizh-3-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"368" :  { 
 			"category" : "Макаронні вироби",
@@ -9611,7 +9611,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-075l-zhb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"600" :  { 
 			"category" : "Вода, соки, напої",
@@ -11719,7 +11719,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/rukav-dlja-zapikannja-3-m.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"731" :  { 
 			"category" : "Госп.товари",
@@ -12041,7 +12041,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krishka-polietilenova-kolorova.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"751" :  { 
 			"category" : "Тара та упаковка",
@@ -12233,7 +12233,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-fasuval'nij-bogatir'18h35.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"763" :  { 
 			"category" : "Тара та упаковка",
@@ -12526,4 +12526,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '596', '597', '3521', '3533', '3532', '3845', '3525', '3522', '3519', '4047', '3844', '3520', ]
+export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '3521', '3533', '3532', '3845', '3525', '3522', '3519', '4047', '3844', '3520', ]
