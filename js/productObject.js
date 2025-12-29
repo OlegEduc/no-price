@@ -1,4 +1,4 @@
-// оновлено 25.12.25: 13:26:42.  Категория цены: БезЦен //
+// оновлено 29.12.25: 09:38:19.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -497,7 +497,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"32" :  { 
 			"category" : "Олія",
@@ -819,7 +819,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"52" :  { 
 			"category" : "Кондитерські вироби",
@@ -3271,7 +3271,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\kava-galka-zhb-50-g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"205" :  { 
 			"category" : "Кава",
@@ -6079,7 +6079,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4293-makaronni-virobi-tm-jaroslav-3-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"380" :  { 
 			"category" : "Макаронні вироби",
@@ -6111,7 +6111,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"382" :  { 
 			"category" : "Макаронні вироби",
@@ -9723,7 +9723,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-05-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"607" :  { 
 			"category" : "Вода, соки, напої",
@@ -10335,7 +10335,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-jachni-mishok.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"645" :  { 
 			"category" : "Корма для тварин",
@@ -11349,7 +11349,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-500g-tunis.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"708" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -12524,6 +12524,9 @@ export const productCategorys = {
 	"Rizne" : "Різне",
  }
 
-export const anouns = []
+export const anouns =
+[
+'<b>Увага!</b><br>Просимо звернути увагу що з 31.12.2025 - 04.01.2026 року ВИХІДНІ. <br >З 5 січня 2026 року працюємо у звичайному режимі.<br>Вітаємо з прийдешніми святами! <br>Бажаємо міцного здоров\'я, мирного неба та здійснення всіх ваших мрій.',
+]
 
-export const arrayPlannedArrival = ['3026', '3027', '844', '3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', '3521', '3533', '3532', '3845', '3525', '3522', '3519', '4047', '3844', '3520', ]
+export const arrayPlannedArrival = ['3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', ]
