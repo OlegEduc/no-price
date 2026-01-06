@@ -1,4 +1,4 @@
-// оновлено 04.01.26: 18:27:36.  Категория цены: БезЦен //
+// оновлено 06.01.26: 08:42:46.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -191,7 +191,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/classo-konservi\\classo-jalovichina-nizhna-525g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"13" :  { 
 			"category" : "Консерви м'ясні",
@@ -2083,7 +2083,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-fiksika-hzpt.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"131" :  { 
 			"category" : "Кондитерські вироби",
@@ -2773,7 +2773,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"174" :  { 
 			"category" : "Печиво, пряники",
@@ -2821,7 +2821,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"177" :  { 
 			"category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"180" :  { 
 			"category" : "Печиво, пряники",
@@ -2933,7 +2933,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"184" :  { 
 			"category" : "Печиво, пряники",
@@ -3783,7 +3783,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kakao-kao-kao.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"237" :  { 
 			"category" : "Кава",
@@ -4427,7 +4427,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/girchicja-vinnic'ka-francuz'ka-v-zernah.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"277" :  { 
 			"category" : "Приправи та спеції",
@@ -7123,7 +7123,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"445" :  { 
 			"category" : "Крупи",
@@ -8651,7 +8651,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-slabo-gazovana-1-5l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"540" :  { 
 			"category" : "Вода, соки, напої",
@@ -9579,7 +9579,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-075-l.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"598" :  { 
 			"category" : "Вода, соки, напої",
@@ -10159,7 +10159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"634" :  { 
 			"category" : "Корма для тварин",
@@ -11157,7 +11157,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-500g-tunis.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"696" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11591,7 +11591,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/fol'ga-3-m.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Tara-ta-upakovka" : {
@@ -12105,7 +12105,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pljashka-pet-05l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"755" :  { 
 			"category" : "Тара та упаковка",
