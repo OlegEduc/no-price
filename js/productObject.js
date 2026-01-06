@@ -1,4 +1,4 @@
-// оновлено 06.01.26: 08:42:46.  Категория цены: БезЦен //
+// оновлено 06.01.26: 23:17:00.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -5245,7 +5245,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krohmal-vimal-nov.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"328" :  { 
 			"category" : "Бакалія",
@@ -9419,7 +9419,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-sprajt-033-l-zhb.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"588" :  { 
 			"category" : "Вода, соки, напої",
@@ -10159,7 +10159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-pshenichni-mishok.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"634" :  { 
 			"category" : "Корма для тварин",
@@ -10527,7 +10527,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-klasik-10kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"657" :  { 
 			"category" : "Корма для тварин",
@@ -10559,7 +10559,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"659" :  { 
 			"category" : "Корма для тварин",
@@ -10623,7 +10623,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"663" :  { 
 			"category" : "Корма для тварин",
@@ -10705,7 +10705,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nasinnja-sonjashn-sotochka-100g.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"668" :  { 
 			"category" : "Снеки",
@@ -10979,7 +10979,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"685" :  { 
 			"category" : "Швидкого приготування",
@@ -10995,7 +10995,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"686" :  { 
 			"category" : "Швидкого приготування",
@@ -11157,7 +11157,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-500g-tunis.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"696" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11559,7 +11559,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sirniki-indija-chervonij-mak-10sht.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"721" :  { 
 			"category" : "Госп.товари",
