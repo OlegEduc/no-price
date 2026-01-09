@@ -1,4 +1,4 @@
-// оновлено 07.01.26: 22:03:36.  Категория цены: БезЦен //
+// оновлено 09.01.26: 09:23:33.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-m'jasni" : {
 		"1" :  { 
@@ -481,7 +481,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"31" :  { 
 			"category" : "Олія",
@@ -899,7 +899,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\vafli-artek-jevropejskij-4-kg-hzpt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"57" :  { 
 			"category" : "Кондитерські вироби",
@@ -995,7 +995,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3458-karamel-mini-tm-bayan-sulu-meksikano-ass-1-kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"63" :  { 
 			"category" : "Кондитерські вироби",
@@ -1843,7 +1843,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-assorti-multiki-flpak-jekran-25-k.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"116" :  { 
 			"category" : "Кондитерські вироби",
@@ -1859,7 +1859,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-asorti-retro-hzpt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"117" :  { 
 			"category" : "Кондитерські вироби",
@@ -2051,7 +2051,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-svinka-pepa-hzpt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"129" :  { 
 			"category" : "Кондитерські вироби",
@@ -2067,7 +2067,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-sponch-bob-hzpt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"130" :  { 
 			"category" : "Кондитерські вироби",
@@ -2083,7 +2083,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-fiksika-hzpt.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"131" :  { 
 			"category" : "Кондитерські вироби",
@@ -2099,7 +2099,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-charivna-istorija-flpak-jekran-1-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"132" :  { 
 			"category" : "Кондитерські вироби",
@@ -3191,7 +3191,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-rizne\\kava-elit-fort-mel-mu-100-gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"200" :  { 
 			"category" : "Кава",
@@ -4651,7 +4651,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/list-lavrovij-sushenij.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"291" :  { 
 			"category" : "Приправи та спеції",
@@ -5035,7 +5035,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/priprava-avokado-dlja-kotlet-ta-farshu-25gr.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"315" :  { 
 			"category" : "Приправи та спеції",
@@ -5485,7 +5485,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nachinka-povidlo-polunicja-6kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"343" :  { 
 			"category" : "Бакалія",
@@ -5999,7 +5999,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\makvir-tm-jaroslav-kmf-vermishel-dovga-tverdi-sorti-05-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"375" :  { 
 			"category" : "Макаронні вироби",
@@ -6127,7 +6127,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4058-makvir-tm-jaroslav-kmf-rizhki-kruchenii-05-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"383" :  { 
 			"category" : "Макаронні вироби",
@@ -6143,7 +6143,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\jaroslav-spiral'.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"384" :  { 
 			"category" : "Макаронні вироби",
@@ -6159,7 +6159,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4057-makaronni--jaroslav-kmf-cherepashki-05-kg.jpg",
-			"inStock" : "0",
+			"inStock" : "1",
 			},
 		"385" :  { 
 			"category" : "Макаронні вироби",
@@ -7155,7 +7155,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"447" :  { 
 			"category" : "Крупи",
@@ -7573,7 +7573,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-550-mg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"473" :  { 
 			"category" : "Соуси, майонези, кетчупи",
@@ -7605,7 +7605,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sous-soevyjj-asia-foods-300-mg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Konservacija-plodo-ovocheva" : {
@@ -8491,7 +8491,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-kujalnik-15lmin.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"530" :  { 
 			"category" : "Вода, соки, напої",
@@ -11125,7 +11125,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 		"694" :  { 
 			"category" : "Сухофрукти, горіхи",
@@ -11543,7 +11543,7 @@ export const products = {
 			"promotion" : "1",
 			"new-label" : "1",
 			"imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/fol'ga-3-m.jpg",
-			"inStock" : "1",
+			"inStock" : "0",
 			},
 	},
 	"Tara-ta-upakovka" : {
@@ -12254,4 +12254,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['3439', '3459', '3457', '3212', '3440', '3441', '3438', '3445', '3437', '3442', '3446', '3444', '3447', '3443', '3448', ]
+export const arrayPlannedArrival = []
