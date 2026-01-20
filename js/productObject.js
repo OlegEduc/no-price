@@ -1,4 +1,4 @@
-// оновлено 19.01.26: 17:00:28.  Категория цены: БезЦен //
+// оновлено 20.01.26: 14:44:53.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -271,7 +271,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3759-tushkovana-jalovic-do-snidanku-tm-pan-ivan-525.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "18" :  { 
             "category" : "Консерви м'ясні",
@@ -545,7 +545,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4286-olija-rafinovana-tm-olivija-1l-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "35" :  { 
             "category" : "Олія",
@@ -641,7 +641,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-svitlana-rafinovana-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Konditerski-virobi" : {
@@ -2114,7 +2114,7 @@ export const products = {
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-coco.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3613-cukerki-dolche-de-koko.jpg",
             "inStock" : "1",
             },
         "133" :  { 
@@ -2130,7 +2130,7 @@ export const products = {
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-nut.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3525-cukerki-dolche-de-nat.jpg",
             "inStock" : "1",
             },
         "134" :  { 
@@ -2146,7 +2146,7 @@ export const products = {
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-tiramisu.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3522-cukerki-dolche-de-tiramisu.jpg",
             "inStock" : "1",
             },
         "135" :  { 
@@ -2178,7 +2178,7 @@ export const products = {
             "minCountUnit" : "1.7",
             "promotion" : "1",
             "new-label" : "1",
-            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-dolce-de-truffel.jpg",
+            "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\3523-cukerki-dolche-de-trjufel.jpg",
             "inStock" : "1",
             },
         "137" :  { 
@@ -3719,7 +3719,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/jacobs\\kava-jakobs-kapuchino-3v1-125-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "233" :  { 
             "category" : "Кава",
@@ -4539,7 +4539,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\zhelatin-20g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "284" :  { 
             "category" : "Приправи та спеції",
@@ -7317,7 +7317,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4266-majonez-tm-kuhar-rishelje-tri-jajcja-405proc-340g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "457" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -10511,7 +10511,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\pan-kot-miks-10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "656" :  { 
             "category" : "Корма для тварин",
@@ -10543,7 +10543,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\korm-dlja-kotiv-pan-kot-jalovichina-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "658" :  { 
             "category" : "Корма для тварин",
@@ -10575,7 +10575,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "660" :  { 
             "category" : "Корма для тварин",
@@ -11013,7 +11013,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-1kg-fas.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "687" :  { 
             "category" : "Сухофрукти, горіхи",
