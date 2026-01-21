@@ -1,4 +1,4 @@
-// оновлено 20.01.26: 14:44:53.  Категория цены: БезЦен //
+// оновлено 21.01.26: 11:12:34.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -239,7 +239,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3758-tushkovana-svinina-apetitna-tm-pan-ivan-zhb-525g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "16" :  { 
             "category" : "Консерви м'ясні",
@@ -271,7 +271,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\3759-tushkovana-jalovic-do-snidanku-tm-pan-ivan-525.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "18" :  { 
             "category" : "Консерви м'ясні",
@@ -1299,7 +1299,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "82" :  { 
             "category" : "Кондитерські вироби",
@@ -3351,7 +3351,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\1664-kava-nescafe-classik-ep-100g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "210" :  { 
             "category" : "Кава",
@@ -3367,7 +3367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\2217-kava-nescafe-klasik-ep-250g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "211" :  { 
             "category" : "Кава",
@@ -7075,7 +7075,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "442" :  { 
             "category" : "Крупи",
@@ -7221,7 +7221,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ketchup-torchin-lagidnij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "451" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -9323,7 +9323,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-15-l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "582" :  { 
             "category" : "Вода, соки, напої",
@@ -9965,7 +9965,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2661-moloko-tm-galichina-25-900g-ultrapas.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "622" :  { 
             "category" : "Молочна продукція, масло",
@@ -10495,7 +10495,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pan-kot-kurka10kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "655" :  { 
             "category" : "Корма для тварин",
@@ -11431,7 +11431,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "713" :  { 
             "category" : "Госп.товари",
