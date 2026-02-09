@@ -1,4 +1,4 @@
-// оновлено 06.02.26: 10:39:54.  Категория цены: БезЦен //
+// оновлено 09.02.26: 09:52:46.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -545,7 +545,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4260-olija-rafinovana-tm-olivija-5-2l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "35" :  { 
             "category" : "Олія",
@@ -771,7 +771,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-65g-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "49" :  { 
             "category" : "Кондитерські вироби",
@@ -1267,7 +1267,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-200-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "80" :  { 
             "category" : "Кондитерські вироби",
@@ -1427,7 +1427,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-330-g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "90" :  { 
             "category" : "Кондитерські вироби",
@@ -1459,7 +1459,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "92" :  { 
             "category" : "Кондитерські вироби",
@@ -1475,7 +1475,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-5-zebra.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "93" :  { 
             "category" : "Кондитерські вироби",
@@ -1491,7 +1491,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/halva-zhadana-900g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "94" :  { 
             "category" : "Кондитерські вироби",
@@ -2837,7 +2837,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4277-sushka-ljubitelska-tm-rajgorodskij-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "178" :  { 
             "category" : "Печиво, пряники",
@@ -2869,7 +2869,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4278-sushka-maljutka-tm-rajgorodskij-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "180" :  { 
             "category" : "Печиво, пряники",
@@ -2901,7 +2901,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4280-sushka-chovnik-tm-rajgorodskij-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "182" :  { 
             "category" : "Печиво, пряники",
@@ -5003,7 +5003,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\pudra-cukrova-100g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "313" :  { 
             "category" : "Приправи та спеції",
@@ -9675,7 +9675,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ranok-1l-mul'tifrukt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "604" :  { 
             "category" : "Вода, соки, напої",
@@ -12046,4 +12046,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['953', ]
+export const arrayPlannedArrival = ['3614', '4330', '4331', '4363', '4308', '3520', '953', '4254', '4113', '2798', '2879', ]
