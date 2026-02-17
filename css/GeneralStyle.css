@@ -17,6 +17,11 @@ body {
   */
 }
 
+body ::selection {
+  color: rgb(0, 0, 255);
+  background-color: #6ac76a;
+}
+
 .wrapper {
   display: grid;
   margin: 0 auto;

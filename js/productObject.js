@@ -1,4 +1,4 @@
-// оновлено 16.02.26: 12:58:24.  Категория цены: БезЦен //
+// оновлено 17.02.26: 13:45:13.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -401,7 +401,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-760-ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "26" :  { 
             "category" : "Олія",
@@ -2725,7 +2725,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "171" :  { 
             "category" : "Печиво, пряники",
@@ -2757,7 +2757,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-polunicja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "173" :  { 
             "category" : "Печиво, пряники",
@@ -2789,7 +2789,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "175" :  { 
             "category" : "Печиво, пряники",
@@ -2805,7 +2805,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-smorodina.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "176" :  { 
             "category" : "Печиво, пряники",
@@ -3367,7 +3367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-karamel'.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "211" :  { 
             "category" : "Кава",
@@ -3511,7 +3511,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-chorna-karta-gold-ep-50-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "220" :  { 
             "category" : "Кава",
@@ -5709,7 +5709,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Makaronni-virobi" : {
@@ -7285,7 +7285,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pasta-tom-best-stik-70-gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "455" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8667,7 +8667,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3706-energetik-pit-bull-jagidnij-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "541" :  { 
             "category" : "Вода, соки, напої",
@@ -8859,7 +8859,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3153-napij-tm-maksi-frukt-mango-persik-3l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "553" :  { 
             "category" : "Вода, соки, напої",
@@ -9981,7 +9981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "623" :  { 
             "category" : "Молочна продукція, масло",
@@ -10851,7 +10851,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "677" :  { 
             "category" : "Швидкого приготування",
@@ -10867,7 +10867,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "678" :  { 
             "category" : "Швидкого приготування",
@@ -11335,7 +11335,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "707" :  { 
             "category" : "Госп.товари",
