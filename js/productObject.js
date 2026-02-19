@@ -1,4 +1,4 @@
-// оновлено 17.02.26: 13:45:13.  Категория цены: БезЦен //
+// оновлено 19.02.26: 09:35:17.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -401,7 +401,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-bokarev-neraf-760-ml.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "26" :  { 
             "category" : "Олія",
@@ -417,7 +417,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olija-gurman-neraf-2l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "27" :  { 
             "category" : "Олія",
@@ -2645,7 +2645,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4362-pechivo-podilske-12-h-pak-z-arah-rodz-golski.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "166" :  { 
             "category" : "Печиво, пряники",
@@ -4555,7 +4555,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/pidprijemtvo-rada\\kislota-limonna-100g-iva-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "285" :  { 
             "category" : "Приправи та спеції",
@@ -5533,7 +5533,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/sil-u-mishkah-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "346" :  { 
             "category" : "Бакалія",
@@ -5645,7 +5645,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-50kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "353" :  { 
             "category" : "Бакалія",
@@ -6467,7 +6467,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vivsjani-plastivci-gerkules-ekstra-telec'-fas-700g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "404" :  { 
             "category" : "Крупи",
@@ -6787,7 +6787,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-pshenichna-fas-07-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "424" :  { 
             "category" : "Крупи",
@@ -7011,7 +7011,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-dovgozernij-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "438" :  { 
             "category" : "Крупи",
@@ -7237,7 +7237,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/557-majonez-provansal-ljuks-500-g-tm-best.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "452" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -9981,7 +9981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "623" :  { 
             "category" : "Молочна продукція, масло",
@@ -10495,7 +10495,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "655" :  { 
             "category" : "Корма для тварин",
@@ -10867,7 +10867,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/streetsoup\\streetsoup-gorohovij-kurka.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "678" :  { 
             "category" : "Швидкого приготування",
