@@ -1,4 +1,4 @@
-// оновлено 26.02.26: 13:42:36.  Категория цены: БезЦен //
+// оновлено 27.02.26: 09:10:59.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -7943,7 +7943,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\536-kukurudza-ekool-zhb-340-gkljuch.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "496" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8907,7 +8907,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-coca-cola-075.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "556" :  { 
             "category" : "Вода, соки, напої",
@@ -10109,7 +10109,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/molochna-produkcija\\610-moloko-zguschene-karam-aliska-500g-sb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "631" :  { 
             "category" : "Молочна продукція, масло",
