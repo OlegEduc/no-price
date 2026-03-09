@@ -1,4 +1,4 @@
-// оновлено 05.03.26: 20:26:18.  Категория цены: БезЦен //
+// оновлено 09.03.26: 09:26:05.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -625,7 +625,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "40" :  { 
             "category" : "Олія",
@@ -1667,7 +1667,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\gol'ski-coffee-art.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "105" :  { 
             "category" : "Кондитерські вироби",
@@ -2501,7 +2501,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "157" :  { 
             "category" : "Печиво, пряники",
@@ -2517,7 +2517,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4272-pechivo-vivsjane-tm-rajgorodskij-korovaj-25kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "158" :  { 
             "category" : "Печиво, пряники",
@@ -2933,7 +2933,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4274-suhari-kiivski-z-rodzinkami-tm-rajgorod-0250-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "184" :  { 
             "category" : "Печиво, пряники",
@@ -2961,7 +2961,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4277-sushka-ljubitelska-tm-rajgorodskij-2kg.jpg",
@@ -2981,7 +2981,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4279-sushka-vanilna-maljutka-tm-rajgorodskij-0350-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "187" :  { 
             "category" : "Печиво, пряники",
@@ -2993,11 +2993,11 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4278-sushka-maljutka-tm-rajgorodskij-2kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "188" :  { 
             "category" : "Печиво, пряники",
@@ -3025,7 +3025,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4280-sushka-chovnik-tm-rajgorodskij-2kg.jpg",
@@ -3139,7 +3139,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kava-v-zernah-ducale-palermo-1-kg.jpg",
@@ -3155,7 +3155,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "8",
+            "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/lavazza\\kava-v-zernah-lavazza-oro-1-kg.jpg",
@@ -3171,7 +3171,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "8",
+            "minCountUnit" : "3",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/galka\\4317-kofe-v-zernah-tm-mason-espresso-1-kg.jpg",
@@ -4281,7 +4281,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/chaj\\chaj-tri-sloni-chornij-micnij-2015g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "268" :  { 
             "category" : "Чаї",
@@ -5677,7 +5677,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/2809-sil-mishki-25-kg-v-vo-jegipet_RED.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "355" :  { 
             "category" : "Бакалія",
@@ -6301,7 +6301,7 @@ export const products = {
             "coefficient" : "10",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "10",
+            "minCountUnit" : "100",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vihvostov-10-kg.jpg",
@@ -6317,7 +6317,7 @@ export const products = {
             "coefficient" : "25",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "25",
+            "minCountUnit" : "250",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-vizhvostov-25kg.jpg",
@@ -6899,7 +6899,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/krupa-jachna-fas-07-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "431" :  { 
             "category" : "Крупи",
@@ -7171,7 +7171,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/ris-parboild-09-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Sousi-majonezi-ketchupi" : {
@@ -7829,7 +7829,7 @@ export const products = {
             "price" : "",
             "minCountUnit" : "8",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\4388-kvasolja-z-ovochami-v-ts-tm-pio-480g.jpg",
             "inStock" : "1",
             },
@@ -7893,7 +7893,7 @@ export const products = {
             "price" : "",
             "minCountUnit" : "12",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\4386-kukurudza-desertna-tm-rio-420-g.jpg",
             "inStock" : "1",
             },
@@ -7959,7 +7959,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\kukurudza-schedra-niva-zhb-340g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "497" :  { 
             "category" : "Консервація плодо-овочева",
@@ -8747,7 +8747,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4262-voda-mineralna-shajanska-15l-prirodna.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "546" :  { 
             "category" : "Вода, соки, напої",
@@ -9051,7 +9051,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnens'ka-05-l-mohito.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "565" :  { 
             "category" : "Вода, соки, напої",
@@ -9067,7 +9067,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/mirnens'ka\\napij-mirnenska-05-l-multifrukt.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "566" :  { 
             "category" : "Вода, соки, напої",
@@ -10849,7 +10849,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/solomka-vlvdka-sol'.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "677" :  { 
             "category" : "Снеки",
@@ -11061,7 +11061,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/izjum-10-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "690" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11153,7 +11153,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "25",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4336-finiki-tunis-200-g.jpg",
@@ -11169,7 +11169,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "12",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4337-finiki-500g-tunis.jpg",
@@ -11447,7 +11447,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-100g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "714" :  { 
             "category" : "Госп.товари",
@@ -11463,7 +11463,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/plivka-stretch-harchova-pet-300g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "715" :  { 
             "category" : "Госп.товари",
@@ -11523,11 +11523,11 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "72",
+            "minCountUnit" : "180",
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-vologi-15-sht.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "719" :  { 
             "category" : "Госп.товари",
@@ -12238,4 +12238,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', ]
+export const arrayPlannedArrival = ['4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', '3846', '3921', '3533', '3845', '3564', '3523', '3519', '3844', '3520', '3069', ]
