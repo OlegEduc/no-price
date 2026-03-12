@@ -1,4 +1,4 @@
-// оновлено 11.03.26: 11:25:10.  Категория цены: БезЦен //
+// оновлено 12.03.26: 13:55:18.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -625,7 +625,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/olyja-bokarev-raf-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "40" :  { 
             "category" : "Олія",
@@ -899,7 +899,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-konusi-lekorna-2.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "57" :  { 
             "category" : "Кондитерські вироби",
@@ -2501,7 +2501,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4271-pechivo-vivsjane-tm-rajgorodskij-korovaj-0420-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "157" :  { 
             "category" : "Печиво, пряники",
@@ -2901,7 +2901,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-saturn.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "182" :  { 
             "category" : "Печиво, пряники",
@@ -2949,7 +2949,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4275-sushka-vanilna-ljubitelska-tm-rajgorodskij-0350-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "185" :  { 
             "category" : "Печиво, пряники",
@@ -3447,7 +3447,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nescafe\\1685-kava-nescafe-classik-ep-50gr.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "216" :  { 
             "category" : "Кава",
@@ -4434,14 +4434,14 @@ export const products = {
             "productCode" : "3432",
             "productFullName" : "Бульйон курячий \"Kucharek\" (6шт Х 10г)",
             "productName" : "Бульйон Кухарек курячий 6 шт.х 10 г",
-            "unit" : "шт.",
+            "unit" : "блок",
             "baseUnit" : "шт.",
-            "coefficient" : "1",
+            "coefficient" : "6",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "6",
+            "minCountUnit" : "30",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/prymat\\3432-buljon-kurjachij-kucharek-6sht-h-10g.jpg",
             "inStock" : "1",
             },
@@ -5837,7 +5837,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/cukor-fasovanij-1-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
 	},
 	"Makaronni-virobi" : {
@@ -6417,7 +6417,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/muka-krolevec'-5-kg-bum-pak.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "401" :  { 
             "category" : "Борошно, висівки",
@@ -6595,7 +6595,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vivsjani-plastivci-sto-pudov-800g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "412" :  { 
             "category" : "Крупи",
@@ -6675,7 +6675,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/grechana-krupa.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "417" :  { 
             "category" : "Крупи",
@@ -6691,7 +6691,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/167-grechana-krupa-fas-09kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "418" :  { 
             "category" : "Крупи",
@@ -7845,7 +7845,7 @@ export const products = {
             "price" : "",
             "minCountUnit" : "8",
             "promotion" : "1",
-            "new-label" : "2",
+            "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-plodoovoschn\\4388-kvasolja-z-ovochami-v-ts-tm-pio-480g.jpg",
             "inStock" : "1",
             },
@@ -8185,7 +8185,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservy-ribnye\\3591-losos-naturalnij-tm-darinka-230g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "511" :  { 
             "category" : "Консерви рибні",
@@ -8587,7 +8587,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-mirgorods'ka-1-5l-mineral-sil'n-gaz.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "536" :  { 
             "category" : "Вода, соки, напої",
@@ -8651,7 +8651,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-negazovana-1-5l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "540" :  { 
             "category" : "Вода, соки, напої",
@@ -9227,7 +9227,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-mirnenska-2-l-mango-marakuja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "576" :  { 
             "category" : "Вода, соки, напої",
@@ -9691,7 +9691,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/1549-sik-granatovij-avalanche-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "605" :  { 
             "category" : "Вода, соки, напої",
@@ -10367,7 +10367,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\kombikorm-rost-brojler-vid-15-do-40-dniv-10-kg-sinij.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "647" :  { 
             "category" : "Корма для тварин",
@@ -10445,7 +10445,7 @@ export const products = {
             "price" : "",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4392-korm-dlja-kotiv-wise-cat-turkey-10-kg.jpg",
             "inStock" : "1",
             },
@@ -10461,7 +10461,7 @@ export const products = {
             "price" : "",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4391-korm-dlja-kotiv-wise-cat-duck-10-kg.jpg",
             "inStock" : "1",
             },
@@ -10477,7 +10477,7 @@ export const products = {
             "price" : "",
             "minCountUnit" : "10",
             "promotion" : "1",
-            "new-label" : "1",
+            "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/korma-dlja-tvarin\\4393-korm-dlja-kotiv-wise-cat-veal-10-kg.jpg",
             "inStock" : "1",
             },
@@ -10671,7 +10671,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "666" :  { 
             "category" : "Корма для тварин",
@@ -12302,4 +12302,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = ['4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', ]
+export const arrayPlannedArrival = ['4316', '3657', '4189', '4263', '4186', '4073', '4074', '4305', '4089', '4056', '4284', '4058', '4059', '4057', '596', '1062', ]
