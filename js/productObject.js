@@ -1,4 +1,4 @@
-// оновлено 08.04.26: 20:15:34.  Категория цены: БезЦен //
+// оновлено 09.04.26: 14:11:58.  Категория цены: БезЦен //
 export const products = {
 	"Konservi-mjasni" : {
         "1" :  { 
@@ -239,7 +239,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4385-tushonka-domashnja-svinina-525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "16" :  { 
             "category" : "Консерви м'ясні",
@@ -255,7 +255,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/konservi-mjasnye\\4384-tushonka-turistichna-jalovichina--525-gr.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "17" :  { 
             "category" : "Консерви м'ясні",
@@ -497,7 +497,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4379-olija-olivkova-tm-kalamata-zhb-1l.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "32" :  { 
             "category" : "Олія",
@@ -1347,7 +1347,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3448-karamel-tm-bayan-sulu-jabluko-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "85" :  { 
             "category" : "Кондитерські вироби",
@@ -1987,7 +1987,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/har'kov-hzpt\\cuk-vaf-assorti-multiki-flpak-jekran-25-k.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "125" :  { 
             "category" : "Кондитерські вироби",
@@ -2355,7 +2355,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\353-cukerki-magija-shodu-22kg-tm-golski.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "148" :  { 
             "category" : "Кондитерські вироби",
@@ -7333,7 +7333,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4266-majonez-tm-kuhar-rishelje-tri-jajcja-405proc-340g.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "458" :  { 
             "category" : "Соуси, майонези, кетчупи",
@@ -8603,7 +8603,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/voda-kujalnik-15lmin.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "537" :  { 
             "category" : "Вода, соки, напої",
@@ -9611,7 +9611,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-shveps-limon-075l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "600" :  { 
             "category" : "Вода, соки, напої",
@@ -10703,7 +10703,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/palochka-kormovaja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "668" :  { 
             "category" : "Корма для тварин",
@@ -11189,7 +11189,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kuraga-5-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "698" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11269,7 +11269,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4351-chornosliv-vjalenij-baxmal-forvard-5kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "703" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -11559,7 +11559,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/servetki-bili-lilija-30-listov.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "721" :  { 
             "category" : "Госп.товари",
@@ -11753,7 +11753,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/486-krishka-darinka-blok-50sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "733" :  { 
             "category" : "Тара та упаковка",
@@ -12153,7 +12153,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-pet-500g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "758" :  { 
             "category" : "Тара та упаковка",
@@ -12169,7 +12169,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/stakan-80-g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "759" :  { 
             "category" : "Тара та упаковка",
