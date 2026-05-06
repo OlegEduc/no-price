@@ -1,4 +1,4 @@
-// оновлено 06.05.26: 10:35:00.  Категория цены: БезЦен //
+// оновлено 06.05.26: 10:44:51.  Категория цены: БезЦен //
 export const products = {
 	"focusProduct" : {
         "1-4425"  :  { 
@@ -11,7 +11,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
@@ -27,7 +27,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
@@ -303,7 +303,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4425-vaf-trubochki-hrustik-smak-zguschen.jpg",
@@ -319,7 +319,7 @@ export const products = {
             "coefficient" : "1",
             "previousPrice" : "",
             "price" : "",
-            "minCountUnit" : "1",
+            "minCountUnit" : "5",
             "promotion" : "1",
             "new-label" : "2",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/gol'ski\\4426-vaf-trubochki-hrustik-smak-lisovogo-2.jpg",
