@@ -1,4 +1,4 @@
-// оновлено 14.05.26: 20:49:39.  Категория цены: БезЦен //
+// оновлено 18.05.26: 11:03:51.  Категория цены: БезЦен //
 export const products = {
 	"Zakuski-do-piva" : {
         "1" :  { 
@@ -15,7 +15,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4418-mjasni-smuzhki-parmezan-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "2" :  { 
             "category" : "Закуски до пива",
@@ -111,7 +111,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4413-slajsi-zi-svinini-hamon-solono-susheni.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "8" :  { 
             "category" : "Закуски до пива",
@@ -337,7 +337,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/vafel'ni-korzhi-veselka-lekorna-140g-velika.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "22" :  { 
             "category" : "Кондитерські вироби",
@@ -625,7 +625,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/bayan-sulu\\3442-karamel-tm-bayan-sulu-limon-1-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "40" :  { 
             "category" : "Кондитерські вироби",
@@ -2387,7 +2387,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/tm-oksamit\\prjanik-oksamit-vishnja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "150" :  { 
             "category" : "Печиво, пряники",
@@ -2643,7 +2643,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/nektar\\trubochki-kukurudzjani-boo-sticks-z-smakom-tiramisu-2-kg.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
 	},
 	"Konservi-mjasni" : {
@@ -3785,7 +3785,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/petrovs'ka-sloboda\\kava-petrovs'ka-sloboda-3-v1-vishnja.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "237" :  { 
             "category" : "Кава",
@@ -5213,7 +5213,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3027-perec-chornij-melenij-tm-mrija-20g.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "326" :  { 
             "category" : "Приправи та спеції",
@@ -6305,7 +6305,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/kmf-jaroslav\\4073-makvir-vermishel-tonka-05-kg.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "394" :  { 
             "category" : "Макаронні вироби",
@@ -8925,7 +8925,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/morshins'ka-slabo-gazovana-1-5l.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "557" :  { 
             "category" : "Вода, соки, напої",
@@ -9085,7 +9085,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4358-limonad-tm-vili-djushes-500ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "567" :  { 
             "category" : "Вода, соки, напої",
@@ -9101,7 +9101,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4359-limonad-tm-vili-tarhun-500ml.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "568" :  { 
             "category" : "Вода, соки, напої",
@@ -9549,7 +9549,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-pepsi-kola-033-l-zhb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "596" :  { 
             "category" : "Вода, соки, напої",
@@ -9773,7 +9773,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/napij-fanta-oranzh-033-l-zhb.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "610" :  { 
             "category" : "Вода, соки, напої",
@@ -10385,7 +10385,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/visivki-jachni-mishok.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "648" :  { 
             "category" : "Корма для тварин",
@@ -11107,7 +11107,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/4257-kulki-miks-mr-croco-75-gr-shokad-mol-zolote-zerno.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "693" :  { 
             "category" : "Снеки",
@@ -11479,7 +11479,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/3405-suhofrukti-virukraina.jpg",
-            "inStock" : "0",
+            "inStock" : "1",
             },
         "716" :  { 
             "category" : "Сухофрукти, горіхи",
@@ -12187,7 +12187,7 @@ export const products = {
             "promotion" : "1",
             "new-label" : "1",
             "imgSrc" : "https:\/\/olegeduc.github.io\/food-trade\/image\/paket-majka-24h42-100-sht.jpg",
-            "inStock" : "1",
+            "inStock" : "0",
             },
         "760" :  { 
             "category" : "Тара та упаковка",
@@ -12465,4 +12465,4 @@ export const productCategorys = {
 
 export const anouns = []
 
-export const arrayPlannedArrival = []
+export const arrayPlannedArrival = ['3500', '4425', '4426', '4339', '3845', '3519', '353', '3616', '4047', '3520', '3623', ]
